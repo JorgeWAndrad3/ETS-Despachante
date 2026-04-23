@@ -22,9 +22,9 @@ def bump():
         # 5. GitHub Release (Tag)
         subprocess.run(["gh", "release", "create", f"v{new_v}", "--title", f"Release v{new_v}", "--notes", "Nova versão automática do ETS Despachante."], check=True)
         
-        print(f"✅ Versão {new_v} lançada com sucesso no GitHub!")
+        print(f"SUCCESS: Versao {new_v} lancada com sucesso no GitHub!")
     except Exception as e:
-        print(f"❌ Erro ao lançar versão: {e}")
+        print(f"ERROR: Erro ao lancar versao: {e}")
 
 if __name__ == "__main__":
     bump()
