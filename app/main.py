@@ -79,13 +79,36 @@ def main(page: ft.Page):
         try:
             save_path = save_manager.base_path / "profiles" / profile_dd.value / "save" / save_dd.value / "game.sii"
             content = sii_native.decrypt_save(save_path)
+            
+            # 1. Extração de Cidades
             known_ids = list(service.cities.keys())
             discovered_cities_ids = sii_native.extract_cities(content, known_city_ids=known_ids)
             
+            # 2. Extração de Cargas
+            discovered_cargos_ids = sii_native.extract_cargos(content)
+            
+            # Adiciona cargas novas ao banco de dados dinamicamente
+            for cargo_id in discovered_cargos_ids:
+                if cargo_id not in service.cargos:
+                    # Gera um nome amigável (ex: cargo.apple -> Apple)
+                    display_name = cargo_id.replace("cargo.", "").replace("_", " ").title()
+                    service.add_cargo(Cargo(cargo_id, display_name, 10))
+            
+            # Atualiza Dropdowns
             update_city_dropdowns()
+            
+            # Atualiza Dropdown de Cargas (Ordem Alfabética)
+            all_cargos = sorted(service.cargos.values(), key=lambda x: x.name)
+            cargo_dd.options = [ft.dropdown.Option(c.id, c.name) for c in all_cargos]
+            
+            # Transição de tela
             profile_card.visible = False
             main_ui.visible = True
-            page.snack_bar = ft.SnackBar(ft.Text(f"✅ {len(discovered_cities_ids)} cidades carregadas!"), bgcolor=SUCCESS_COLOR)
+            
+            page.snack_bar = ft.SnackBar(
+                ft.Text(f"✅ {len(discovered_cities_ids)} cidades e {len(discovered_cargos_ids)} cargas carregadas!"), 
+                bgcolor=SUCCESS_COLOR
+            )
             page.snack_bar.open = True
             page.update()
         except Exception as err:

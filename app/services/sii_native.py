@@ -118,3 +118,17 @@ class SiiNativeService:
             
         print(f"DEBUG: {len(cities)} cidades validadas e encontradas.")
         return cities
+
+    def extract_cargos(self, content: bytes) -> set:
+        """
+        Extrai IDs de cargas do save binário usando varredura de bytes.
+        """
+        print("DEBUG: Iniciando varredura de cargas no binário...")
+        # Padrão: cargo. seguido de caracteres alfanuméricos e underscores
+        cargo_pattern = rb"cargo\.[a-z0-9_]+"
+        matches = re.findall(cargo_pattern, content)
+        
+        # Converte bytes para string e remove duplicatas
+        cargos = {m.decode('utf-8', errors='ignore') for m in matches}
+        print(f"DEBUG: {len(cargos)} IDs de carga encontrados via scanner.")
+        return cargos
