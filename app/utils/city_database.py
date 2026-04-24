@@ -9,7 +9,7 @@ CITY_DATA = {
             123949.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "halloween": {
         "name": "Brackenreach",
@@ -18,7 +18,7 @@ CITY_DATA = {
             97740.6
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "aalborg": {
         "name": "Aalborg",
@@ -27,7 +27,7 @@ CITY_DATA = {
             -35995.1
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "aarhus": {
         "name": "Aarhus",
@@ -36,7 +36,7 @@ CITY_DATA = {
             -30744.9
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "aberdeen": {
         "name": "Aberdeen",
@@ -45,7 +45,7 @@ CITY_DATA = {
             -55270.3
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "a": {
         "name": "A Coruna",
@@ -54,7 +54,7 @@ CITY_DATA = {
             26714.3
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "airolo": {
         "name": "Airolo",
@@ -63,7 +63,7 @@ CITY_DATA = {
             22977.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "akranes": {
         "name": "Akranes",
@@ -72,7 +72,7 @@ CITY_DATA = {
             -101511.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "akureyri": {
         "name": "Akureyri",
@@ -81,7 +81,7 @@ CITY_DATA = {
             -101575.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "alajarvi": {
         "name": "Alajärvi",
@@ -90,7 +90,7 @@ CITY_DATA = {
             -70673.2
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "albacete": {
         "name": "Albacete",
@@ -99,7 +99,7 @@ CITY_DATA = {
             58465.1
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "alesund": {
         "name": "Ålesund",
@@ -108,7 +108,7 @@ CITY_DATA = {
             -67160.3
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "algeciras": {
         "name": "Algeciras",
@@ -117,7 +117,7 @@ CITY_DATA = {
             70281.5
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "almaraz": {
         "name": "Almaraz",
@@ -126,7 +126,7 @@ CITY_DATA = {
             49536.4
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "almeria": {
         "name": "Almeria",
@@ -135,7 +135,7 @@ CITY_DATA = {
             69261.1
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "alta": {
         "name": "Alta",
@@ -144,7 +144,7 @@ CITY_DATA = {
             -112629.4
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "amsterdam": {
         "name": "Amsterdam",
@@ -153,7 +153,7 @@ CITY_DATA = {
             -11736.2
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["lkwlog"]
     },
     "andenes": {
         "name": "Andenes",
@@ -162,7 +162,7 @@ CITY_DATA = {
             -108481.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "andorra": {
         "name": "Andorra la Vella",
@@ -171,7 +171,7 @@ CITY_DATA = {
             42009.7
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "antwerp": {
         "name": "Antwerpen",
@@ -180,7 +180,7 @@ CITY_DATA = {
             -5680.766
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "arad": {
         "name": "Arad",
@@ -189,7 +189,7 @@ CITY_DATA = {
             24603.7
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "are": {
         "name": "Åre",
@@ -198,7 +198,7 @@ CITY_DATA = {
             -71472.14
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "argostoli": {
         "name": "Αργοστόλι",
@@ -207,7 +207,7 @@ CITY_DATA = {
             71521.2
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "arnhem": {
         "name": "Arnhem",
@@ -216,7 +216,7 @@ CITY_DATA = {
             -8798.42
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "arvidsjaur": {
         "name": "Arvidsjaur",
@@ -225,7 +225,7 @@ CITY_DATA = {
             -83892.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "athens": {
         "name": "Αθήνα",
@@ -234,7 +234,7 @@ CITY_DATA = {
             69993.6
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "augustow": {
         "name": "Augustów",
@@ -243,7 +243,7 @@ CITY_DATA = {
             -19101.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "aurach": {
         "name": "Aurach",
@@ -252,7 +252,7 @@ CITY_DATA = {
             8251.44
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "bacau": {
         "name": "Bacău",
@@ -261,7 +261,7 @@ CITY_DATA = {
             18494.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "bado": {
         "name": "Bad Oeynhausen",
@@ -270,7 +270,7 @@ CITY_DATA = {
             -9493.73
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "bakkebolle": {
         "name": "Bakkebølle",
@@ -279,7 +279,7 @@ CITY_DATA = {
             -24234.5
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "baiamare": {
         "name": "Baia Mare",
@@ -288,7 +288,7 @@ CITY_DATA = {
             15764.6
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "balvi": {
         "name": "Balvi",
@@ -297,7 +297,7 @@ CITY_DATA = {
             -39503.85
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "barcelona": {
         "name": "Barcelona",
@@ -306,7 +306,7 @@ CITY_DATA = {
             48093.5
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "basel": {
         "name": "Basel",
@@ -315,7 +315,7 @@ CITY_DATA = {
             17001.7
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "bayonne": {
         "name": "Bayonne",
@@ -324,7 +324,7 @@ CITY_DATA = {
             33499.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "bbiala": {
         "name": "Bielsko-Biała",
@@ -333,7 +333,7 @@ CITY_DATA = {
             5749.52
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "belfast": {
         "name": "Belfast",
@@ -342,7 +342,7 @@ CITY_DATA = {
             -41394.61
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "bergen": {
         "name": "Bergen",
@@ -351,7 +351,7 @@ CITY_DATA = {
             -55447.4
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "berlin": {
         "name": "Berlin",
@@ -360,7 +360,7 @@ CITY_DATA = {
             -9903.56
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "posped", "ika_bohag"]
     },
     "bern": {
         "name": "Bern",
@@ -369,7 +369,7 @@ CITY_DATA = {
             20130.1
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "bialystok": {
         "name": "Białystok",
@@ -378,7 +378,7 @@ CITY_DATA = {
             -15083.4
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "bilbao": {
         "name": "Bilbao",
@@ -387,7 +387,7 @@ CITY_DATA = {
             32949.6
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "birmingham": {
         "name": "Birmingham",
@@ -396,7 +396,7 @@ CITY_DATA = {
             -20423.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["stokes"]
     },
     "birsay": {
         "name": "Birsay",
@@ -405,7 +405,7 @@ CITY_DATA = {
             -69406.5
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "blagoevgrad": {
         "name": "Благоевград",
@@ -414,7 +414,7 @@ CITY_DATA = {
             46605.68
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "blonduos": {
         "name": "Blönduós",
@@ -423,7 +423,7 @@ CITY_DATA = {
             -104774.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "bodo": {
         "name": "Bodø",
@@ -432,7 +432,7 @@ CITY_DATA = {
             -93658.7
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "bologna": {
         "name": "Bologna",
@@ -441,7 +441,7 @@ CITY_DATA = {
             34717.7
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "bolungarvik": {
         "name": "Bolungarvík",
@@ -450,7 +450,7 @@ CITY_DATA = {
             -112100.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "bonn": {
         "name": "Bonn",
@@ -459,7 +459,7 @@ CITY_DATA = {
             -467.13
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "borgarnes": {
         "name": "Borgarnes",
@@ -468,7 +468,7 @@ CITY_DATA = {
             -102462.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "borlange": {
         "name": "Borlänge",
@@ -477,7 +477,7 @@ CITY_DATA = {
             -54327.3
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "bratislava": {
         "name": "Bratislava",
@@ -486,7 +486,7 @@ CITY_DATA = {
             14831.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "bremen": {
         "name": "Bremen",
@@ -495,7 +495,7 @@ CITY_DATA = {
             -14099.2
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies"]
     },
     "bremerhaven": {
         "name": "Bremerhaven",
@@ -504,7 +504,7 @@ CITY_DATA = {
             -16976.6
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "brno": {
         "name": "Brno",
@@ -513,7 +513,7 @@ CITY_DATA = {
             8964.95
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["lkwlog"]
     },
     "broadford": {
         "name": "Broadford",
@@ -522,7 +522,7 @@ CITY_DATA = {
             -59401.6
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "brugge": {
         "name": "Brugge",
@@ -531,7 +531,7 @@ CITY_DATA = {
             -5502.55
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "brussel": {
         "name": "Brussel",
@@ -540,7 +540,7 @@ CITY_DATA = {
             -2415.148
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "bucuresti": {
         "name": "București",
@@ -549,7 +549,7 @@ CITY_DATA = {
             31703.6
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "budapest": {
         "name": "Budapest",
@@ -558,7 +558,7 @@ CITY_DATA = {
             17882.7
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "burg": {
         "name": "Burg a. Fehmarn",
@@ -567,7 +567,7 @@ CITY_DATA = {
             -21142.2
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "burgos": {
         "name": "Burgos",
@@ -576,7 +576,7 @@ CITY_DATA = {
             37727.1
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "bydgoszcz": {
         "name": "Bydgoszcz",
@@ -585,7 +585,7 @@ CITY_DATA = {
             -13850.1
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "byvallen": {
         "name": "Byvallen",
@@ -594,7 +594,7 @@ CITY_DATA = {
             -61807.1
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "bystrica": {
         "name": "Banská Bystrica",
@@ -603,7 +603,7 @@ CITY_DATA = {
             10680.5
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "calais": {
         "name": "Calais",
@@ -612,7 +612,7 @@ CITY_DATA = {
             -4985.64
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "cambridge": {
         "name": "Cambridge",
@@ -621,7 +621,7 @@ CITY_DATA = {
             -16119.4
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "canterbury": {
         "name": "Canterbury",
@@ -630,7 +630,7 @@ CITY_DATA = {
             -8782.05
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "cardiff": {
         "name": "Cardiff",
@@ -639,7 +639,7 @@ CITY_DATA = {
             -14698.4
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["posped"]
     },
     "carlisle": {
         "name": "Carlisle",
@@ -648,7 +648,7 @@ CITY_DATA = {
             -39573.5
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "chania": {
         "name": "Χανιά",
@@ -657,7 +657,7 @@ CITY_DATA = {
             84933.6
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "chelmsford": {
         "name": "Chelmsford",
@@ -666,7 +666,7 @@ CITY_DATA = {
             -12878.6
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "cherb": {
         "name": "Cherbourg",
@@ -675,7 +675,7 @@ CITY_DATA = {
             -447.961
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "chernyakh": {
         "name": "Черняховск (Chernyakhovsk)",
@@ -684,7 +684,7 @@ CITY_DATA = {
             -23167.04
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "chios": {
         "name": "Χίος",
@@ -693,7 +693,7 @@ CITY_DATA = {
             66274.3
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "cieszyn": {
         "name": "Cieszyn",
@@ -702,7 +702,7 @@ CITY_DATA = {
             6348.3
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "clermont": {
         "name": "Clermont-Ferrand",
@@ -711,7 +711,7 @@ CITY_DATA = {
             24698.4
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "cluj": {
         "name": "Cluj-Napoca",
@@ -720,7 +720,7 @@ CITY_DATA = {
             18277.2
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "constanta": {
         "name": "Constanța",
@@ -729,7 +729,7 @@ CITY_DATA = {
             30870.9
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "craiova": {
         "name": "Craiova",
@@ -738,7 +738,7 @@ CITY_DATA = {
             33228.5
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "croydon": {
         "name": "Croydon",
@@ -747,7 +747,7 @@ CITY_DATA = {
             -10454.6
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "debrecen": {
         "name": "Debrecen",
@@ -756,7 +756,7 @@ CITY_DATA = {
             17483.7
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "dijon": {
         "name": "Dijon",
@@ -765,7 +765,7 @@ CITY_DATA = {
             16721.5
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "dombas": {
         "name": "Dombås",
@@ -774,7 +774,7 @@ CITY_DATA = {
             -64839.7
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "donostia": {
         "name": "San Sebastian/Donostia",
@@ -783,7 +783,7 @@ CITY_DATA = {
             34870.4
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "dorotea": {
         "name": "Dorotea",
@@ -792,7 +792,7 @@ CITY_DATA = {
             -76524.2
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "dortmund": {
         "name": "Dortmund",
@@ -801,7 +801,7 @@ CITY_DATA = {
             -5598.41
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["lkwlog"]
     },
     "douglas": {
         "name": "Douglas",
@@ -810,7 +810,7 @@ CITY_DATA = {
             -35572.3
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "dover": {
         "name": "Dover",
@@ -819,7 +819,7 @@ CITY_DATA = {
             -7884.36
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "dresden": {
         "name": "Dresden",
@@ -828,7 +828,7 @@ CITY_DATA = {
             -1606.27
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["stokes", "posped"]
     },
     "dublin": {
         "name": "Dublin",
@@ -837,7 +837,7 @@ CITY_DATA = {
             -31834.84
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "duisburg": {
         "name": "Duisburg",
@@ -846,7 +846,7 @@ CITY_DATA = {
             -6170.93
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "dumfries": {
         "name": "Dumfries",
@@ -855,7 +855,7 @@ CITY_DATA = {
             -41245.35
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "dusseldorf": {
         "name": "Düsseldorf",
@@ -864,7 +864,7 @@ CITY_DATA = {
             -4399.6
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "edinburgh": {
         "name": "Edinburgh",
@@ -873,7 +873,7 @@ CITY_DATA = {
             -47219.7
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "eindhoven": {
         "name": "Eindhoven",
@@ -882,7 +882,7 @@ CITY_DATA = {
             -6355.64
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "elblag": {
         "name": "Elbląg",
@@ -891,7 +891,7 @@ CITY_DATA = {
             -19463.05
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "elk": {
         "name": "Ełk",
@@ -900,7 +900,7 @@ CITY_DATA = {
             -18755.07
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "erfurt": {
         "name": "Erfurt",
@@ -909,7 +909,7 @@ CITY_DATA = {
             -1733.77
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "esbjerg": {
         "name": "Esbjerg",
@@ -918,7 +918,7 @@ CITY_DATA = {
             -27555.9
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "europoort": {
         "name": "Europoort",
@@ -927,7 +927,7 @@ CITY_DATA = {
             -8987.42
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "evie": {
         "name": "Evie",
@@ -936,7 +936,7 @@ CITY_DATA = {
             -69291.6
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "falun": {
         "name": "Falun",
@@ -945,7 +945,7 @@ CITY_DATA = {
             -56060.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "fauske": {
         "name": "Fauske",
@@ -954,7 +954,7 @@ CITY_DATA = {
             -94905.7
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "felixstowe": {
         "name": "Felixstowe",
@@ -963,7 +963,7 @@ CITY_DATA = {
             -13837.2
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "fishguard": {
         "name": "Fishguard",
@@ -972,7 +972,7 @@ CITY_DATA = {
             -20395.5
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "firenze": {
         "name": "Firenze",
@@ -981,7 +981,7 @@ CITY_DATA = {
             38929.3
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "flensburg": {
         "name": "Flensburg",
@@ -990,7 +990,7 @@ CITY_DATA = {
             -22997.3
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "folkestone": {
         "name": "Folkestone",
@@ -999,7 +999,7 @@ CITY_DATA = {
             -6947.11
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "forst": {
         "name": "Forst (Lausitz)",
@@ -1008,7 +1008,7 @@ CITY_DATA = {
             -5789.273
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "frankfurt": {
         "name": "Frankfurt am Main",
@@ -1017,7 +1017,7 @@ CITY_DATA = {
             2633.59
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["lkwlog"]
     },
     "fraserburgh": {
         "name": "Fraserburgh",
@@ -1026,7 +1026,7 @@ CITY_DATA = {
             -58295.03
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "frederikshv": {
         "name": "Frederikshavn",
@@ -1035,7 +1035,7 @@ CITY_DATA = {
             -38141.5
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "ftwilliam": {
         "name": "Fort William",
@@ -1044,7 +1044,7 @@ CITY_DATA = {
             -56132.7
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "freiburg": {
         "name": "Freiburg im Breisgau",
@@ -1053,7 +1053,7 @@ CITY_DATA = {
             11488.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "furth": {
         "name": "Fürth",
@@ -1062,7 +1062,7 @@ CITY_DATA = {
             5970.42
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "gaellivare": {
         "name": "Gällivare",
@@ -1071,7 +1071,7 @@ CITY_DATA = {
             -92701.2
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "galway": {
         "name": "Galway",
@@ -1080,7 +1080,7 @@ CITY_DATA = {
             -35578.97
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "gavle": {
         "name": "Gävle",
@@ -1089,7 +1089,7 @@ CITY_DATA = {
             -56164.7
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "gdansk": {
         "name": "Gdańsk",
@@ -1098,7 +1098,7 @@ CITY_DATA = {
             -20619.5
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "gdynia": {
         "name": "Gdynia",
@@ -1107,7 +1107,7 @@ CITY_DATA = {
             -22045.9
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "gedser": {
         "name": "Gedser",
@@ -1116,7 +1116,7 @@ CITY_DATA = {
             -22000.33
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "geneve": {
         "name": "Genève",
@@ -1125,7 +1125,7 @@ CITY_DATA = {
             23717.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "genova": {
         "name": "Genova",
@@ -1134,7 +1134,7 @@ CITY_DATA = {
             34875.6
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "glasgow": {
         "name": "Glasgow",
@@ -1143,7 +1143,7 @@ CITY_DATA = {
             -48471.6
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "gorzow": {
         "name": "Gorzów Wlkp.",
@@ -1152,7 +1152,7 @@ CITY_DATA = {
             -11074.3
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "goteborg": {
         "name": "Göteborg",
@@ -1161,7 +1161,7 @@ CITY_DATA = {
             -40227.5
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "graz": {
         "name": "Graz",
@@ -1170,7 +1170,7 @@ CITY_DATA = {
             20552.7
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "grimsby": {
         "name": "Grimsby",
@@ -1179,7 +1179,7 @@ CITY_DATA = {
             -26575.2
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "groedig": {
         "name": "Grödig",
@@ -1188,7 +1188,7 @@ CITY_DATA = {
             16688.1
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "groningen": {
         "name": "Groningen",
@@ -1197,7 +1197,7 @@ CITY_DATA = {
             -15700.68
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "grudziadz": {
         "name": "Grudziądz",
@@ -1206,7 +1206,7 @@ CITY_DATA = {
             -16550.4
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "gulbene": {
         "name": "Gulbene",
@@ -1215,7 +1215,7 @@ CITY_DATA = {
             -39194.3
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "gyor": {
         "name": "Györ",
@@ -1224,7 +1224,7 @@ CITY_DATA = {
             17105.46
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "haapsalu": {
         "name": "Haapsalu",
@@ -1233,7 +1233,7 @@ CITY_DATA = {
             -47857.6
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "halle": {
         "name": "Halle (Saale)",
@@ -1242,7 +1242,7 @@ CITY_DATA = {
             -5407.88
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "hamar": {
         "name": "Hamar",
@@ -1251,7 +1251,7 @@ CITY_DATA = {
             -57373.8
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "hamburg": {
         "name": "Hamburg",
@@ -1260,7 +1260,7 @@ CITY_DATA = {
             -16335.5
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["stokes"]
     },
     "hameenlinna": {
         "name": "Hämeenlinna",
@@ -1269,7 +1269,7 @@ CITY_DATA = {
             -59899.2
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "hammerdal": {
         "name": "Hammerdal",
@@ -1278,7 +1278,7 @@ CITY_DATA = {
             -72450.2
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "hannover": {
         "name": "Hannover",
@@ -1287,7 +1287,7 @@ CITY_DATA = {
             -8916.4
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "haparanda": {
         "name": "Haparanda",
@@ -1296,7 +1296,7 @@ CITY_DATA = {
             -86732.9
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "heilbronn": {
         "name": "Heilbronn",
@@ -1305,7 +1305,7 @@ CITY_DATA = {
             8009.55
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "helsingborg": {
         "name": "Helsingborg",
@@ -1314,7 +1314,7 @@ CITY_DATA = {
             -29882.4
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "heraklion": {
         "name": "Ηράκλειο",
@@ -1323,7 +1323,7 @@ CITY_DATA = {
             85699.7
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "herning": {
         "name": "Herning",
@@ -1332,7 +1332,7 @@ CITY_DATA = {
             -30797.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "hiorthhamn": {
         "name": "Hiorthhamn",
@@ -1341,7 +1341,7 @@ CITY_DATA = {
             -163145.2
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "hirtshals": {
         "name": "Hirtshals",
@@ -1350,7 +1350,7 @@ CITY_DATA = {
             -38873.3
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "hofn": {
         "name": "Höfn",
@@ -1359,7 +1359,7 @@ CITY_DATA = {
             -88514.8
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "holmavik": {
         "name": "Hólmavík",
@@ -1368,7 +1368,7 @@ CITY_DATA = {
             -106902.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "holstebro": {
         "name": "Holstebro",
@@ -1377,7 +1377,7 @@ CITY_DATA = {
             -32659.8
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "holyhead": {
         "name": "Holyhead",
@@ -1386,7 +1386,7 @@ CITY_DATA = {
             -30171.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "honningsvag": {
         "name": "Honningsvåg",
@@ -1395,7 +1395,7 @@ CITY_DATA = {
             -118483.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "hradec": {
         "name": "Hradec Králové",
@@ -1404,7 +1404,7 @@ CITY_DATA = {
             2817.289
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "huelva": {
         "name": "Huelva",
@@ -1413,7 +1413,7 @@ CITY_DATA = {
             62584.29
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "huesca": {
         "name": "Huesca",
@@ -1422,7 +1422,7 @@ CITY_DATA = {
             43817.16
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "hull": {
         "name": "Hull",
@@ -1431,7 +1431,7 @@ CITY_DATA = {
             -29239.1
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "ijmuiden": {
         "name": "IJmuiden",
@@ -1440,7 +1440,7 @@ CITY_DATA = {
             -12077.1
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "innsbruck": {
         "name": "Innsbruck",
@@ -1449,7 +1449,7 @@ CITY_DATA = {
             19214.1
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies"]
     },
     "inverness": {
         "name": "Inverness",
@@ -1458,7 +1458,7 @@ CITY_DATA = {
             -59141.8
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "ioannina": {
         "name": "Ιωάννινα",
@@ -1467,7 +1467,7 @@ CITY_DATA = {
             61500.4
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "irun": {
         "name": "Irun",
@@ -1476,7 +1476,7 @@ CITY_DATA = {
             35051.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "isafjordur": {
         "name": "Ísafjörður",
@@ -1485,7 +1485,7 @@ CITY_DATA = {
             -111213.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "ivalo": {
         "name": "Ivalo",
@@ -1494,7 +1494,7 @@ CITY_DATA = {
             -106997.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "jekabpils": {
         "name": "Jēkabpils",
@@ -1503,7 +1503,7 @@ CITY_DATA = {
             -34794.42
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "joensuu": {
         "name": "Joensuu",
@@ -1512,7 +1512,7 @@ CITY_DATA = {
             -72269.4
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "jonkoping": {
         "name": "Jönköping",
@@ -1521,7 +1521,7 @@ CITY_DATA = {
             -39575.6
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "jonquera": {
         "name": "La Jonquera",
@@ -1530,7 +1530,7 @@ CITY_DATA = {
             44330.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "jyvaskyla": {
         "name": "Jyväskylä",
@@ -1539,7 +1539,7 @@ CITY_DATA = {
             -67197.3
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kaaresuvanto": {
         "name": "Kaaresuvanto",
@@ -1548,7 +1548,7 @@ CITY_DATA = {
             -103122.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kabdalis": {
         "name": "Kabdalis",
@@ -1557,7 +1557,7 @@ CITY_DATA = {
             -87772.4
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kajaani": {
         "name": "Kajaani",
@@ -1566,7 +1566,7 @@ CITY_DATA = {
             -79059.1
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kalamata": {
         "name": "Καλαμάτα",
@@ -1575,7 +1575,7 @@ CITY_DATA = {
             77064.9
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kalmar": {
         "name": "Kalmar",
@@ -1584,7 +1584,7 @@ CITY_DATA = {
             -33634.5
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kardla": {
         "name": "Kärdla",
@@ -1593,7 +1593,7 @@ CITY_DATA = {
             -47985.5
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "karesuando": {
         "name": "Karesuando",
@@ -1602,7 +1602,7 @@ CITY_DATA = {
             -102857.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "karlskrona": {
         "name": "Karlskrona",
@@ -1611,7 +1611,7 @@ CITY_DATA = {
             -30862.4
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "karlstad": {
         "name": "Karlstad",
@@ -1620,7 +1620,7 @@ CITY_DATA = {
             -48643.2
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "karsamaki": {
         "name": "Kärsämäki",
@@ -1629,7 +1629,7 @@ CITY_DATA = {
             -77032.8
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kassel": {
         "name": "Kassel",
@@ -1638,7 +1638,7 @@ CITY_DATA = {
             -3898.7
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "katowice": {
         "name": "Katowice",
@@ -1647,7 +1647,7 @@ CITY_DATA = {
             2458.83
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kavala": {
         "name": "Καβάλα",
@@ -1656,7 +1656,7 @@ CITY_DATA = {
             52360.8
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "keflavik": {
         "name": "Keflavík Airport",
@@ -1665,7 +1665,7 @@ CITY_DATA = {
             -98004.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kemi": {
         "name": "Kemi",
@@ -1674,7 +1674,7 @@ CITY_DATA = {
             -85560.6
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kemijarvi": {
         "name": "Kemijärvi",
@@ -1683,7 +1683,7 @@ CITY_DATA = {
             -92994.8
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kiel": {
         "name": "Kiel",
@@ -1692,7 +1692,7 @@ CITY_DATA = {
             -20826.7
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kielce": {
         "name": "Kielce",
@@ -1701,7 +1701,7 @@ CITY_DATA = {
             -1011.63
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kirkwall": {
         "name": "Kirkwall",
@@ -1710,7 +1710,7 @@ CITY_DATA = {
             -68910.3
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kiruna": {
         "name": "Kiruna",
@@ -1719,7 +1719,7 @@ CITY_DATA = {
             -98263.8
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "klagenfurt": {
         "name": "Klagenfurt am Wörthersee",
@@ -1728,7 +1728,7 @@ CITY_DATA = {
             23027.6
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "klaksvik": {
         "name": "Klaksvík",
@@ -1737,7 +1737,7 @@ CITY_DATA = {
             -83155.7
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kobenhavn": {
         "name": "København",
@@ -1746,7 +1746,7 @@ CITY_DATA = {
             -27923.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["ika_bohag"]
     },
     "koblenz": {
         "name": "Koblenz",
@@ -1755,7 +1755,7 @@ CITY_DATA = {
             1411.76
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kokkola": {
         "name": "Kokkola",
@@ -1764,7 +1764,7 @@ CITY_DATA = {
             -74942.5
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kolding": {
         "name": "Kolding",
@@ -1773,7 +1773,7 @@ CITY_DATA = {
             -27181.4
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kolka": {
         "name": "Kolka",
@@ -1782,7 +1782,7 @@ CITY_DATA = {
             -40718.97
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "koln": {
         "name": "Köln",
@@ -1791,7 +1791,7 @@ CITY_DATA = {
             -2732.75
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "koper": {
         "name": "Koper",
@@ -1800,7 +1800,7 @@ CITY_DATA = {
             29456.66
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kosice": {
         "name": "Košice",
@@ -1809,7 +1809,7 @@ CITY_DATA = {
             10494.4
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "koszalin": {
         "name": "Koszalin",
@@ -1818,7 +1818,7 @@ CITY_DATA = {
             -19548.9
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "krafla": {
         "name": "Krafla",
@@ -1827,7 +1827,7 @@ CITY_DATA = {
             -99684.3
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "krakow": {
         "name": "Kraków",
@@ -1836,7 +1836,7 @@ CITY_DATA = {
             3249.68
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kristiansand": {
         "name": "Kristiansand",
@@ -1845,7 +1845,7 @@ CITY_DATA = {
             -42891.5
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kristiansund": {
         "name": "Kristiansund",
@@ -1854,7 +1854,7 @@ CITY_DATA = {
             -71305.13
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kristianstad": {
         "name": "Kristianstad",
@@ -1863,7 +1863,7 @@ CITY_DATA = {
             -29967.9
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kristiinank": {
         "name": "Kristiinankaupunki",
@@ -1872,7 +1872,7 @@ CITY_DATA = {
             -66055.6
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "krosno": {
         "name": "Krosno",
@@ -1881,7 +1881,7 @@ CITY_DATA = {
             4645.48
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kuopio": {
         "name": "Kuopio",
@@ -1890,7 +1890,7 @@ CITY_DATA = {
             -71794.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kuressaare": {
         "name": "Kuressaare",
@@ -1899,7 +1899,7 @@ CITY_DATA = {
             -43361.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kuusamo": {
         "name": "Kuusamo",
@@ -1908,7 +1908,7 @@ CITY_DATA = {
             -89679.4
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "lamia": {
         "name": "Λαμία",
@@ -1917,7 +1917,7 @@ CITY_DATA = {
             65483.1
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "lappeenranta": {
         "name": "Lappeenranta",
@@ -1926,7 +1926,7 @@ CITY_DATA = {
             -63232.1
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "larissa": {
         "name": "Λάρισα",
@@ -1935,7 +1935,7 @@ CITY_DATA = {
             62125.7
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "lillehammer": {
         "name": "Lillehammer",
@@ -1944,7 +1944,7 @@ CITY_DATA = {
             -59429.31
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "lleida": {
         "name": "Lleida",
@@ -1953,7 +1953,7 @@ CITY_DATA = {
             46568.61
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "leipzig": {
         "name": "Leipzig",
@@ -1962,7 +1962,7 @@ CITY_DATA = {
             -3384.61
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["posped"]
     },
     "libramont": {
         "name": "Libramont-Chevigny",
@@ -1971,7 +1971,7 @@ CITY_DATA = {
             1442.6846
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "liege": {
         "name": "Liège",
@@ -1980,7 +1980,7 @@ CITY_DATA = {
             -844.0664
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "liepaja": {
         "name": "Liepāja",
@@ -1989,7 +1989,7 @@ CITY_DATA = {
             -33348.1
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "lille": {
         "name": "Lille",
@@ -1998,7 +1998,7 @@ CITY_DATA = {
             -2483.4
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "limerick": {
         "name": "Limerick (Luimneach)",
@@ -2007,7 +2007,7 @@ CITY_DATA = {
             -30004.85
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "linkoping": {
         "name": "Linköping",
@@ -2016,7 +2016,7 @@ CITY_DATA = {
             -43325.2
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "linz": {
         "name": "Linz",
@@ -2025,7 +2025,7 @@ CITY_DATA = {
             15754.6
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "lisburn": {
         "name": "Lisburn",
@@ -2034,7 +2034,7 @@ CITY_DATA = {
             -40179.05
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "liverpool": {
         "name": "Liverpool",
@@ -2043,7 +2043,7 @@ CITY_DATA = {
             -29091.8
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies"]
     },
     "livorno": {
         "name": "Livorno",
@@ -2052,7 +2052,7 @@ CITY_DATA = {
             40352.3
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "lodz": {
         "name": "Łódź",
@@ -2061,7 +2061,7 @@ CITY_DATA = {
             -6276.34
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "london": {
         "name": "London",
@@ -2070,7 +2070,7 @@ CITY_DATA = {
             -11564.2
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "posped"]
     },
     "londonderry": {
         "name": "Londonderry",
@@ -2079,7 +2079,7 @@ CITY_DATA = {
             -45948.3
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "longyearbyen": {
         "name": "Longyearbyen",
@@ -2088,7 +2088,7 @@ CITY_DATA = {
             -161887.1
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "lublin": {
         "name": "Lublin",
@@ -2097,7 +2097,7 @@ CITY_DATA = {
             -3967.52
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "lulea": {
         "name": "Luleå",
@@ -2106,7 +2106,7 @@ CITY_DATA = {
             -84747.6
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "luxembourg": {
         "name": "Luxembourg",
@@ -2115,7 +2115,7 @@ CITY_DATA = {
             3665.301
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "lyon": {
         "name": "Lyon",
@@ -2124,7 +2124,7 @@ CITY_DATA = {
             25892.3
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "batisse", "kaarfor"]
     },
     "maastricht": {
         "name": "Maastricht",
@@ -2133,7 +2133,7 @@ CITY_DATA = {
             -3208.71
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "magdeburg": {
         "name": "Magdeburg",
@@ -2142,7 +2142,7 @@ CITY_DATA = {
             -7752.3
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "mainz": {
         "name": "Mainz",
@@ -2151,7 +2151,7 @@ CITY_DATA = {
             2678.53
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "malmo": {
         "name": "Malmö",
@@ -2160,7 +2160,7 @@ CITY_DATA = {
             -27481.2
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "manchester": {
         "name": "Manchester",
@@ -2169,7 +2169,7 @@ CITY_DATA = {
             -27815.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes"]
     },
     "mannheim": {
         "name": "Mannheim",
@@ -2178,7 +2178,7 @@ CITY_DATA = {
             6075.05
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "manresa": {
         "name": "Manresa",
@@ -2187,7 +2187,7 @@ CITY_DATA = {
             46488.6
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "mariehamn": {
         "name": "Mariehamn",
@@ -2196,7 +2196,7 @@ CITY_DATA = {
             -52861.73
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "mengibar": {
         "name": "Mengibar",
@@ -2205,7 +2205,7 @@ CITY_DATA = {
             63139.8
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "metz": {
         "name": "Metz",
@@ -2214,7 +2214,7 @@ CITY_DATA = {
             7463.71
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "mikkeli": {
         "name": "Mikkeli",
@@ -2223,7 +2223,7 @@ CITY_DATA = {
             -64918.8
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "milano": {
         "name": "Milano",
@@ -2232,7 +2232,7 @@ CITY_DATA = {
             28982.8
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["lkwlog", "sellplan"]
     },
     "mitilini": {
         "name": "Μυτιλήνη",
@@ -2241,7 +2241,7 @@ CITY_DATA = {
             61970.7
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "mlada": {
         "name": "Mladá Boleslav",
@@ -2250,7 +2250,7 @@ CITY_DATA = {
             1804.367
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "modena": {
         "name": "Modena",
@@ -2259,7 +2259,7 @@ CITY_DATA = {
             34033.2
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "mo": {
         "name": "Mo i Rana",
@@ -2268,7 +2268,7 @@ CITY_DATA = {
             -87673.5
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "mosjoen": {
         "name": "Mosjoen",
@@ -2277,7 +2277,7 @@ CITY_DATA = {
             -86771.5
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "mukacheve": {
         "name": "Мукачеве (Mukacheve)",
@@ -2286,7 +2286,7 @@ CITY_DATA = {
             11834.6
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "munchen": {
         "name": "München",
@@ -2295,7 +2295,7 @@ CITY_DATA = {
             14133.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["lkwlog"]
     },
     "narbonne": {
         "name": "Narbonne",
@@ -2304,7 +2304,7 @@ CITY_DATA = {
             38783.3
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "narvik": {
         "name": "Narvik",
@@ -2313,7 +2313,7 @@ CITY_DATA = {
             -102229.8
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "newcastle": {
         "name": "Newcastle-upon-Tyne",
@@ -2322,7 +2322,7 @@ CITY_DATA = {
             -38787.7
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "nowogard": {
         "name": "Nowogard",
@@ -2331,7 +2331,7 @@ CITY_DATA = {
             -16557.9
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "nurnberg": {
         "name": "Nürnberg",
@@ -2340,7 +2340,7 @@ CITY_DATA = {
             6221.02
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "nynashamn": {
         "name": "Nynäshamn",
@@ -2349,7 +2349,7 @@ CITY_DATA = {
             -46165.7
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "oban": {
         "name": "Oban",
@@ -2358,7 +2358,7 @@ CITY_DATA = {
             -53472.1
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "oberhausen": {
         "name": "Oberhausen",
@@ -2367,7 +2367,7 @@ CITY_DATA = {
             -5322.95
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "odense": {
         "name": "Odense",
@@ -2376,7 +2376,7 @@ CITY_DATA = {
             -26700.4
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "ogre": {
         "name": "Ogre",
@@ -2385,7 +2385,7 @@ CITY_DATA = {
             -35785.24
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "olsztyn": {
         "name": "Olsztyn",
@@ -2394,7 +2394,7 @@ CITY_DATA = {
             -17885.9
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "opole": {
         "name": "Opole",
@@ -2403,7 +2403,7 @@ CITY_DATA = {
             -679.391
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "oppdal": {
         "name": "Oppdal",
@@ -2412,7 +2412,7 @@ CITY_DATA = {
             -67492.96
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "oradea": {
         "name": "Oradea",
@@ -2421,7 +2421,7 @@ CITY_DATA = {
             19397.16
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "orebro": {
         "name": "Örebro",
@@ -2430,7 +2430,7 @@ CITY_DATA = {
             -48374.7
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "orkanger": {
         "name": "Orkanger",
@@ -2439,7 +2439,7 @@ CITY_DATA = {
             -70840.44
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "orlea": {
         "name": "Orléans",
@@ -2448,7 +2448,7 @@ CITY_DATA = {
             11781.6
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "ornskoldsvik": {
         "name": "Örnsköldsvik",
@@ -2457,7 +2457,7 @@ CITY_DATA = {
             -70706.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "oslo": {
         "name": "Oslo",
@@ -2466,7 +2466,7 @@ CITY_DATA = {
             -53410.5
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["ika_bohag"]
     },
     "osnabruck": {
         "name": "Osnabrück",
@@ -2475,7 +2475,7 @@ CITY_DATA = {
             -9841.73
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "ostersund": {
         "name": "Östersund",
@@ -2484,7 +2484,7 @@ CITY_DATA = {
             -70178.2
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "ostrava": {
         "name": "Ostrava",
@@ -2493,7 +2493,7 @@ CITY_DATA = {
             5136.1
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "ostroleka": {
         "name": "Ostrołęka",
@@ -2502,7 +2502,7 @@ CITY_DATA = {
             -14259.3
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "ostrowm": {
         "name": "Ostrów Mazowiecka",
@@ -2511,7 +2511,7 @@ CITY_DATA = {
             -12808.68
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "otta": {
         "name": "Otta",
@@ -2520,7 +2520,7 @@ CITY_DATA = {
             -62862.78
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "oulu": {
         "name": "Oulu",
@@ -2529,7 +2529,7 @@ CITY_DATA = {
             -82463.4
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "padborg": {
         "name": "Padborg",
@@ -2538,7 +2538,7 @@ CITY_DATA = {
             -24340.2
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "paris": {
         "name": "Paris",
@@ -2547,7 +2547,7 @@ CITY_DATA = {
             6998.41
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "batisse", "ika_bohag", "kaarfor"]
     },
     "parma": {
         "name": "Parma",
@@ -2556,7 +2556,7 @@ CITY_DATA = {
             33610.7
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "patras": {
         "name": "Πάτρα",
@@ -2565,7 +2565,7 @@ CITY_DATA = {
             71014.3
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "pau": {
         "name": "Pau",
@@ -2574,7 +2574,7 @@ CITY_DATA = {
             36082.7
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "pecs": {
         "name": "Pécs",
@@ -2583,7 +2583,7 @@ CITY_DATA = {
             26311.6
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "perpignan": {
         "name": "Perpignan",
@@ -2592,7 +2592,7 @@ CITY_DATA = {
             41436.8
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "perth": {
         "name": "Perth",
@@ -2601,7 +2601,7 @@ CITY_DATA = {
             -52640.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "piatra": {
         "name": "Piatra Neamţ",
@@ -2610,7 +2610,7 @@ CITY_DATA = {
             17823.8
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "pila": {
         "name": "Piła",
@@ -2619,7 +2619,7 @@ CITY_DATA = {
             -13123.9
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "plock": {
         "name": "Płock",
@@ -2628,7 +2628,7 @@ CITY_DATA = {
             -10665.9
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "plymouth": {
         "name": "Plymouth",
@@ -2637,7 +2637,7 @@ CITY_DATA = {
             -7882.32
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "portree": {
         "name": "Portree",
@@ -2646,7 +2646,7 @@ CITY_DATA = {
             -61021.8
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "portsmouth": {
         "name": "Portsmouth",
@@ -2655,7 +2655,7 @@ CITY_DATA = {
             -5752.09
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "porvoo": {
         "name": "Porvoo",
@@ -2664,7 +2664,7 @@ CITY_DATA = {
             -57017.7
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "poznan": {
         "name": "Poznań",
@@ -2673,7 +2673,7 @@ CITY_DATA = {
             -9112.2
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "prague": {
         "name": "Praha",
@@ -2682,7 +2682,7 @@ CITY_DATA = {
             3978.97
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "przemysl": {
         "name": "Przemyśl",
@@ -2691,7 +2691,7 @@ CITY_DATA = {
             3973.53
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "puttgarden": {
         "name": "Puttgarden",
@@ -2700,7 +2700,7 @@ CITY_DATA = {
             -21612.7
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "rakvere": {
         "name": "Rakvere",
@@ -2709,7 +2709,7 @@ CITY_DATA = {
             -50675.76
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "radom": {
         "name": "Radom",
@@ -2718,7 +2718,7 @@ CITY_DATA = {
             -4837.94
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "ramsey": {
         "name": "Ramsey",
@@ -2727,7 +2727,7 @@ CITY_DATA = {
             -36755.5
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "reims": {
         "name": "Reims",
@@ -2736,7 +2736,7 @@ CITY_DATA = {
             5799.34
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "reydar": {
         "name": "Reyðarfjörður",
@@ -2745,7 +2745,7 @@ CITY_DATA = {
             -92368.9
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "reykjavik": {
         "name": "Reykjavík",
@@ -2754,7 +2754,7 @@ CITY_DATA = {
             -98482.6
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "rhodes": {
         "name": "Ρόδος",
@@ -2763,7 +2763,7 @@ CITY_DATA = {
             76538.8
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "rodbyhavn": {
         "name": "Rødbyhavn",
@@ -2772,7 +2772,7 @@ CITY_DATA = {
             -22326.5
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "ronne": {
         "name": "Rønne",
@@ -2781,7 +2781,7 @@ CITY_DATA = {
             -24530.53
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "rostock": {
         "name": "Rostock",
@@ -2790,7 +2790,7 @@ CITY_DATA = {
             -18588.9
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "rotterdam": {
         "name": "Rotterdam",
@@ -2799,7 +2799,7 @@ CITY_DATA = {
             -9135.8
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["lkwlog"]
     },
     "roudant": {
         "name": "Roudant",
@@ -2808,7 +2808,7 @@ CITY_DATA = {
             33427.64
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "rovaniemi": {
         "name": "Rovaniemi",
@@ -2817,7 +2817,7 @@ CITY_DATA = {
             -90311.4
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "rzeszow": {
         "name": "Rzeszów",
@@ -2826,7 +2826,7 @@ CITY_DATA = {
             2919.09
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "saldus": {
         "name": "Saldus",
@@ -2835,7 +2835,7 @@ CITY_DATA = {
             -33969.27
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "salzburg": {
         "name": "Salzburg",
@@ -2844,7 +2844,7 @@ CITY_DATA = {
             18564.5
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["stokes"]
     },
     "sangerhausen": {
         "name": "Sangerhausen",
@@ -2853,7 +2853,7 @@ CITY_DATA = {
             -4672.66
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "sanok": {
         "name": "Sanok",
@@ -2862,7 +2862,7 @@ CITY_DATA = {
             5134.43
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "santander": {
         "name": "Santander",
@@ -2871,7 +2871,7 @@ CITY_DATA = {
             31926.81
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "selfoss": {
         "name": "Selfoss",
@@ -2880,7 +2880,7 @@ CITY_DATA = {
             -95809.1
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "seydis": {
         "name": "Seyðisfjörður",
@@ -2889,7 +2889,7 @@ CITY_DATA = {
             -93717.5
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "sheffield": {
         "name": "Sheffield",
@@ -2898,7 +2898,7 @@ CITY_DATA = {
             -26687.6
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "sibiu": {
         "name": "Sibiu",
@@ -2907,7 +2907,7 @@ CITY_DATA = {
             25058.37
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "siedlce": {
         "name": "Siedlce",
@@ -2916,7 +2916,7 @@ CITY_DATA = {
             -9261.17
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "skelleftea": {
         "name": "Skellefteå",
@@ -2925,7 +2925,7 @@ CITY_DATA = {
             -79989.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "sligo": {
         "name": "Sligo (Sligeach)",
@@ -2934,7 +2934,7 @@ CITY_DATA = {
             -42217.29
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "soderhamn": {
         "name": "Söderhamn",
@@ -2943,7 +2943,7 @@ CITY_DATA = {
             -59633.3
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "sodertalje": {
         "name": "Södertälje",
@@ -2952,7 +2952,7 @@ CITY_DATA = {
             -46319.9
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "southampton": {
         "name": "Southampton",
@@ -2961,7 +2961,7 @@ CITY_DATA = {
             -7523.25
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "stargard": {
         "name": "Stargard",
@@ -2970,7 +2970,7 @@ CITY_DATA = {
             -14559.1
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "stavanger": {
         "name": "Stavanger",
@@ -2979,7 +2979,7 @@ CITY_DATA = {
             -48126.8
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "steinkjer": {
         "name": "Steinkjer",
@@ -2988,7 +2988,7 @@ CITY_DATA = {
             -75178.3
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "sthelier": {
         "name": "St Helier",
@@ -2997,7 +2997,7 @@ CITY_DATA = {
             2063.23
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "stockholm": {
         "name": "Stockholm",
@@ -3006,7 +3006,7 @@ CITY_DATA = {
             -47131.9
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["ika_bohag"]
     },
     "stranraer": {
         "name": "Stranraer",
@@ -3015,7 +3015,7 @@ CITY_DATA = {
             -41963.15
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "strasbourg": {
         "name": "Strasbourg",
@@ -3024,7 +3024,7 @@ CITY_DATA = {
             11198.7
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "stroemsund": {
         "name": "Strömsund",
@@ -3033,7 +3033,7 @@ CITY_DATA = {
             -74358.9
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "stromness": {
         "name": "Stromness",
@@ -3042,7 +3042,7 @@ CITY_DATA = {
             -68742.7
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "stuttgart": {
         "name": "Stuttgart",
@@ -3051,7 +3051,7 @@ CITY_DATA = {
             10047.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["lkwlog"]
     },
     "sundsvall": {
         "name": "Sundsvall",
@@ -3060,7 +3060,7 @@ CITY_DATA = {
             -65796.6
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "suomussalmi": {
         "name": "Suomussalmi",
@@ -3069,7 +3069,7 @@ CITY_DATA = {
             -83555.9
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "suwalki": {
         "name": "Suwałki",
@@ -3078,7 +3078,7 @@ CITY_DATA = {
             -21045.2
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "sveg": {
         "name": "Sveg",
@@ -3087,7 +3087,7 @@ CITY_DATA = {
             -63750.8
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "svolvaer": {
         "name": "Svolvær",
@@ -3096,7 +3096,7 @@ CITY_DATA = {
             -100028.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "swansea": {
         "name": "Swansea",
@@ -3105,7 +3105,7 @@ CITY_DATA = {
             -16881.9
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "swinoujscie": {
         "name": "Świnoujście",
@@ -3114,7 +3114,7 @@ CITY_DATA = {
             -17184.3
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "szczecin": {
         "name": "Szczecin",
@@ -3123,7 +3123,7 @@ CITY_DATA = {
             -15406.9
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "szeged": {
         "name": "Szeged",
@@ -3132,7 +3132,7 @@ CITY_DATA = {
             24565.7
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "taurage": {
         "name": "Tauragė",
@@ -3141,7 +3141,7 @@ CITY_DATA = {
             -26589.28
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "thessaloniki": {
         "name": "Θεσσαλονίκη",
@@ -3150,7 +3150,7 @@ CITY_DATA = {
             55931.2
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "thurso": {
         "name": "Thurso",
@@ -3159,7 +3159,7 @@ CITY_DATA = {
             -66122.4
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "timisoara": {
         "name": "Timișoara",
@@ -3168,7 +3168,7 @@ CITY_DATA = {
             27128.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "torino": {
         "name": "Torino",
@@ -3177,7 +3177,7 @@ CITY_DATA = {
             30932.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "tornio": {
         "name": "Tornio",
@@ -3186,7 +3186,7 @@ CITY_DATA = {
             -86729.5
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "torshavn": {
         "name": "Tórshavn",
@@ -3195,7 +3195,7 @@ CITY_DATA = {
             -81483.6
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "travemuende": {
         "name": "Travemünde",
@@ -3204,7 +3204,7 @@ CITY_DATA = {
             -19526.9
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "trelleborg": {
         "name": "Trelleborg",
@@ -3213,7 +3213,7 @@ CITY_DATA = {
             -25887.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "trieste": {
         "name": "Trieste",
@@ -3222,7 +3222,7 @@ CITY_DATA = {
             27566.76
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "trikala": {
         "name": "Τρίκαλα",
@@ -3231,7 +3231,7 @@ CITY_DATA = {
             62412.9
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "trinity": {
         "name": "Trinity",
@@ -3240,7 +3240,7 @@ CITY_DATA = {
             1242.87
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "tromso": {
         "name": "Tromsø",
@@ -3249,7 +3249,7 @@ CITY_DATA = {
             -109134.6
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "trondheim": {
         "name": "Trondheim",
@@ -3258,7 +3258,7 @@ CITY_DATA = {
             -72880.9
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "tukums": {
         "name": "Tukums",
@@ -3267,7 +3267,7 @@ CITY_DATA = {
             -37187.2
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "uelzen": {
         "name": "Uelzen",
@@ -3276,7 +3276,7 @@ CITY_DATA = {
             -12273.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "ullapool": {
         "name": "Ullapool",
@@ -3285,7 +3285,7 @@ CITY_DATA = {
             -64780.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "ulm": {
         "name": "Ulm",
@@ -3294,7 +3294,7 @@ CITY_DATA = {
             12657.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "umea": {
         "name": "Umeå",
@@ -3303,7 +3303,7 @@ CITY_DATA = {
             -75080.6
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "uppsala": {
         "name": "Uppsala",
@@ -3312,7 +3312,7 @@ CITY_DATA = {
             -51634.5
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "uzhhorod": {
         "name": "Ужгород (Uzhhorod)",
@@ -3321,7 +3321,7 @@ CITY_DATA = {
             11200.1
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "vaasa": {
         "name": "Vaasa",
@@ -3330,7 +3330,7 @@ CITY_DATA = {
             -71017.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "vaduz": {
         "name": "Vaduz",
@@ -3339,7 +3339,7 @@ CITY_DATA = {
             18906.6
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "valga": {
         "name": "Valga",
@@ -3348,7 +3348,7 @@ CITY_DATA = {
             -42978.1
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "valka": {
         "name": "Valka",
@@ -3357,7 +3357,7 @@ CITY_DATA = {
             -42752.1
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "vantaa": {
         "name": "Vantaa",
@@ -3366,7 +3366,7 @@ CITY_DATA = {
             -56661.7
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "varkaus": {
         "name": "Varkaus",
@@ -3375,7 +3375,7 @@ CITY_DATA = {
             -68975.5
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "vasteraas": {
         "name": "Västerås",
@@ -3384,7 +3384,7 @@ CITY_DATA = {
             -50468.3
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "vaxjo": {
         "name": "Växjö",
@@ -3393,7 +3393,7 @@ CITY_DATA = {
             -34835.6
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "venezia": {
         "name": "Venezia",
@@ -3402,7 +3402,7 @@ CITY_DATA = {
             30078.9
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "lkwlog", "sellplan"]
     },
     "verona": {
         "name": "Verona",
@@ -3411,7 +3411,7 @@ CITY_DATA = {
             29453.3
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "vestmannaeyjar": {
         "name": "Vestmannaeyjar",
@@ -3420,7 +3420,7 @@ CITY_DATA = {
             -91439.36
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "viborg": {
         "name": "Viborg",
@@ -3429,7 +3429,7 @@ CITY_DATA = {
             -33233.7
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "vicenza": {
         "name": "Vicenza",
@@ -3438,7 +3438,7 @@ CITY_DATA = {
             29533.5
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "viitasaari": {
         "name": "Viitasaari",
@@ -3447,7 +3447,7 @@ CITY_DATA = {
             -72353.1
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "vigo": {
         "name": "Vigo",
@@ -3456,7 +3456,7 @@ CITY_DATA = {
             32600.7
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "vik": {
         "name": "Vík",
@@ -3465,7 +3465,7 @@ CITY_DATA = {
             -89729.3
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "villach": {
         "name": "Villach",
@@ -3474,7 +3474,7 @@ CITY_DATA = {
             25584.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "vilsund": {
         "name": "Vilsund",
@@ -3483,7 +3483,7 @@ CITY_DATA = {
             -35727.34
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "volgsjoen": {
         "name": "Volgsjön",
@@ -3492,7 +3492,7 @@ CITY_DATA = {
             -78561.2
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "walcz": {
         "name": "Wałcz",
@@ -3501,7 +3501,7 @@ CITY_DATA = {
             -14321.42
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "warszawa": {
         "name": "Warszawa",
@@ -3510,7 +3510,7 @@ CITY_DATA = {
             -9467.43
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "posped"]
     },
     "werlte": {
         "name": "Werlte",
@@ -3519,7 +3519,7 @@ CITY_DATA = {
             -12700.35
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "wexford": {
         "name": "Wexford",
@@ -3528,7 +3528,7 @@ CITY_DATA = {
             -25257.44
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "wick": {
         "name": "Wick",
@@ -3537,7 +3537,7 @@ CITY_DATA = {
             -64980.1
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "wien": {
         "name": "Wien",
@@ -3546,7 +3546,7 @@ CITY_DATA = {
             14215.5
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "wiesbaden": {
         "name": "Wiesbaden",
@@ -3555,7 +3555,7 @@ CITY_DATA = {
             2026.05
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "winsen": {
         "name": "Winsen",
@@ -3564,7 +3564,7 @@ CITY_DATA = {
             -15030.89
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "wroclaw": {
         "name": "Wrocław",
@@ -3573,7 +3573,7 @@ CITY_DATA = {
             -1890.36
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "ytterhogdal": {
         "name": "Ytterhogdal",
@@ -3582,7 +3582,7 @@ CITY_DATA = {
             -65028.8
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "zamosc": {
         "name": "Zamość",
@@ -3591,7 +3591,7 @@ CITY_DATA = {
             -1538.1
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "zelenogradsk": {
         "name": "Зеленоградск (Zelenogradsk)",
@@ -3600,7 +3600,7 @@ CITY_DATA = {
             -24320.9
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "zgorzelec": {
         "name": "Zgorzelec",
@@ -3609,7 +3609,7 @@ CITY_DATA = {
             -1715.38
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "zurich": {
         "name": "Zürich",
@@ -3618,7 +3618,7 @@ CITY_DATA = {
             17968.5
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "zwolle": {
         "name": "Zwolle",
@@ -3627,7 +3627,7 @@ CITY_DATA = {
             -12292.1
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "alakurtti": {
         "name": "Алакуртти",
@@ -3636,7 +3636,7 @@ CITY_DATA = {
             -94661.89
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "alehovshina": {
         "name": "Алёховщина",
@@ -3645,7 +3645,7 @@ CITY_DATA = {
             -62768.01
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "apatity": {
         "name": "Апатиты",
@@ -3654,7 +3654,7 @@ CITY_DATA = {
             -101063.1
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "babruysk": {
         "name": "Бабруйск",
@@ -3663,7 +3663,7 @@ CITY_DATA = {
             -18096.8
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "baranovichi": {
         "name": "Баранавічы",
@@ -3672,7 +3672,7 @@ CITY_DATA = {
             -16169.5
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "belcity": {
         "name": "Бeлгoрoд",
@@ -3681,7 +3681,7 @@ CITY_DATA = {
             -10593.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "boksitogorsk": {
         "name": "Бокситогорск",
@@ -3690,7 +3690,7 @@ CITY_DATA = {
             -57093.29
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "borisoglebsk": {
         "name": "Борисоглебск",
@@ -3699,7 +3699,7 @@ CITY_DATA = {
             -21003.7
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "brect": {
         "name": "Брэст",
@@ -3708,7 +3708,7 @@ CITY_DATA = {
             -9542.98
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "bryansk": {
         "name": "Брянск",
@@ -3717,7 +3717,7 @@ CITY_DATA = {
             -22682.4
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "engels": {
         "name": "Энгельс",
@@ -3726,7 +3726,7 @@ CITY_DATA = {
             -27772.72
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "glubokoe": {
         "name": "Глыбокае",
@@ -3735,7 +3735,7 @@ CITY_DATA = {
             -29033.44
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "gomel": {
         "name": "Гомель",
@@ -3744,7 +3744,7 @@ CITY_DATA = {
             -15102.4
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "grodno": {
         "name": "Гродна",
@@ -3753,7 +3753,7 @@ CITY_DATA = {
             -18098.4
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kaluga": {
         "name": "Калуга",
@@ -3762,7 +3762,7 @@ CITY_DATA = {
             -31348.2
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kandalrm": {
         "name": "Кандалакша",
@@ -3771,7 +3771,7 @@ CITY_DATA = {
             -97006.81
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kem": {
         "name": "Кемь",
@@ -3780,7 +3780,7 @@ CITY_DATA = {
             -89467.5
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "khimki": {
         "name": "Химки",
@@ -3789,7 +3789,7 @@ CITY_DATA = {
             -41049.2
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kholm": {
         "name": "Холм",
@@ -3798,7 +3798,7 @@ CITY_DATA = {
             -42842.4
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kingisepp": {
         "name": "Кингисепп",
@@ -3807,7 +3807,7 @@ CITY_DATA = {
             -52838.75
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kirishi": {
         "name": "Кириши",
@@ -3816,7 +3816,7 @@ CITY_DATA = {
             -56666.77
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kirovsk": {
         "name": "Кировск",
@@ -3825,7 +3825,7 @@ CITY_DATA = {
             -57445.91
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "klin": {
         "name": "Клин",
@@ -3834,7 +3834,7 @@ CITY_DATA = {
             -42236.8
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kola": {
         "name": "Кола",
@@ -3843,7 +3843,7 @@ CITY_DATA = {
             -108565.9
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kolomna": {
         "name": "Коломна",
@@ -3852,7 +3852,7 @@ CITY_DATA = {
             -38100.1
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kolpino": {
         "name": "Колпино",
@@ -3861,7 +3861,7 @@ CITY_DATA = {
             -55253.77
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "krasnoslob": {
         "name": "Краснослободск",
@@ -3870,7 +3870,7 @@ CITY_DATA = {
             -10103.79
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kursk": {
         "name": "Курск",
@@ -3879,7 +3879,7 @@ CITY_DATA = {
             -16073.8
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "lida": {
         "name": "Ліда",
@@ -3888,7 +3888,7 @@ CITY_DATA = {
             -20712.3
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "luki": {
         "name": "Великие Луки",
@@ -3897,7 +3897,7 @@ CITY_DATA = {
             -37441.8
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "medved": {
         "name": "Медвежьегорск",
@@ -3906,7 +3906,7 @@ CITY_DATA = {
             -78117.56
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "minsk": {
         "name": "Мінск",
@@ -3915,7 +3915,7 @@ CITY_DATA = {
             -22095.2
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "mogilev": {
         "name": "Магілёў",
@@ -3924,7 +3924,7 @@ CITY_DATA = {
             -23216.2
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "moncheg": {
         "name": "Мончегорск",
@@ -3933,7 +3933,7 @@ CITY_DATA = {
             -102972.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "moscow": {
         "name": "Москва",
@@ -3942,7 +3942,7 @@ CITY_DATA = {
             -39792.41
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "mozir": {
         "name": "Мазыр",
@@ -3951,7 +3951,7 @@ CITY_DATA = {
             -12548.9
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "mstislavl": {
         "name": "Мсціслаў",
@@ -3960,7 +3960,7 @@ CITY_DATA = {
             -26136.8
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "murmansk": {
         "name": "Мурманск",
@@ -3969,7 +3969,7 @@ CITY_DATA = {
             -110057.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "nevel": {
         "name": "Невель",
@@ -3978,7 +3978,7 @@ CITY_DATA = {
             -35678.8
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "nikolskoye": {
         "name": "Никольское",
@@ -3987,7 +3987,7 @@ CITY_DATA = {
             -38967.73
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "novgorod": {
         "name": "Великий Новгород",
@@ -3996,7 +3996,7 @@ CITY_DATA = {
             -49111.5
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "obninsk": {
         "name": "Обнинск",
@@ -4005,7 +4005,7 @@ CITY_DATA = {
             -35073.1
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "oboyan": {
         "name": "Обоянь",
@@ -4014,7 +4014,7 @@ CITY_DATA = {
             -13813.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "orel": {
         "name": "Орел",
@@ -4023,7 +4023,7 @@ CITY_DATA = {
             -23228.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "orsha": {
         "name": "Орша",
@@ -4032,7 +4032,7 @@ CITY_DATA = {
             -26320.7
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "ostashkov": {
         "name": "Осташков",
@@ -4041,7 +4041,7 @@ CITY_DATA = {
             -44016.8
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "penza": {
         "name": "Пенза",
@@ -4050,7 +4050,7 @@ CITY_DATA = {
             -36117.17
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "petersburg": {
         "name": "Санкт-Петербург",
@@ -4059,7 +4059,7 @@ CITY_DATA = {
             -57040.6
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "petrozavodsk": {
         "name": "Петрозаводск",
@@ -4068,7 +4068,7 @@ CITY_DATA = {
             -70284.8
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "pikalevo": {
         "name": "Пикалёво",
@@ -4077,7 +4077,7 @@ CITY_DATA = {
             -58081.39
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "pinsk": {
         "name": "Пінск",
@@ -4086,7 +4086,7 @@ CITY_DATA = {
             -10592.7
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "pole": {
         "name": "Лодейное Поле",
@@ -4095,7 +4095,7 @@ CITY_DATA = {
             -64918.8
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "polotsk": {
         "name": "Полацк",
@@ -4104,7 +4104,7 @@ CITY_DATA = {
             -31507.19
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "porkhov": {
         "name": "Порхов",
@@ -4113,7 +4113,7 @@ CITY_DATA = {
             -44020.6
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "priozersk": {
         "name": "Приозерск",
@@ -4122,7 +4122,7 @@ CITY_DATA = {
             -63403.49
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "razmetelevo": {
         "name": "Разметелево",
@@ -4131,7 +4131,7 @@ CITY_DATA = {
             -57694.02
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "rgev": {
         "name": "Ржев",
@@ -4140,7 +4140,7 @@ CITY_DATA = {
             -39807.6
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "roslavl": {
         "name": "Рославль",
@@ -4149,7 +4149,7 @@ CITY_DATA = {
             -25261.4
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "saratov": {
         "name": "Саратов",
@@ -4158,7 +4158,7 @@ CITY_DATA = {
             -28779.4
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "segezha": {
         "name": "Сегежа",
@@ -4167,7 +4167,7 @@ CITY_DATA = {
             -82188.78
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "shatsk": {
         "name": "Шацк",
@@ -4176,7 +4176,7 @@ CITY_DATA = {
             -36572.32
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "shlisselburg": {
         "name": "Шлиссельбург",
@@ -4185,7 +4185,7 @@ CITY_DATA = {
             -59343.8
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "slonim": {
         "name": "Слонім",
@@ -4194,7 +4194,7 @@ CITY_DATA = {
             -16056.8
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "sluck": {
         "name": "Слуцк",
@@ -4203,7 +4203,7 @@ CITY_DATA = {
             -16285.8
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "smolensk": {
         "name": "Смоленск",
@@ -4212,7 +4212,7 @@ CITY_DATA = {
             -29374.4
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "sortavala": {
         "name": "Сортавала",
@@ -4221,7 +4221,7 @@ CITY_DATA = {
             -66991.86
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "stroitel": {
         "name": "Строитель",
@@ -4230,7 +4230,7 @@ CITY_DATA = {
             -11600.88
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "suoyarvi": {
         "name": "Суоярви",
@@ -4239,7 +4239,7 @@ CITY_DATA = {
             -73603.1
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "tambov": {
         "name": "Тамбов",
@@ -4248,7 +4248,7 @@ CITY_DATA = {
             -28733.2
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "tihvin": {
         "name": "Тихвин",
@@ -4257,7 +4257,7 @@ CITY_DATA = {
             -58391.98
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "tosno": {
         "name": "Тосно",
@@ -4266,7 +4266,7 @@ CITY_DATA = {
             -54082.9
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "tula": {
         "name": "Тула",
@@ -4275,7 +4275,7 @@ CITY_DATA = {
             -32713.7
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "tver": {
         "name": "Тверь",
@@ -4284,7 +4284,7 @@ CITY_DATA = {
             -43874.4
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "valday": {
         "name": "Валдай",
@@ -4293,7 +4293,7 @@ CITY_DATA = {
             -49050.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "velig": {
         "name": "Велиж",
@@ -4302,7 +4302,7 @@ CITY_DATA = {
             -34541.6
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "vinnicy": {
         "name": "Винницы",
@@ -4311,7 +4311,7 @@ CITY_DATA = {
             -64179.57
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "vitebsk": {
         "name": "Віцебск",
@@ -4320,7 +4320,7 @@ CITY_DATA = {
             -32575.59
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "vitino": {
         "name": "Витино",
@@ -4329,7 +4329,7 @@ CITY_DATA = {
             -95417.22
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "volgograd": {
         "name": "Волгоград",
@@ -4338,7 +4338,7 @@ CITY_DATA = {
             -12510.52
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "volhov": {
         "name": "Волхов",
@@ -4347,7 +4347,7 @@ CITY_DATA = {
             -58614.18
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "volkovysk": {
         "name": "Ваўкавыск",
@@ -4356,7 +4356,7 @@ CITY_DATA = {
             -15854.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "volochyok": {
         "name": "Вышний Волочек",
@@ -4365,7 +4365,7 @@ CITY_DATA = {
             -46654.9
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "volokolamsk": {
         "name": "Волоколамск",
@@ -4374,7 +4374,7 @@ CITY_DATA = {
             -40014.5
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "volzhskiy": {
         "name": "Волжский",
@@ -4383,7 +4383,7 @@ CITY_DATA = {
             -13839.17
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "voronezh": {
         "name": "Воронеж",
@@ -4392,7 +4392,7 @@ CITY_DATA = {
             -19897.4
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "vyazma": {
         "name": "Вязьма",
@@ -4401,7 +4401,7 @@ CITY_DATA = {
             -33964.8
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "yukhnov": {
         "name": "Юхнов",
@@ -4410,7 +4410,7 @@ CITY_DATA = {
             -30929.9
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "zelenoborsky": {
         "name": "Зеленоборский",
@@ -4419,7 +4419,7 @@ CITY_DATA = {
             -92496.91
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "alban": {
         "name": "Saint-Alban-du-Rhône",
@@ -4428,7 +4428,7 @@ CITY_DATA = {
             28986.3
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "bordeaux": {
         "name": "Bordeaux",
@@ -4437,7 +4437,7 @@ CITY_DATA = {
             27274.4
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["batisse", "kaarfor"]
     },
     "bourges": {
         "name": "Bourges",
@@ -4446,7 +4446,7 @@ CITY_DATA = {
             16275.5
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "brest": {
         "name": "Brest",
@@ -4455,7 +4455,7 @@ CITY_DATA = {
             3869.3
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "civaux": {
         "name": "Civaux",
@@ -4464,7 +4464,7 @@ CITY_DATA = {
             18292.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "golfech": {
         "name": "Golfech",
@@ -4473,7 +4473,7 @@ CITY_DATA = {
             31472.6
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "larochelle": {
         "name": "La Rochelle",
@@ -4482,7 +4482,7 @@ CITY_DATA = {
             19532.5
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "laurent": {
         "name": "Saint-Laurent",
@@ -4491,7 +4491,7 @@ CITY_DATA = {
             13817.4
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "lehavre": {
         "name": "Le Havre",
@@ -4500,7 +4500,7 @@ CITY_DATA = {
             1515.48
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "lemans": {
         "name": "Le Mans",
@@ -4509,7 +4509,7 @@ CITY_DATA = {
             9718.43
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "limoges": {
         "name": "Limoges",
@@ -4518,7 +4518,7 @@ CITY_DATA = {
             23632.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "marseille": {
         "name": "Marseille",
@@ -4527,7 +4527,7 @@ CITY_DATA = {
             39210.8
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["kaarfor"]
     },
     "montpellier": {
         "name": "Montpellier",
@@ -4536,7 +4536,7 @@ CITY_DATA = {
             36127.6
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "nantes": {
         "name": "Nantes",
@@ -4545,7 +4545,7 @@ CITY_DATA = {
             13162.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["kaarfor"]
     },
     "nice": {
         "name": "Nice",
@@ -4554,7 +4554,7 @@ CITY_DATA = {
             38206.2
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "paluel": {
         "name": "Paluel",
@@ -4563,7 +4563,7 @@ CITY_DATA = {
             224.902
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "rennes": {
         "name": "Rennes",
@@ -4572,7 +4572,7 @@ CITY_DATA = {
             8064.61
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "roscoff": {
         "name": "Roscoff",
@@ -4581,7 +4581,7 @@ CITY_DATA = {
             3120.41
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "toulouse": {
         "name": "Toulouse",
@@ -4590,7 +4590,7 @@ CITY_DATA = {
             35665.6
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "ajaccio": {
         "name": "Ajaccio",
@@ -4599,7 +4599,7 @@ CITY_DATA = {
             48620.9
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "bastia": {
         "name": "Bastia",
@@ -4608,7 +4608,7 @@ CITY_DATA = {
             44186.3
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "bonifacio": {
         "name": "Bonifacio",
@@ -4617,7 +4617,7 @@ CITY_DATA = {
             52254.9
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "calvi": {
         "name": "Calvi",
@@ -4626,7 +4626,7 @@ CITY_DATA = {
             46017.5
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "lile": {
         "name": "L'Île-Rousse",
@@ -4635,7 +4635,7 @@ CITY_DATA = {
             44676.3
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "porto": {
         "name": "Porto",
@@ -4644,7 +4644,7 @@ CITY_DATA = {
             39550.9
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "daugavpils": {
         "name": "Daugavpils",
@@ -4653,7 +4653,7 @@ CITY_DATA = {
             -31905.7
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "helsinki": {
         "name": "Helsinki",
@@ -4662,7 +4662,7 @@ CITY_DATA = {
             -55691.5
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kaliningrad": {
         "name": "Калининград",
@@ -4671,7 +4671,7 @@ CITY_DATA = {
             -23181.4
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kaunas": {
         "name": "Kaunas",
@@ -4680,7 +4680,7 @@ CITY_DATA = {
             -25347.7
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "klaipeda": {
         "name": "Klaipėda",
@@ -4689,7 +4689,7 @@ CITY_DATA = {
             -28719.6
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kotka": {
         "name": "Kotka",
@@ -4698,7 +4698,7 @@ CITY_DATA = {
             -58045.7
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kouvola": {
         "name": "Kouvola",
@@ -4707,7 +4707,7 @@ CITY_DATA = {
             -60408.9
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kunda": {
         "name": "Kunda",
@@ -4716,7 +4716,7 @@ CITY_DATA = {
             -52304.7
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "lahti": {
         "name": "Lahti",
@@ -4725,7 +4725,7 @@ CITY_DATA = {
             -60557.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "loviisa": {
         "name": "Loviisa",
@@ -4734,7 +4734,7 @@ CITY_DATA = {
             -57187.8
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "luga": {
         "name": "Луга",
@@ -4743,7 +4743,7 @@ CITY_DATA = {
             -50045.2
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "mazeikiai": {
         "name": "Mažeikiai",
@@ -4752,7 +4752,7 @@ CITY_DATA = {
             -32809.6
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "naantali": {
         "name": "Naantali",
@@ -4761,7 +4761,7 @@ CITY_DATA = {
             -56362.4
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "narva": {
         "name": "Narva",
@@ -4770,7 +4770,7 @@ CITY_DATA = {
             -52462.3
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "naujieji": {
         "name": "Naujieji Valkininkai",
@@ -4779,7 +4779,7 @@ CITY_DATA = {
             -21636.4
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "olkiluoto": {
         "name": "Olkiluoto",
@@ -4788,7 +4788,7 @@ CITY_DATA = {
             -60008.2
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "paldiski": {
         "name": "Paldiski",
@@ -4797,7 +4797,7 @@ CITY_DATA = {
             -50011.9
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "panevezys": {
         "name": "Panevėžys",
@@ -4806,7 +4806,7 @@ CITY_DATA = {
             -29962.8
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "parnu": {
         "name": "Pärnu",
@@ -4815,7 +4815,7 @@ CITY_DATA = {
             -45237.7
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "passau": {
         "name": "Passau",
@@ -4824,7 +4824,7 @@ CITY_DATA = {
             8564.5
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "pori": {
         "name": "Pori",
@@ -4833,7 +4833,7 @@ CITY_DATA = {
             -61707.6
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "pskov": {
         "name": "Псков",
@@ -4842,7 +4842,7 @@ CITY_DATA = {
             -44002.4
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "rezekne": {
         "name": "Rēzekne",
@@ -4851,7 +4851,7 @@ CITY_DATA = {
             -36075.6
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "riga": {
         "name": "Rīga",
@@ -4860,7 +4860,7 @@ CITY_DATA = {
             -37089.7
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "siauliai": {
         "name": "Šiauliai",
@@ -4869,7 +4869,7 @@ CITY_DATA = {
             -30503.8
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "sosnovy": {
         "name": "Сосновый Бор",
@@ -4878,7 +4878,7 @@ CITY_DATA = {
             -54394.3
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "tallinn": {
         "name": "Tallinn",
@@ -4887,7 +4887,7 @@ CITY_DATA = {
             -50868.6
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "tampere": {
         "name": "Tampere",
@@ -4896,7 +4896,7 @@ CITY_DATA = {
             -62490.7
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "tartu": {
         "name": "Tartu",
@@ -4905,7 +4905,7 @@ CITY_DATA = {
             -46408.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "turku": {
         "name": "Turku",
@@ -4914,7 +4914,7 @@ CITY_DATA = {
             -56006.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "utena": {
         "name": "Utena",
@@ -4923,7 +4923,7 @@ CITY_DATA = {
             -29540.4
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "valmiera": {
         "name": "Valmiera",
@@ -4932,7 +4932,7 @@ CITY_DATA = {
             -40783.7
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "ventspils": {
         "name": "Ventspils",
@@ -4941,7 +4941,7 @@ CITY_DATA = {
             -38562.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "vilnius": {
         "name": "Vilnius",
@@ -4950,7 +4950,7 @@ CITY_DATA = {
             -24885.7
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "vyborg": {
         "name": "Выборг",
@@ -4959,7 +4959,7 @@ CITY_DATA = {
             -60221.8
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "brasov": {
         "name": "Brașov",
@@ -4968,7 +4968,7 @@ CITY_DATA = {
             23552.8
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "burgas": {
         "name": "Бургас",
@@ -4977,7 +4977,7 @@ CITY_DATA = {
             40880.7
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "calarasi": {
         "name": "Călărași",
@@ -4986,7 +4986,7 @@ CITY_DATA = {
             31257.8
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "cernavoda": {
         "name": "Cernavodă",
@@ -4995,7 +4995,7 @@ CITY_DATA = {
             30015.4
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "edirne": {
         "name": "Edirne",
@@ -5004,7 +5004,7 @@ CITY_DATA = {
             48003.5
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "galati": {
         "name": "Galați",
@@ -5013,7 +5013,7 @@ CITY_DATA = {
             24473.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "hunedoara": {
         "name": "Hunedoara",
@@ -5022,7 +5022,7 @@ CITY_DATA = {
             26114.8
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "iasi": {
         "name": "Iași",
@@ -5031,7 +5031,7 @@ CITY_DATA = {
             14963.9
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "istanbul": {
         "name": "Istanbul",
@@ -5040,7 +5040,7 @@ CITY_DATA = {
             49416.7
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "karlovo": {
         "name": "Карлово",
@@ -5049,7 +5049,7 @@ CITY_DATA = {
             42057.7
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kozloduy": {
         "name": "Козлодуй",
@@ -5058,7 +5058,7 @@ CITY_DATA = {
             36247.3
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "mangalia": {
         "name": "Mangalia",
@@ -5067,7 +5067,7 @@ CITY_DATA = {
             33330.9
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "pernik": {
         "name": "Перник",
@@ -5076,7 +5076,7 @@ CITY_DATA = {
             45310.5
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "pirdop": {
         "name": "Пирдоп",
@@ -5085,7 +5085,7 @@ CITY_DATA = {
             42161.1
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "pitesti": {
         "name": "Pitești",
@@ -5094,7 +5094,7 @@ CITY_DATA = {
             29912.5
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "pleven": {
         "name": "Плевен (Pleven)",
@@ -5103,7 +5103,7 @@ CITY_DATA = {
             38731.3
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "plovdiv": {
         "name": "Пловдив",
@@ -5112,7 +5112,7 @@ CITY_DATA = {
             46169.4
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "resita": {
         "name": "Reșița",
@@ -5121,7 +5121,7 @@ CITY_DATA = {
             29154.6
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "ruse": {
         "name": "Русе",
@@ -5130,7 +5130,7 @@ CITY_DATA = {
             35069.8
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "schumen": {
         "name": "Шумен",
@@ -5139,7 +5139,7 @@ CITY_DATA = {
             36977.8
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "sofia": {
         "name": "Со́фия",
@@ -5148,7 +5148,7 @@ CITY_DATA = {
             42490.6
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "targu": {
         "name": "Târgu Mureș",
@@ -5157,7 +5157,7 @@ CITY_DATA = {
             20157.2
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "tekirdag": {
         "name": "Tekirdag",
@@ -5166,7 +5166,7 @@ CITY_DATA = {
             52521.5
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "varna": {
         "name": "Варна",
@@ -5175,7 +5175,7 @@ CITY_DATA = {
             36462.2
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "veli": {
         "name": "Велико Търново",
@@ -5184,7 +5184,7 @@ CITY_DATA = {
             38859.5
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "yambol": {
         "name": "Ямбол",
@@ -5193,7 +5193,7 @@ CITY_DATA = {
             42209.35
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "adugeysk": {
         "name": "Адыгейск",
@@ -5202,7 +5202,7 @@ CITY_DATA = {
             17051.7
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "aksai": {
         "name": "Аксай",
@@ -5211,7 +5211,7 @@ CITY_DATA = {
             494.762
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "anapa": {
         "name": "Анапа",
@@ -5220,7 +5220,7 @@ CITY_DATA = {
             19799.3
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "apsheronsk": {
         "name": "Апшеронск",
@@ -5229,7 +5229,7 @@ CITY_DATA = {
             18103.5
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "armavir": {
         "name": "Армавир",
@@ -5238,7 +5238,7 @@ CITY_DATA = {
             12819.1
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "ashe": {
         "name": "Аше",
@@ -5247,7 +5247,7 @@ CITY_DATA = {
             24433.9
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "b": {
         "name": "Белая Калитва",
@@ -5256,7 +5256,7 @@ CITY_DATA = {
             -2447.66
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "belorechensk": {
         "name": "Белореченск",
@@ -5265,7 +5265,7 @@ CITY_DATA = {
             16180.8
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "cherkessk": {
         "name": "Черкесск",
@@ -5274,7 +5274,7 @@ CITY_DATA = {
             15938.1
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "chinary": {
         "name": "Чинары",
@@ -5283,7 +5283,7 @@ CITY_DATA = {
             19920.7
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "dahovskaya": {
         "name": "Даховская",
@@ -5292,7 +5292,7 @@ CITY_DATA = {
             19703.3
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "dombai": {
         "name": "Домбай",
@@ -5301,7 +5301,7 @@ CITY_DATA = {
             22560.9
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "dshubga": {
         "name": "Джубга",
@@ -5310,7 +5310,7 @@ CITY_DATA = {
             21924.9
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "egorlik": {
         "name": "Егорлыкская",
@@ -5319,7 +5319,7 @@ CITY_DATA = {
             4648.5
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "eisk": {
         "name": "Ейск",
@@ -5328,7 +5328,7 @@ CITY_DATA = {
             9614.21
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "enem": {
         "name": "Энем",
@@ -5337,7 +5337,7 @@ CITY_DATA = {
             17508.4
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "gagra": {
         "name": "გაგრა",
@@ -5346,7 +5346,7 @@ CITY_DATA = {
             24969.09
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "gali": {
         "name": "გალი",
@@ -5355,7 +5355,7 @@ CITY_DATA = {
             25864.04
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "gelendshik": {
         "name": "Геленджик",
@@ -5364,7 +5364,7 @@ CITY_DATA = {
             20453.8
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "gorkluch": {
         "name": "Горячий Ключ",
@@ -5373,7 +5373,7 @@ CITY_DATA = {
             18654.4
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "guamka": {
         "name": "Гуамка",
@@ -5382,7 +5382,7 @@ CITY_DATA = {
             21029.6
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "gudauta": {
         "name": "გუდაუთა",
@@ -5391,7 +5391,7 @@ CITY_DATA = {
             24720.8
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "guzeripl": {
         "name": "Гузерипль",
@@ -5400,7 +5400,7 @@ CITY_DATA = {
             22255.6
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "haduzhensk": {
         "name": "Хадыженск",
@@ -5409,7 +5409,7 @@ CITY_DATA = {
             18461.5
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "hadzhico": {
         "name": "Хаджико",
@@ -5418,7 +5418,7 @@ CITY_DATA = {
             23160.9
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kagalnik": {
         "name": "Кагальницкая",
@@ -5427,7 +5427,7 @@ CITY_DATA = {
             5278.2
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kamenomost": {
         "name": "Каменномостский",
@@ -5436,7 +5436,7 @@ CITY_DATA = {
             18734.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kamensk": {
         "name": "Каменск-Шахтинский",
@@ -5445,7 +5445,7 @@ CITY_DATA = {
             -3140.31
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "karachaevsk": {
         "name": "Карачаевск",
@@ -5454,7 +5454,7 @@ CITY_DATA = {
             19190.6
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kirov": {
         "name": "Киров",
@@ -5463,7 +5463,7 @@ CITY_DATA = {
             -68335.58
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "korenovsk": {
         "name": "Кореновск",
@@ -5472,7 +5472,7 @@ CITY_DATA = {
             12165.9
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "krasn": {
         "name": "Красногвардейское",
@@ -5481,7 +5481,7 @@ CITY_DATA = {
             7217.68
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "krasnodar": {
         "name": "Краснодар",
@@ -5490,7 +5490,7 @@ CITY_DATA = {
             14746.1
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "krimsk": {
         "name": "Крымск",
@@ -5499,7 +5499,7 @@ CITY_DATA = {
             17712.4
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kropotkin": {
         "name": "Кропоткин",
@@ -5508,7 +5508,7 @@ CITY_DATA = {
             11550.6
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kushevskaya": {
         "name": "Кущёвская",
@@ -5517,7 +5517,7 @@ CITY_DATA = {
             7272.83
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "lazarevskoe": {
         "name": "Лазаревское",
@@ -5526,7 +5526,7 @@ CITY_DATA = {
             24516.4
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "lerwick": {
         "name": "Lerwick",
@@ -5535,7 +5535,7 @@ CITY_DATA = {
             -75768.77
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "mamedovashel": {
         "name": "Мамедова Щель",
@@ -5544,7 +5544,7 @@ CITY_DATA = {
             23865.2
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "maykop": {
         "name": "Майкоп",
@@ -5553,7 +5553,7 @@ CITY_DATA = {
             16914.4
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "morozovsk": {
         "name": "Морозовск",
@@ -5562,7 +5562,7 @@ CITY_DATA = {
             -3966.79
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "nadzhigo": {
         "name": "Наджиго",
@@ -5571,7 +5571,7 @@ CITY_DATA = {
             23115.8
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "nevinnomyssk": {
         "name": "Невинномысск",
@@ -5580,7 +5580,7 @@ CITY_DATA = {
             14641.5
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "nizhegorod": {
         "name": "Нижегородская",
@@ -5589,7 +5589,7 @@ CITY_DATA = {
             19727.7
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "nov": {
         "name": "Новопокровская",
@@ -5598,7 +5598,7 @@ CITY_DATA = {
             7770.38
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "novoa": {
         "name": "Новоалександровск",
@@ -5607,7 +5607,7 @@ CITY_DATA = {
             9044.26
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "novorossiysk": {
         "name": "Новороссийск",
@@ -5616,7 +5616,7 @@ CITY_DATA = {
             19800.8
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "ochamchire": {
         "name": "ოჩამჩირის",
@@ -5625,7 +5625,7 @@ CITY_DATA = {
             25819.69
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "pavlovsk": {
         "name": "Павловск",
@@ -5634,7 +5634,7 @@ CITY_DATA = {
             -14277.3
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "pavlovskya": {
         "name": "Павловская",
@@ -5643,7 +5643,7 @@ CITY_DATA = {
             9594.3
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "rostov": {
         "name": "Ростов",
@@ -5652,7 +5652,7 @@ CITY_DATA = {
             -50973.56
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "sem": {
         "name": "Семикаракорск",
@@ -5661,7 +5661,7 @@ CITY_DATA = {
             -520.988
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "shabanovskoe": {
         "name": "Шабановское",
@@ -5670,7 +5670,7 @@ CITY_DATA = {
             19540.9
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "shaumyan": {
         "name": "Перевал Шаумянский",
@@ -5679,7 +5679,7 @@ CITY_DATA = {
             20409.8
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "shepsi": {
         "name": "Шепси",
@@ -5688,7 +5688,7 @@ CITY_DATA = {
             23959.5
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "slavyansk": {
         "name": "Славянск-на-Кубани",
@@ -5697,7 +5697,7 @@ CITY_DATA = {
             15241.4
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "sokhum": {
         "name": "სოხუმი",
@@ -5706,7 +5706,7 @@ CITY_DATA = {
             25324.68
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "sovkvadje": {
         "name": "Совет-Квадже",
@@ -5715,7 +5715,7 @@ CITY_DATA = {
             24364.1
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "staromin": {
         "name": "Староминская",
@@ -5724,7 +5724,7 @@ CITY_DATA = {
             7574.92
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "stavropol": {
         "name": "Ставрополь",
@@ -5733,7 +5733,7 @@ CITY_DATA = {
             9584.94
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "teberda": {
         "name": "Теберда",
@@ -5742,7 +5742,7 @@ CITY_DATA = {
             20847.7
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "ticoreck": {
         "name": "Тихорецк",
@@ -5751,7 +5751,7 @@ CITY_DATA = {
             10284.6
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "timashevsk": {
         "name": "Тимашевск",
@@ -5760,7 +5760,7 @@ CITY_DATA = {
             12663.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "tuapse": {
         "name": "Туапсе",
@@ -5769,7 +5769,7 @@ CITY_DATA = {
             22453.9
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "ust": {
         "name": "Усть-Уса",
@@ -5778,7 +5778,7 @@ CITY_DATA = {
             -112383.7
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "ustdjeguta": {
         "name": "Усть-Джегута",
@@ -5787,7 +5787,7 @@ CITY_DATA = {
             16823.1
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "verhnebak": {
         "name": "Верхнебаканский",
@@ -5796,7 +5796,7 @@ CITY_DATA = {
             18703.5
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "jvari": {
         "name": "ჯვარი",
@@ -5805,7 +5805,7 @@ CITY_DATA = {
             23542.18
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "khaishi": {
         "name": "ხაიში",
@@ -5814,7 +5814,7 @@ CITY_DATA = {
             22248.4
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "zugdidi": {
         "name": "ზუგდიდი",
@@ -5823,7 +5823,7 @@ CITY_DATA = {
             25476.98
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "aberystwyth": {
         "name": "Aberystwyth",
@@ -5832,7 +5832,7 @@ CITY_DATA = {
             -22086.8
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "grumantbyen": {
         "name": "Grumantbyen",
@@ -5841,7 +5841,7 @@ CITY_DATA = {
             -161440.2
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "jaca": {
         "name": "Jaca",
@@ -5850,7 +5850,7 @@ CITY_DATA = {
             40521.8
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kalix": {
         "name": "Kalix",
@@ -5859,7 +5859,7 @@ CITY_DATA = {
             -86653.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "larnaka": {
         "name": "Λάρνακα",
@@ -5868,7 +5868,7 @@ CITY_DATA = {
             77087.2
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "lefkosia": {
         "name": "Λευκωσία",
@@ -5877,7 +5877,7 @@ CITY_DATA = {
             75661.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "lemesos": {
         "name": "Λεμεσός",
@@ -5886,7 +5886,7 @@ CITY_DATA = {
             79269.4
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "moerdijk": {
         "name": "Moerdijk",
@@ -5895,7 +5895,7 @@ CITY_DATA = {
             -7533.8
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "montana": {
         "name": "Монтана (Montana)",
@@ -5904,7 +5904,7 @@ CITY_DATA = {
             40189.5
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "pafos": {
         "name": "Πάφος",
@@ -5913,7 +5913,7 @@ CITY_DATA = {
             79057.9
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "pamplona": {
         "name": "Pamplona-Iruña",
@@ -5922,7 +5922,7 @@ CITY_DATA = {
             38359.3
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "porthmadog": {
         "name": "Porthmadog",
@@ -5931,7 +5931,7 @@ CITY_DATA = {
             -26313.9
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "soria": {
         "name": "Soria",
@@ -5940,7 +5940,7 @@ CITY_DATA = {
             43033.8
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "teruel": {
         "name": "Teruel",
@@ -5949,7 +5949,7 @@ CITY_DATA = {
             52141.6
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "ukmerge": {
         "name": "Ukmergė",
@@ -5958,7 +5958,7 @@ CITY_DATA = {
             -27394.4
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "valencia": {
         "name": "Valencia",
@@ -5967,7 +5967,7 @@ CITY_DATA = {
             58089.9
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "vidin": {
         "name": "Видин (Vidin)",
@@ -5976,7 +5976,7 @@ CITY_DATA = {
             36115.1
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "vinaros": {
         "name": "Vinaròs",
@@ -5985,7 +5985,7 @@ CITY_DATA = {
             54007.8
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "ystad": {
         "name": "Ystad",
@@ -5994,7 +5994,7 @@ CITY_DATA = {
             -26398.2
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "zaragoza": {
         "name": "Zaragoza",
@@ -6003,7 +6003,7 @@ CITY_DATA = {
             45516.3
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "faaro": {
         "name": "Fårö",
@@ -6012,7 +6012,7 @@ CITY_DATA = {
             -40677.71
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "gusev": {
         "name": "Гусев",
@@ -6021,7 +6021,7 @@ CITY_DATA = {
             -22661.2
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "hawes": {
         "name": "Hawes",
@@ -6030,7 +6030,7 @@ CITY_DATA = {
             -34247.8
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "hoburg": {
         "name": "Hoburg",
@@ -6039,7 +6039,7 @@ CITY_DATA = {
             -35390.24
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "ljugarn": {
         "name": "Ljugarn",
@@ -6048,7 +6048,7 @@ CITY_DATA = {
             -37363.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "olomouc": {
         "name": "Olomouc",
@@ -6057,7 +6057,7 @@ CITY_DATA = {
             5928.35
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "stornoway": {
         "name": "Stornoway",
@@ -6066,7 +6066,7 @@ CITY_DATA = {
             -66994.5
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "trnava": {
         "name": "Trnava",
@@ -6075,7 +6075,7 @@ CITY_DATA = {
             13133.2
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "vasaros": {
         "name": "Vásárosnamény",
@@ -6084,7 +6084,7 @@ CITY_DATA = {
             13498.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "visby": {
         "name": "Visby",
@@ -6093,7 +6093,7 @@ CITY_DATA = {
             -39164.1
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kappellskar": {
         "name": "Kappelskär",
@@ -6102,7 +6102,7 @@ CITY_DATA = {
             -51357.2
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "hammerfest": {
         "name": "Hammerfest",
@@ -6111,7 +6111,7 @@ CITY_DATA = {
             -117025.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "jihlava": {
         "name": "Jihlava",
@@ -6120,7 +6120,7 @@ CITY_DATA = {
             8814.57
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kandalaksha": {
         "name": "Кандалакша",
@@ -6129,7 +6129,7 @@ CITY_DATA = {
             -100226.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kirkenes": {
         "name": "Kirkenes",
@@ -6138,7 +6138,7 @@ CITY_DATA = {
             -113739.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kittila": {
         "name": "Kittilä",
@@ -6147,7 +6147,7 @@ CITY_DATA = {
             -97622.9
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "nikel": {
         "name": "Никель",
@@ -6156,7 +6156,7 @@ CITY_DATA = {
             -109791.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "satumare": {
         "name": "Satu Mare",
@@ -6165,7 +6165,7 @@ CITY_DATA = {
             15033.6
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "sodankyla": {
         "name": "Sodankylä",
@@ -6174,7 +6174,7 @@ CITY_DATA = {
             -96694.4
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "tanabru": {
         "name": "Tana bru",
@@ -6183,7 +6183,7 @@ CITY_DATA = {
             -114736.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "utsjoki": {
         "name": "Utsjoki",
@@ -6192,7 +6192,7 @@ CITY_DATA = {
             -112825.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "verkhnetulom": {
         "name": "Верхнетуломский",
@@ -6201,7 +6201,7 @@ CITY_DATA = {
             -106321.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "anklam": {
         "name": "Anklam",
@@ -6210,7 +6210,7 @@ CITY_DATA = {
             -16805.98
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "balivanich": {
         "name": "Balivanich",
@@ -6219,7 +6219,7 @@ CITY_DATA = {
             -63254.07
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "balti": {
         "name": "Bălţi",
@@ -6228,7 +6228,7 @@ CITY_DATA = {
             12143.2
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "batumi": {
         "name": "Batumi",
@@ -6237,7 +6237,7 @@ CITY_DATA = {
             36298.7
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "chelm": {
         "name": "Chełm",
@@ -6246,7 +6246,7 @@ CITY_DATA = {
             -4006.082
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "chemnitz": {
         "name": "Chemnitz",
@@ -6255,7 +6255,7 @@ CITY_DATA = {
             196.84
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "chisinau": {
         "name": "Chişinău",
@@ -6264,7 +6264,7 @@ CITY_DATA = {
             16235.3
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "ciudadreal": {
         "name": "Ciudad Real",
@@ -6273,7 +6273,7 @@ CITY_DATA = {
             57201.3
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "exeter": {
         "name": "Exeter",
@@ -6282,7 +6282,7 @@ CITY_DATA = {
             -10544.3
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "geta": {
         "name": "Geta",
@@ -6291,7 +6291,7 @@ CITY_DATA = {
             -55443.6
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "godby": {
         "name": "Godby",
@@ -6300,7 +6300,7 @@ CITY_DATA = {
             -54314.7
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "granville": {
         "name": "Granville",
@@ -6309,7 +6309,7 @@ CITY_DATA = {
             4072.789
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kovel": {
         "name": "Ковель",
@@ -6318,7 +6318,7 @@ CITY_DATA = {
             -5276.61
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "krasnystaw": {
         "name": "Krasnystaw",
@@ -6327,7 +6327,7 @@ CITY_DATA = {
             -3092.67
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "lochboisdale": {
         "name": "Lochboisdale",
@@ -6336,7 +6336,7 @@ CITY_DATA = {
             -60837.93
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "lutsk": {
         "name": "Луцьк",
@@ -6345,7 +6345,7 @@ CITY_DATA = {
             -2108.44
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "lviv": {
         "name": "Львів",
@@ -6354,7 +6354,7 @@ CITY_DATA = {
             3263.109
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "mulhouse": {
         "name": "Mulhouse",
@@ -6363,7 +6363,7 @@ CITY_DATA = {
             15601.06
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "muonio": {
         "name": "Muonio",
@@ -6372,7 +6372,7 @@ CITY_DATA = {
             -100131.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "norwich": {
         "name": "Norwich",
@@ -6381,7 +6381,7 @@ CITY_DATA = {
             -19256.9
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "novovolynsk": {
         "name": "Нововолинськ",
@@ -6390,7 +6390,7 @@ CITY_DATA = {
             -901.023
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "polyanytsya": {
         "name": "Поляниця",
@@ -6399,7 +6399,7 @@ CITY_DATA = {
             10996.24
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "piotrkowt": {
         "name": "Piotrków Trybunalski",
@@ -6408,7 +6408,7 @@ CITY_DATA = {
             -3904.72
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "poti": {
         "name": "ფოთი",
@@ -6417,7 +6417,7 @@ CITY_DATA = {
             28397.5
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "soltau": {
         "name": "Soltau",
@@ -6426,7 +6426,7 @@ CITY_DATA = {
             -12814.87
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "stryi": {
         "name": "Стрий",
@@ -6435,7 +6435,7 @@ CITY_DATA = {
             6186.38
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "sumeg": {
         "name": "Sümeg",
@@ -6444,7 +6444,7 @@ CITY_DATA = {
             21183.7
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "szombathely": {
         "name": "Szombathely",
@@ -6453,7 +6453,7 @@ CITY_DATA = {
             19867.5
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "thorlakshofn": {
         "name": "Þorlákshöfn",
@@ -6462,7 +6462,7 @@ CITY_DATA = {
             -95046.1
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "varmahlid": {
         "name": "Varmahlíð",
@@ -6471,7 +6471,7 @@ CITY_DATA = {
             -102474.7
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "vestero": {
         "name": "Vesterø Havn",
@@ -6480,7 +6480,7 @@ CITY_DATA = {
             -37163.5
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "zvolen": {
         "name": "Zvolen",
@@ -6489,7 +6489,7 @@ CITY_DATA = {
             12590.47
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "andalsnes": {
         "name": "Åndalsnes",
@@ -6498,7 +6498,7 @@ CITY_DATA = {
             -68787.44
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "batsfjord": {
         "name": "Båtsfjord",
@@ -6507,7 +6507,7 @@ CITY_DATA = {
             -117492.9
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "berlevag": {
         "name": "Berlevåg",
@@ -6516,7 +6516,7 @@ CITY_DATA = {
             -118032.9
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "bidjovagge": {
         "name": "Bidjovagge",
@@ -6525,7 +6525,7 @@ CITY_DATA = {
             -108304.3
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "canfranc": {
         "name": "Canfranc-Estación",
@@ -6534,7 +6534,7 @@ CITY_DATA = {
             38274.56
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "chernivtsi": {
         "name": "Чернівці",
@@ -6543,7 +6543,7 @@ CITY_DATA = {
             10513.7
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "contreras": {
         "name": "Contreras",
@@ -6552,7 +6552,7 @@ CITY_DATA = {
             56805.04
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "dax": {
         "name": "Dax",
@@ -6561,7 +6561,7 @@ CITY_DATA = {
             33009.8
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "foix": {
         "name": "Foix",
@@ -6570,7 +6570,7 @@ CITY_DATA = {
             38649.75
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "giurgiulesti": {
         "name": "Giurgiulești",
@@ -6579,7 +6579,7 @@ CITY_DATA = {
             23286.54
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "ivanofrank": {
         "name": "Івано-Франківськ",
@@ -6588,7 +6588,7 @@ CITY_DATA = {
             8255.016
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "karasjok": {
         "name": "Karasjok",
@@ -6597,7 +6597,7 @@ CITY_DATA = {
             -110560.4
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kaustinen": {
         "name": "Kaustinen",
@@ -6606,7 +6606,7 @@ CITY_DATA = {
             -73772.19
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kautokeino": {
         "name": "Kautokeino",
@@ -6615,7 +6615,7 @@ CITY_DATA = {
             -107199.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kjollefjord": {
         "name": "Kjøllefjord",
@@ -6624,7 +6624,7 @@ CITY_DATA = {
             -118681.2
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "lakselv": {
         "name": "Lakselv",
@@ -6633,7 +6633,7 @@ CITY_DATA = {
             -113360.8
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "lebesby": {
         "name": "Lebesby",
@@ -6642,7 +6642,7 @@ CITY_DATA = {
             -116463.7
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "llivia": {
         "name": "Llívia",
@@ -6651,7 +6651,7 @@ CITY_DATA = {
             43060.66
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "mehamn": {
         "name": "Mehamn",
@@ -6660,7 +6660,7 @@ CITY_DATA = {
             -119092.8
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "michalovce": {
         "name": "Michalovce",
@@ -6669,7 +6669,7 @@ CITY_DATA = {
             10198.44
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "molde": {
         "name": "Molde",
@@ -6678,7 +6678,7 @@ CITY_DATA = {
             -69333.64
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "mragowo": {
         "name": "Mrągowo",
@@ -6687,7 +6687,7 @@ CITY_DATA = {
             -18811.24
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "newport": {
         "name": "Newport",
@@ -6696,7 +6696,7 @@ CITY_DATA = {
             -15517.18
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "nordurfjord": {
         "name": "Norðurfjörður",
@@ -6705,7 +6705,7 @@ CITY_DATA = {
             -109283.3
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "olafsvik": {
         "name": "Ólafsvík",
@@ -6714,7 +6714,7 @@ CITY_DATA = {
             -106360.8
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "pello": {
         "name": "Pello",
@@ -6723,7 +6723,7 @@ CITY_DATA = {
             -91209.48
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "port": {
         "name": "Port de Sóller",
@@ -6732,7 +6732,7 @@ CITY_DATA = {
             57312.64
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "savonlinna": {
         "name": "Savonlinna",
@@ -6741,7 +6741,7 @@ CITY_DATA = {
             -66390.95
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "seinajoki": {
         "name": "Seinäjoki",
@@ -6750,7 +6750,7 @@ CITY_DATA = {
             -68926.15
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "siracusa": {
         "name": "Siracusa",
@@ -6759,7 +6759,7 @@ CITY_DATA = {
             78109.8
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "storslett": {
         "name": "Storslett",
@@ -6768,7 +6768,7 @@ CITY_DATA = {
             -110156.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "stykkisholmur": {
         "name": "Stykkishólmur",
@@ -6777,7 +6777,7 @@ CITY_DATA = {
             -104725.6
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "vadso": {
         "name": "Vadsø",
@@ -6786,7 +6786,7 @@ CITY_DATA = {
             -115231.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "valenciennes": {
         "name": "Valenciennes",
@@ -6795,7 +6795,7 @@ CITY_DATA = {
             -978.5313
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "valletta": {
         "name": "il-Belt Valletta",
@@ -6804,7 +6804,7 @@ CITY_DATA = {
             83228.8
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "varash": {
         "name": "Вараш",
@@ -6813,7 +6813,7 @@ CITY_DATA = {
             -5942.145
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "vardo": {
         "name": "Vardø",
@@ -6822,7 +6822,7 @@ CITY_DATA = {
             -117029.7
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "wadowice": {
         "name": "Wadowice",
@@ -6831,7 +6831,7 @@ CITY_DATA = {
             4762.188
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "ylivieska": {
         "name": "Ylivieska",
@@ -6840,7 +6840,7 @@ CITY_DATA = {
             -76723.53
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "amstetten": {
         "name": "Amstetten",
@@ -6849,7 +6849,7 @@ CITY_DATA = {
             14873.95
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "ballangen": {
         "name": "Ballangen",
@@ -6858,7 +6858,7 @@ CITY_DATA = {
             -101287.2
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "bardufoss": {
         "name": "Bardufoss",
@@ -6867,7 +6867,7 @@ CITY_DATA = {
             -105655.8
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "bischofsh": {
         "name": "Bischofshofen",
@@ -6876,7 +6876,7 @@ CITY_DATA = {
             19834.13
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "coquelles": {
         "name": "Coquelles",
@@ -6885,7 +6885,7 @@ CITY_DATA = {
             -1694.344
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "corlu": {
         "name": "Çorlu",
@@ -6894,7 +6894,7 @@ CITY_DATA = {
             48112.96
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "dobrich": {
         "name": "Добрич",
@@ -6903,7 +6903,7 @@ CITY_DATA = {
             34660.93
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "finnsnes": {
         "name": "Finnsnes",
@@ -6912,7 +6912,7 @@ CITY_DATA = {
             -106497.1
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "leoben": {
         "name": "Leoben",
@@ -6921,7 +6921,7 @@ CITY_DATA = {
             18312.98
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "macon": {
         "name": "Mâcon",
@@ -6930,7 +6930,7 @@ CITY_DATA = {
             23033.09
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "saalfelden": {
         "name": "Saalfelden",
@@ -6939,7 +6939,7 @@ CITY_DATA = {
             19164.35
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "sebes": {
         "name": "Sebeș",
@@ -6948,7 +6948,7 @@ CITY_DATA = {
             23482.44
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "setermoen": {
         "name": "Setermoen",
@@ -6957,7 +6957,7 @@ CITY_DATA = {
             -104614.9
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "shumen": {
         "name": "Шумен",
@@ -6966,7 +6966,7 @@ CITY_DATA = {
             37987.6
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "silistra": {
         "name": "Силистра",
@@ -6975,7 +6975,7 @@ CITY_DATA = {
             33148.2
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "stockerau": {
         "name": "Stockerau",
@@ -6984,7 +6984,7 @@ CITY_DATA = {
             12160.02
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "trofors": {
         "name": "Trofors",
@@ -6993,7 +6993,7 @@ CITY_DATA = {
             -84668.54
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "tulcea": {
         "name": "Tulcea",
@@ -7002,7 +7002,7 @@ CITY_DATA = {
             25999.17
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "winklern": {
         "name": "Winklern",
@@ -7011,7 +7011,7 @@ CITY_DATA = {
             22700.78
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "akhaltsikhe": {
         "name": "ახალციხე",
@@ -7020,7 +7020,7 @@ CITY_DATA = {
             28578.61
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "antrim": {
         "name": "Antrim",
@@ -7029,7 +7029,7 @@ CITY_DATA = {
             -42747.58
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "ballymena": {
         "name": "Ballymena",
@@ -7038,7 +7038,7 @@ CITY_DATA = {
             -44399.92
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "borjomi": {
         "name": "ბორჯომი",
@@ -7047,7 +7047,7 @@ CITY_DATA = {
             27577.92
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "buzau": {
         "name": "Buzău",
@@ -7056,7 +7056,7 @@ CITY_DATA = {
             26834.91
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "focsani": {
         "name": "Focşani",
@@ -7065,7 +7065,7 @@ CITY_DATA = {
             23506.02
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "gori": {
         "name": "გორი",
@@ -7074,7 +7074,7 @@ CITY_DATA = {
             26203.23
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "grong": {
         "name": "Grong",
@@ -7083,7 +7083,7 @@ CITY_DATA = {
             -77827.08
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kecskemet": {
         "name": "Kecskemét",
@@ -7092,7 +7092,7 @@ CITY_DATA = {
             20955.21
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "khashuri": {
         "name": "ხაშური",
@@ -7101,7 +7101,7 @@ CITY_DATA = {
             25952.71
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kilkenny": {
         "name": "Cill Chainnigh",
@@ -7110,7 +7110,7 @@ CITY_DATA = {
             -28840.13
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kutaisi": {
         "name": "Kutaisi",
@@ -7119,7 +7119,7 @@ CITY_DATA = {
             33952.6
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "larne": {
         "name": "Larne",
@@ -7128,7 +7128,7 @@ CITY_DATA = {
             -43448.91
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "monaco": {
         "name": "Monaco",
@@ -7137,7 +7137,7 @@ CITY_DATA = {
             38207.85
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "namsskogan": {
         "name": "Namsskogan",
@@ -7146,7 +7146,7 @@ CITY_DATA = {
             -80602.89
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "newry": {
         "name": "Newry",
@@ -7155,7 +7155,7 @@ CITY_DATA = {
             -38481.16
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "nuuk": {
         "name": "Nuuk",
@@ -7164,7 +7164,7 @@ CITY_DATA = {
             -148163.3
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "sarny": {
         "name": "Сарни",
@@ -7173,7 +7173,7 @@ CITY_DATA = {
             -5674.383
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "stpeterport": {
         "name": "Saint Peter Port",
@@ -7182,7 +7182,7 @@ CITY_DATA = {
             -1156.402
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "tbilisi": {
         "name": "Tbilisi",
@@ -7191,7 +7191,7 @@ CITY_DATA = {
             44038.1
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "turkgozu": {
         "name": "Türkgözü",
@@ -7200,7 +7200,7 @@ CITY_DATA = {
             30181.75
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "verdalsora": {
         "name": "Verdalsøra",
@@ -7209,7 +7209,7 @@ CITY_DATA = {
             -74269.38
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "vevelstad": {
         "name": "Vevelstad",
@@ -7218,7 +7218,7 @@ CITY_DATA = {
             -85384.78
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "waterford": {
         "name": "Port Láirge",
@@ -7227,7 +7227,7 @@ CITY_DATA = {
             -24783.81
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "zeni": {
         "name": "ზენი",
@@ -7236,7 +7236,7 @@ CITY_DATA = {
             27030.51
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "rijeka": {
         "name": "Rijeka",
@@ -7245,7 +7245,7 @@ CITY_DATA = {
             30236.26
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "osijek": {
         "name": "Osijek",
@@ -7254,7 +7254,7 @@ CITY_DATA = {
             28718.71
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "niš": {
         "name": "Ниш",
@@ -7263,7 +7263,7 @@ CITY_DATA = {
             39664.18
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "vranje": {
         "name": "Врање",
@@ -7272,7 +7272,7 @@ CITY_DATA = {
             43968.55
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "zadar": {
         "name": "Zadar",
@@ -7281,7 +7281,7 @@ CITY_DATA = {
             36990.14
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "zagreb": {
         "name": "Zagreb",
@@ -7290,7 +7290,7 @@ CITY_DATA = {
             26970.24
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "bihać": {
         "name": "Бихаћ",
@@ -7299,7 +7299,7 @@ CITY_DATA = {
             32936.13
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "split": {
         "name": "Split",
@@ -7308,7 +7308,7 @@ CITY_DATA = {
             40582.68
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "banja luka": {
         "name": "Бања Лука",
@@ -7317,7 +7317,7 @@ CITY_DATA = {
             33233.34
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "ploče": {
         "name": "Ploče",
@@ -7326,7 +7326,7 @@ CITY_DATA = {
             42367.71
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "sarajevo": {
         "name": "Сарајево",
@@ -7335,7 +7335,7 @@ CITY_DATA = {
             38346.24
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "zenica": {
         "name": "Зеница",
@@ -7344,7 +7344,7 @@ CITY_DATA = {
             36216.93
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "mostar": {
         "name": "Мостар",
@@ -7353,7 +7353,7 @@ CITY_DATA = {
             41005.78
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "dubrovnik": {
         "name": "Dubrovnik",
@@ -7362,7 +7362,7 @@ CITY_DATA = {
             44586.13
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "tuzla": {
         "name": "Тузла",
@@ -7371,7 +7371,7 @@ CITY_DATA = {
             33987.56
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "karakaj": {
         "name": "Каракај",
@@ -7380,7 +7380,7 @@ CITY_DATA = {
             33699.96
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "nikšić": {
         "name": "Никшић",
@@ -7389,7 +7389,7 @@ CITY_DATA = {
             43338.98
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "podgorica": {
         "name": "Подгорица",
@@ -7398,7 +7398,7 @@ CITY_DATA = {
             45528.54
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "bar": {
         "name": "Бар",
@@ -7407,7 +7407,7 @@ CITY_DATA = {
             48865.41
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "novi sad": {
         "name": "Нови Сад",
@@ -7416,7 +7416,7 @@ CITY_DATA = {
             30002.01
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "belgrade": {
         "name": "Београд",
@@ -7425,7 +7425,7 @@ CITY_DATA = {
             32075.29
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "bijelo polje": {
         "name": "Бијело Поље",
@@ -7434,7 +7434,7 @@ CITY_DATA = {
             42041.97
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "tirana": {
         "name": "Tiranë",
@@ -7443,7 +7443,7 @@ CITY_DATA = {
             51343.19
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "durrës": {
         "name": "Durrës",
@@ -7452,7 +7452,7 @@ CITY_DATA = {
             52037.69
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "fier": {
         "name": "Fier",
@@ -7461,7 +7461,7 @@ CITY_DATA = {
             55012.76
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "vlorë": {
         "name": "Vlorë",
@@ -7470,7 +7470,7 @@ CITY_DATA = {
             57259.23
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kragujevac": {
         "name": "Крагујевац",
@@ -7479,7 +7479,7 @@ CITY_DATA = {
             36682.63
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "skopje": {
         "name": "Скопје",
@@ -7488,7 +7488,7 @@ CITY_DATA = {
             48230.5
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "bitola": {
         "name": "Битола",
@@ -7497,7 +7497,7 @@ CITY_DATA = {
             52990.2
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "ljubljana": {
         "name": "Ljubljana",
@@ -7506,7 +7506,7 @@ CITY_DATA = {
             25965.21
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "maribor": {
         "name": "Maribor",
@@ -7515,7 +7515,7 @@ CITY_DATA = {
             23210.31
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "novo mesto": {
         "name": "Novo Mesto",
@@ -7524,7 +7524,7 @@ CITY_DATA = {
             27789.35
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "pristina": {
         "name": "Prishtinë",
@@ -7533,7 +7533,7 @@ CITY_DATA = {
             43605.76
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "senj": {
         "name": "Senj",
@@ -7542,7 +7542,7 @@ CITY_DATA = {
             32219.38
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "slavonski": {
         "name": "Slavonski Brod",
@@ -7551,7 +7551,7 @@ CITY_DATA = {
             30801.36
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "sarande": {
         "name": "Sarandë",
@@ -7560,7 +7560,7 @@ CITY_DATA = {
             61010.47
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "zaqatala": {
         "name": "Zaqatala",
@@ -7569,7 +7569,7 @@ CITY_DATA = {
             22634.14
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "mingachevir": {
         "name": "Mingaçevir",
@@ -7578,7 +7578,7 @@ CITY_DATA = {
             24624.12
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "yevlakh": {
         "name": "Yevlax",
@@ -7587,7 +7587,7 @@ CITY_DATA = {
             25800.02
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kurdamir": {
         "name": "Kürdamir",
@@ -7596,7 +7596,7 @@ CITY_DATA = {
             25365.75
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "hajiqabul": {
         "name": "Hacıqabul",
@@ -7605,7 +7605,7 @@ CITY_DATA = {
             25992.41
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "alat": {
         "name": "Alat",
@@ -7614,7 +7614,7 @@ CITY_DATA = {
             25618.3
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "vanadzor": {
         "name": "Vanadzor",
@@ -7623,7 +7623,7 @@ CITY_DATA = {
             30097.3
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "yerevan": {
         "name": "Yerevan",
@@ -7632,7 +7632,7 @@ CITY_DATA = {
             33696.29
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "marneuli": {
         "name": "მარნეული",
@@ -7641,7 +7641,7 @@ CITY_DATA = {
             26608.22
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "rustavi": {
         "name": "რუსთავი",
@@ -7650,7 +7650,7 @@ CITY_DATA = {
             25909.37
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "telavi": {
         "name": "თელავი",
@@ -7659,7 +7659,7 @@ CITY_DATA = {
             22578.39
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "korinthos": {
         "name": "Κόρινθος",
@@ -7668,7 +7668,7 @@ CITY_DATA = {
             70737.48
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "gibraltar": {
         "name": "Gibraltar",
@@ -7677,7 +7677,7 @@ CITY_DATA = {
             71538.92
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kesan": {
         "name": "Keşan",
@@ -7686,7 +7686,7 @@ CITY_DATA = {
             51801.47
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "izmail": {
         "name": "Ізмаїл",
@@ -7695,7 +7695,7 @@ CITY_DATA = {
             23993.07
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "odessa": {
         "name": "Одеса",
@@ -7704,7 +7704,7 @@ CITY_DATA = {
             18119.77
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "bodmin": {
         "name": "Bodmin",
@@ -7713,7 +7713,7 @@ CITY_DATA = {
             -9313.863
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "domat": {
         "name": "Domat/Ems",
@@ -7722,7 +7722,7 @@ CITY_DATA = {
             21044.8
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "subotica": {
         "name": "Суботица",
@@ -7731,7 +7731,7 @@ CITY_DATA = {
             27748.21
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "susten": {
         "name": "Susten",
@@ -7740,7 +7740,7 @@ CITY_DATA = {
             23683.05
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "tours": {
         "name": "Tours",
@@ -7749,7 +7749,7 @@ CITY_DATA = {
             13624.64
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "afula": {
         "name": "Afula",
@@ -7758,7 +7758,7 @@ CITY_DATA = {
             87648.5
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "akko": {
         "name": "Akko",
@@ -7767,7 +7767,7 @@ CITY_DATA = {
             85981.9
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "alkarak": {
         "name": "Al-Karak",
@@ -7776,7 +7776,7 @@ CITY_DATA = {
             96172.7
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "alnukhib": {
         "name": "Al Nukhib",
@@ -7785,7 +7785,7 @@ CITY_DATA = {
             81816.39
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "alqaim": {
         "name": "Al-Qa'im",
@@ -7794,7 +7794,7 @@ CITY_DATA = {
             70572.55
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "amman": {
         "name": "Amman",
@@ -7803,7 +7803,7 @@ CITY_DATA = {
             91263.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "an": {
         "name": "An-Nabk",
@@ -7812,7 +7812,7 @@ CITY_DATA = {
             77127.59
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "aqaba": {
         "name": "Aqaba",
@@ -7821,7 +7821,7 @@ CITY_DATA = {
             104015.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "ashdod": {
         "name": "Ashdod",
@@ -7830,7 +7830,7 @@ CITY_DATA = {
             92862.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "ashkelon": {
         "name": "Ashkelon",
@@ -7839,7 +7839,7 @@ CITY_DATA = {
             93785.6
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "baalbek": {
         "name": "Baalbek",
@@ -7848,7 +7848,7 @@ CITY_DATA = {
             79086.56
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "baiji": {
         "name": "Baiji",
@@ -7857,7 +7857,7 @@ CITY_DATA = {
             62036.2
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "beersheva": {
         "name": "Beer Sheva",
@@ -7866,7 +7866,7 @@ CITY_DATA = {
             96046.8
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "beirut": {
         "name": "Beirut",
@@ -7875,7 +7875,7 @@ CITY_DATA = {
             80662.3
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "bethlehem": {
         "name": "Bethlehem",
@@ -7884,7 +7884,7 @@ CITY_DATA = {
             93047.44
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "betshean": {
         "name": "Bet She'an",
@@ -7893,7 +7893,7 @@ CITY_DATA = {
             87845.3
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "byblos": {
         "name": "Byblos",
@@ -7902,7 +7902,7 @@ CITY_DATA = {
             79176.8
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "damascus": {
         "name": "Damascus",
@@ -7911,7 +7911,7 @@ CITY_DATA = {
             81594.5
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "damietta": {
         "name": "Damietta",
@@ -7920,7 +7920,7 @@ CITY_DATA = {
             97062.2
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "deraa": {
         "name": "Deraa",
@@ -7929,7 +7929,7 @@ CITY_DATA = {
             86145.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "dimona": {
         "name": "Dimona",
@@ -7938,7 +7938,7 @@ CITY_DATA = {
             97336.5
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "eilat": {
         "name": "Eilat",
@@ -7947,7 +7947,7 @@ CITY_DATA = {
             103848.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "eingedi": {
         "name": "Ein Gedi",
@@ -7956,7 +7956,7 @@ CITY_DATA = {
             94729.5
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "elarish": {
         "name": "El Arish",
@@ -7965,7 +7965,7 @@ CITY_DATA = {
             97150.4
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "hadera": {
         "name": "Hadera",
@@ -7974,7 +7974,7 @@ CITY_DATA = {
             87975.3
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "haditha": {
         "name": "Haditha",
@@ -7983,7 +7983,7 @@ CITY_DATA = {
             70940.06
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "haifa": {
         "name": "Haifa",
@@ -7992,7 +7992,7 @@ CITY_DATA = {
             86732.1
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "haql": {
         "name": "Haql",
@@ -8001,7 +8001,7 @@ CITY_DATA = {
             106289.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "herzliya": {
         "name": "Herzliya",
@@ -8010,7 +8010,7 @@ CITY_DATA = {
             89625.3
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "hims": {
         "name": "Homs",
@@ -8019,7 +8019,7 @@ CITY_DATA = {
             73513.72
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "hit": {
         "name": "Hit",
@@ -8028,7 +8028,7 @@ CITY_DATA = {
             72657.38
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "irbid": {
         "name": "Irbid",
@@ -8037,7 +8037,7 @@ CITY_DATA = {
             87668.7
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "izra": {
         "name": "Izra",
@@ -8046,7 +8046,7 @@ CITY_DATA = {
             84567.7
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "jericho": {
         "name": "Jericho",
@@ -8055,7 +8055,7 @@ CITY_DATA = {
             92042.1
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "jerash": {
         "name": "Jerash",
@@ -8064,7 +8064,7 @@ CITY_DATA = {
             89222.38
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "jerusalem": {
         "name": "Jerusalem",
@@ -8073,7 +8073,7 @@ CITY_DATA = {
             92277.8
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kshmona": {
         "name": "Kiryat Shmona",
@@ -8082,7 +8082,7 @@ CITY_DATA = {
             84137.3
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "maan": {
         "name": "Ma'an",
@@ -8091,7 +8091,7 @@ CITY_DATA = {
             100769.2
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "madaba": {
         "name": "Madaba",
@@ -8100,7 +8100,7 @@ CITY_DATA = {
             92957.8
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "mafraq": {
         "name": "Mafraq",
@@ -8109,7 +8109,7 @@ CITY_DATA = {
             88451.3
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "mersin": {
         "name": "Mersin",
@@ -8118,7 +8118,7 @@ CITY_DATA = {
             66435.42
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "mitzpe": {
         "name": "Mitzpe Ramon",
@@ -8127,7 +8127,7 @@ CITY_DATA = {
             98894.4
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "nabatieh": {
         "name": "Nabatieh",
@@ -8136,7 +8136,7 @@ CITY_DATA = {
             83721.5
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "nakhl": {
         "name": "Nakhl",
@@ -8145,7 +8145,7 @@ CITY_DATA = {
             103987.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "nazareth": {
         "name": "Nazareth",
@@ -8154,7 +8154,7 @@ CITY_DATA = {
             87167.6
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "netanya": {
         "name": "Netanya",
@@ -8163,7 +8163,7 @@ CITY_DATA = {
             88953.3
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "osmaniye": {
         "name": "Osmaniye",
@@ -8172,7 +8172,7 @@ CITY_DATA = {
             62851.54
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "portsaid": {
         "name": "Port Said",
@@ -8181,7 +8181,7 @@ CITY_DATA = {
             97628.5
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "ramallah": {
         "name": "Ramallah",
@@ -8190,7 +8190,7 @@ CITY_DATA = {
             91507.8
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "rishon": {
         "name": "Rishon LeZion",
@@ -8199,7 +8199,7 @@ CITY_DATA = {
             91479.3
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "rutba": {
         "name": "Ar-Rutbah",
@@ -8208,7 +8208,7 @@ CITY_DATA = {
             80112.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "ruwaished": {
         "name": "Ruwaished",
@@ -8217,7 +8217,7 @@ CITY_DATA = {
             84836.5
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "safawi": {
         "name": "Safawi",
@@ -8226,7 +8226,7 @@ CITY_DATA = {
             88165.9
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "sanamayn": {
         "name": "Al-Sanamayn",
@@ -8235,7 +8235,7 @@ CITY_DATA = {
             83223.72
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "sayda": {
         "name": "Sayda",
@@ -8244,7 +8244,7 @@ CITY_DATA = {
             82771.8
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "silifke": {
         "name": "Silifke",
@@ -8253,7 +8253,7 @@ CITY_DATA = {
             69625.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "taba": {
         "name": "Taba",
@@ -8262,7 +8262,7 @@ CITY_DATA = {
             104701.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "telaviv": {
         "name": "Tel Aviv",
@@ -8271,7 +8271,7 @@ CITY_DATA = {
             90591.5
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "tiberias": {
         "name": "Tiberias",
@@ -8280,7 +8280,7 @@ CITY_DATA = {
             86046.6
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "tripolilb": {
         "name": "Tripoli",
@@ -8289,7 +8289,7 @@ CITY_DATA = {
             77400.8
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "tyr": {
         "name": "Tyr",
@@ -8298,7 +8298,7 @@ CITY_DATA = {
             83905.7
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "zahle": {
         "name": "Zahle",
@@ -8307,7 +8307,7 @@ CITY_DATA = {
             80176.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "zarka": {
         "name": "Zarka",
@@ -8316,7 +8316,7 @@ CITY_DATA = {
             90744.4
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "iskenderun": {
         "name": "İskenderun",
@@ -8325,7 +8325,7 @@ CITY_DATA = {
             65175.58
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "antakya": {
         "name": "Antakya",
@@ -8334,7 +8334,7 @@ CITY_DATA = {
             66922.95
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "latakia": {
         "name": "اللاذقية",
@@ -8343,7 +8343,7 @@ CITY_DATA = {
             70919.05
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "tartus": {
         "name": "طَرْطُوس ",
@@ -8352,7 +8352,7 @@ CITY_DATA = {
             74175.76
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "enfidha": {
         "name": "Enfidha",
@@ -8361,7 +8361,7 @@ CITY_DATA = {
             82039.91
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kenitra": {
         "name": "Kénitra",
@@ -8370,7 +8370,7 @@ CITY_DATA = {
             79902.2
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "ksarkbir": {
         "name": "Ksar El Kbir",
@@ -8379,7 +8379,7 @@ CITY_DATA = {
             77299.03
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "larache": {
         "name": "Larache",
@@ -8388,7 +8388,7 @@ CITY_DATA = {
             75400.34
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "medtangier": {
         "name": "Port Med Tangier",
@@ -8397,7 +8397,7 @@ CITY_DATA = {
             72667.91
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "rabat": {
         "name": "Rabat",
@@ -8406,7 +8406,7 @@ CITY_DATA = {
             80499.94
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "sale": {
         "name": "Salé",
@@ -8415,7 +8415,7 @@ CITY_DATA = {
             80608.2
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "tangier": {
         "name": "Tangier",
@@ -8424,7 +8424,7 @@ CITY_DATA = {
             72534.61
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "tetouan": {
         "name": "Tétouan",
@@ -8433,7 +8433,7 @@ CITY_DATA = {
             74788.69
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "tunis": {
         "name": "Tunis",
@@ -8442,7 +8442,7 @@ CITY_DATA = {
             76705.7
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "utique": {
         "name": "Utique",
@@ -8451,7 +8451,7 @@ CITY_DATA = {
             76575.57
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "domitz": {
         "name": "Dömitz",
@@ -8460,7 +8460,7 @@ CITY_DATA = {
             -13488.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "falkenberg": {
         "name": "Falkenberg",
@@ -8469,7 +8469,7 @@ CITY_DATA = {
             -34400.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "virovitica": {
         "name": "Virovitica",
@@ -8478,7 +8478,7 @@ CITY_DATA = {
             28255.8
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "gubkinskii": {
         "name": "Губкинский",
@@ -8487,7 +8487,7 @@ CITY_DATA = {
             -135867.5
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "hanti": {
         "name": "Ханты-Мансийск",
@@ -8496,7 +8496,7 @@ CITY_DATA = {
             -111635.7
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "harjg": {
         "name": "Харьягинский",
@@ -8505,7 +8505,7 @@ CITY_DATA = {
             -119299.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "horei": {
         "name": "Хорей-Вер",
@@ -8514,7 +8514,7 @@ CITY_DATA = {
             -126203.5
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "ijma": {
         "name": "Ижма",
@@ -8523,7 +8523,7 @@ CITY_DATA = {
             -104447.7
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "inta": {
         "name": "Инта",
@@ -8532,7 +8532,7 @@ CITY_DATA = {
             -116817.5
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "labit": {
         "name": "Лабытнанги",
@@ -8541,7 +8541,7 @@ CITY_DATA = {
             -132293.3
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "muravlenko": {
         "name": "Муравленко",
@@ -8550,7 +8550,7 @@ CITY_DATA = {
             -130894.6
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "nadim": {
         "name": "Надым",
@@ -8559,7 +8559,7 @@ CITY_DATA = {
             -136163.6
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "narj": {
         "name": "Нарьян-Мар",
@@ -8568,7 +8568,7 @@ CITY_DATA = {
             -119378.2
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "okunev": {
         "name": "Окунев Нос",
@@ -8577,7 +8577,7 @@ CITY_DATA = {
             -112382.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "ozerni": {
         "name": "Озёрный",
@@ -8586,7 +8586,7 @@ CITY_DATA = {
             -105181.2
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "salehard": {
         "name": "Салехард",
@@ -8595,7 +8595,7 @@ CITY_DATA = {
             -129911.7
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "soviet": {
         "name": "Советский",
@@ -8604,7 +8604,7 @@ CITY_DATA = {
             -103236.9
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "surgut": {
         "name": "Сургут",
@@ -8613,7 +8613,7 @@ CITY_DATA = {
             -119519.4
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "tobolsk": {
         "name": "Тобольск",
@@ -8622,7 +8622,7 @@ CITY_DATA = {
             -96964.3
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "ugorsk": {
         "name": "Югорск",
@@ -8631,7 +8631,7 @@ CITY_DATA = {
             -101862.3
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "urengoi": {
         "name": "Новый Уренгой",
@@ -8640,7 +8640,7 @@ CITY_DATA = {
             -143578.1
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "ustcil": {
         "name": "Усть-Цильма",
@@ -8649,7 +8649,7 @@ CITY_DATA = {
             -105580.6
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "uxta": {
         "name": "Ухта",
@@ -8658,7 +8658,7 @@ CITY_DATA = {
             -94569.17
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "v1": {
         "name": "В/Ч-1011",
@@ -8667,7 +8667,7 @@ CITY_DATA = {
             -115755.7
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "v10": {
         "name": "В/Ч-1020",
@@ -8676,7 +8676,7 @@ CITY_DATA = {
             -133306.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "v13": {
         "name": "В/Ч-1023",
@@ -8685,7 +8685,7 @@ CITY_DATA = {
             -95368.33
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "v14": {
         "name": "В/Ч-1024",
@@ -8694,7 +8694,7 @@ CITY_DATA = {
             -103949.4
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "v2": {
         "name": "В/Ч-1012",
@@ -8703,7 +8703,7 @@ CITY_DATA = {
             -113348.7
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "v6": {
         "name": "В/Ч-1016",
@@ -8712,7 +8712,7 @@ CITY_DATA = {
             -137973.5
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "v7": {
         "name": "В/Ч-1017",
@@ -8721,7 +8721,7 @@ CITY_DATA = {
             -139742.7
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "v8": {
         "name": "В/Ч-1018",
@@ -8730,7 +8730,7 @@ CITY_DATA = {
             -136275.7
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "v9": {
         "name": "В/Ч-1019",
@@ -8739,7 +8739,7 @@ CITY_DATA = {
             -135162.4
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "velik": {
         "name": "Великовисочное",
@@ -8748,7 +8748,7 @@ CITY_DATA = {
             -116088.8
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "vorkuta": {
         "name": "Воркута",
@@ -8757,7 +8757,7 @@ CITY_DATA = {
             -135093.8
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "vuktil": {
         "name": "Вуктыл",
@@ -8766,7 +8766,7 @@ CITY_DATA = {
             -100439.5
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "akshat": {
         "name": "Akshat",
@@ -8775,7 +8775,7 @@ CITY_DATA = {
             -35393.54
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "aktau": {
         "name": "Aktau",
@@ -8784,7 +8784,7 @@ CITY_DATA = {
             3776.773
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "aktobe": {
         "name": "Aktobe",
@@ -8793,7 +8793,7 @@ CITY_DATA = {
             -39913.42
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "alga": {
         "name": "Alga",
@@ -8802,7 +8802,7 @@ CITY_DATA = {
             -36974.4
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "atyrau": {
         "name": "Atyrau",
@@ -8811,7 +8811,7 @@ CITY_DATA = {
             -15039.41
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "beyneu": {
         "name": "Beyneu",
@@ -8820,7 +8820,7 @@ CITY_DATA = {
             -13109.84
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "dossor": {
         "name": "Dossor",
@@ -8829,7 +8829,7 @@ CITY_DATA = {
             -19091.21
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "ershov": {
         "name": "Ершoв",
@@ -8838,7 +8838,7 @@ CITY_DATA = {
             -31037.85
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "inderborsky": {
         "name": "Inderborsky",
@@ -8847,7 +8847,7 @@ CITY_DATA = {
             -22762.56
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "jasliq": {
         "name": "Jasliq",
@@ -8856,7 +8856,7 @@ CITY_DATA = {
             -9029.109
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kandyagash": {
         "name": "Kandyagash",
@@ -8865,7 +8865,7 @@ CITY_DATA = {
             -35791.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "karabalyk": {
         "name": "Karabalyk",
@@ -8874,7 +8874,7 @@ CITY_DATA = {
             -65292.33
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "karabutak": {
         "name": "Karabutak",
@@ -8883,7 +8883,7 @@ CITY_DATA = {
             -44427.77
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "karakalp": {
         "name": "Karakalpakstan",
@@ -8892,7 +8892,7 @@ CITY_DATA = {
             -11426.43
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kendirli": {
         "name": "Kendirli",
@@ -8901,7 +8901,7 @@ CITY_DATA = {
             5884.102
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "khromtau": {
         "name": "Khromtau",
@@ -8910,7 +8910,7 @@ CITY_DATA = {
             -43515.1
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kobda": {
         "name": "Kobda",
@@ -8919,7 +8919,7 @@ CITY_DATA = {
             -36793.27
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kostanay": {
         "name": "Kostanay",
@@ -8928,7 +8928,7 @@ CITY_DATA = {
             -67177.3
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kulsari": {
         "name": "Kulsari",
@@ -8937,7 +8937,7 @@ CITY_DATA = {
             -17118.05
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kuryk": {
         "name": "Kuryk",
@@ -8946,7 +8946,7 @@ CITY_DATA = {
             4981.621
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kyrkkyz": {
         "name": "Qirqqiz",
@@ -8955,7 +8955,7 @@ CITY_DATA = {
             -6982.469
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "lisakovsk": {
         "name": "Lisakovsk",
@@ -8964,7 +8964,7 @@ CITY_DATA = {
             -59523.86
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "makat": {
         "name": "Makat",
@@ -8973,7 +8973,7 @@ CITY_DATA = {
             -23250.29
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "mangystau": {
         "name": "Mangystau",
@@ -8982,7 +8982,7 @@ CITY_DATA = {
             2643.324
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "martuk": {
         "name": "Martuk",
@@ -8991,7 +8991,7 @@ CITY_DATA = {
             -41929.16
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "mukur": {
         "name": "Mukur",
@@ -9000,7 +9000,7 @@ CITY_DATA = {
             -25654.23
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "rudnyy": {
         "name": "Rudnyy",
@@ -9009,7 +9009,7 @@ CITY_DATA = {
             -63225.5
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "saiotes": {
         "name": "Saiotes",
@@ -9018,7 +9018,7 @@ CITY_DATA = {
             -5756.422
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "shetpe": {
         "name": "Shetpe",
@@ -9027,7 +9027,7 @@ CITY_DATA = {
             -410.543
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "shubarkuduk": {
         "name": "Shubarkuduk",
@@ -9036,7 +9036,7 @@ CITY_DATA = {
             -32494.64
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "temir": {
         "name": "Temir",
@@ -9045,7 +9045,7 @@ CITY_DATA = {
             -33359.09
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "temirbek": {
         "name": "Temirbek Zhurgenov",
@@ -9054,7 +9054,7 @@ CITY_DATA = {
             -47571.91
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "tobol": {
         "name": "Tobol",
@@ -9063,7 +9063,7 @@ CITY_DATA = {
             -60783.46
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "turysh": {
         "name": "Turysh",
@@ -9072,7 +9072,7 @@ CITY_DATA = {
             -15934.31
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "uralsk": {
         "name": "Uralsk",
@@ -9081,7 +9081,7 @@ CITY_DATA = {
             -34312.2
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "zatobolsk": {
         "name": "Tobil",
@@ -9090,7 +9090,7 @@ CITY_DATA = {
             -68402.68
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "zhanaozen": {
         "name": "Zhanaozen",
@@ -9099,7 +9099,7 @@ CITY_DATA = {
             333.4336
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "zhympity": {
         "name": "Zhympity",
@@ -9108,7 +9108,7 @@ CITY_DATA = {
             -31815.45
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "adana": {
         "name": "Adana",
@@ -9117,7 +9117,7 @@ CITY_DATA = {
             64598.5
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "adiyaman": {
         "name": "Adiyaman",
@@ -9126,7 +9126,7 @@ CITY_DATA = {
             56457.47
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "afyon": {
         "name": "Afyonkarahisar",
@@ -9135,7 +9135,7 @@ CITY_DATA = {
             62509.7
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "aksaray": {
         "name": "Aksaray",
@@ -9144,7 +9144,7 @@ CITY_DATA = {
             59107.41
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "amasya": {
         "name": "Amasya",
@@ -9153,7 +9153,7 @@ CITY_DATA = {
             46634.9
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "ankara": {
         "name": "Ankara",
@@ -9162,7 +9162,7 @@ CITY_DATA = {
             53673.6
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "antalya": {
         "name": "Antalya",
@@ -9171,7 +9171,7 @@ CITY_DATA = {
             70171.3
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "artvin": {
         "name": "Artvin",
@@ -9180,7 +9180,7 @@ CITY_DATA = {
             32912.18
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "aydin": {
         "name": "Aydin",
@@ -9189,7 +9189,7 @@ CITY_DATA = {
             67276.95
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "balikesir": {
         "name": "Balikesir",
@@ -9198,7 +9198,7 @@ CITY_DATA = {
             57320.3
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "bartin": {
         "name": "Bartın",
@@ -9207,7 +9207,7 @@ CITY_DATA = {
             42424.71
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "batman": {
         "name": "Batman",
@@ -9216,7 +9216,7 @@ CITY_DATA = {
             60849.7
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "bingol": {
         "name": "Bingöl",
@@ -9225,7 +9225,7 @@ CITY_DATA = {
             46192.22
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "bolu": {
         "name": "Bolu",
@@ -9234,7 +9234,7 @@ CITY_DATA = {
             48050.91
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "bursa": {
         "name": "Bursa",
@@ -9243,7 +9243,7 @@ CITY_DATA = {
             53587.79
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "canakkale": {
         "name": "Çanakkale",
@@ -9252,7 +9252,7 @@ CITY_DATA = {
             55577.14
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "corum": {
         "name": "Çorum",
@@ -9261,7 +9261,7 @@ CITY_DATA = {
             45263.62
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "denizli": {
         "name": "Denizli",
@@ -9270,7 +9270,7 @@ CITY_DATA = {
             66906.4
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "diyarbakir": {
         "name": "Diyarbakir",
@@ -9279,7 +9279,7 @@ CITY_DATA = {
             60288.9
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "elazig": {
         "name": "Elâzığ",
@@ -9288,7 +9288,7 @@ CITY_DATA = {
             50246.44
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "erzincan": {
         "name": "Erzincan",
@@ -9297,7 +9297,7 @@ CITY_DATA = {
             43981.77
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "erzurum": {
         "name": "Erzurum",
@@ -9306,7 +9306,7 @@ CITY_DATA = {
             40430.03
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "eskisehir": {
         "name": "Eskisehir",
@@ -9315,7 +9315,7 @@ CITY_DATA = {
             54483.9
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "gaziantep": {
         "name": "Gaziantep",
@@ -9324,7 +9324,7 @@ CITY_DATA = {
             62008.41
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "giresun": {
         "name": "Giresun",
@@ -9333,7 +9333,7 @@ CITY_DATA = {
             42345.6
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "girne": {
         "name": "Girne",
@@ -9342,7 +9342,7 @@ CITY_DATA = {
             101224.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "hakkari": {
         "name": "Hakkari",
@@ -9351,7 +9351,7 @@ CITY_DATA = {
             60816.4
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "hatay": {
         "name": "Hatay",
@@ -9360,7 +9360,7 @@ CITY_DATA = {
             71442.3
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "igdir": {
         "name": "Iğdır",
@@ -9369,7 +9369,7 @@ CITY_DATA = {
             36948.11
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "izmir": {
         "name": "İzmir",
@@ -9378,7 +9378,7 @@ CITY_DATA = {
             64719.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "karabuk": {
         "name": "Karabük",
@@ -9387,7 +9387,7 @@ CITY_DATA = {
             44488.52
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "karaman": {
         "name": "Karaman",
@@ -9396,7 +9396,7 @@ CITY_DATA = {
             68277.3
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kars": {
         "name": "Kars",
@@ -9405,7 +9405,7 @@ CITY_DATA = {
             34675.14
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kastamonu": {
         "name": "Kastamonu",
@@ -9414,7 +9414,7 @@ CITY_DATA = {
             42966.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kayseri": {
         "name": "Kayseri",
@@ -9423,7 +9423,7 @@ CITY_DATA = {
             54227.54
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kirikkale": {
         "name": "Kırıkkale",
@@ -9432,7 +9432,7 @@ CITY_DATA = {
             50824.5
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kirklareli": {
         "name": "Kirklareli",
@@ -9441,7 +9441,7 @@ CITY_DATA = {
             46790.2
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kirsehir": {
         "name": "Kirsehir",
@@ -9450,7 +9450,7 @@ CITY_DATA = {
             57390.7
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kmaras": {
         "name": "Kahramanmaras",
@@ -9459,7 +9459,7 @@ CITY_DATA = {
             62406.5
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "konya": {
         "name": "Konya",
@@ -9468,7 +9468,7 @@ CITY_DATA = {
             62672.84
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "lefkosa": {
         "name": "Lefkosa",
@@ -9477,7 +9477,7 @@ CITY_DATA = {
             103541.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "malatya": {
         "name": "Malatya",
@@ -9486,7 +9486,7 @@ CITY_DATA = {
             53186.75
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "mardin": {
         "name": "Mardin",
@@ -9495,7 +9495,7 @@ CITY_DATA = {
             55588.05
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "mugla": {
         "name": "Muğla",
@@ -9504,7 +9504,7 @@ CITY_DATA = {
             70673.02
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "ordu": {
         "name": "Ordu",
@@ -9513,7 +9513,7 @@ CITY_DATA = {
             39538.91
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "rize": {
         "name": "Rize",
@@ -9522,7 +9522,7 @@ CITY_DATA = {
             40215.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "sakarya": {
         "name": "Sakarya",
@@ -9531,7 +9531,7 @@ CITY_DATA = {
             48422.43
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "samsun": {
         "name": "Samsun",
@@ -9540,7 +9540,7 @@ CITY_DATA = {
             39719.5
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "sanliurfa": {
         "name": "Şanlıurfa",
@@ -9549,7 +9549,7 @@ CITY_DATA = {
             59584.64
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "sinop": {
         "name": "Sinop",
@@ -9558,7 +9558,7 @@ CITY_DATA = {
             38543.8
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "sirnak": {
         "name": "Sirnak",
@@ -9567,7 +9567,7 @@ CITY_DATA = {
             62569.1
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "sivas": {
         "name": "Sivas",
@@ -9576,7 +9576,7 @@ CITY_DATA = {
             47132.48
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "tokat": {
         "name": "Tokat",
@@ -9585,7 +9585,7 @@ CITY_DATA = {
             45347.49
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "trabzon": {
         "name": "Trabzon",
@@ -9594,7 +9594,7 @@ CITY_DATA = {
             37133.9
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "usak": {
         "name": "Uşak",
@@ -9603,7 +9603,7 @@ CITY_DATA = {
             61733.21
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "van": {
         "name": "Van",
@@ -9612,7 +9612,7 @@ CITY_DATA = {
             54117.6
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "yozgat": {
         "name": "Yozgat",
@@ -9621,7 +9621,7 @@ CITY_DATA = {
             49640.85
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "zonguldak": {
         "name": "Zonguldak",
@@ -9630,7 +9630,7 @@ CITY_DATA = {
             44084.4
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "ancona": {
         "name": "Ancona",
@@ -9639,7 +9639,7 @@ CITY_DATA = {
             40272.5
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "aquila": {
         "name": "L'Aquila",
@@ -9648,7 +9648,7 @@ CITY_DATA = {
             46803.9
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "bari": {
         "name": "Bari",
@@ -9657,7 +9657,7 @@ CITY_DATA = {
             54577.8
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "cagliari": {
         "name": "Cagliari",
@@ -9666,7 +9666,7 @@ CITY_DATA = {
             64225.5
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "catania": {
         "name": "Catania",
@@ -9675,7 +9675,7 @@ CITY_DATA = {
             75107.5
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "catanz": {
         "name": "Catanzaro",
@@ -9684,7 +9684,7 @@ CITY_DATA = {
             66889.7
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "civitavec": {
         "name": "Civitavecchia",
@@ -9693,7 +9693,7 @@ CITY_DATA = {
             48749.1
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "crotone": {
         "name": "Crotone",
@@ -9702,7 +9702,7 @@ CITY_DATA = {
             65250.7
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "drammen": {
         "name": "Drammen",
@@ -9711,7 +9711,7 @@ CITY_DATA = {
             -50955.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "enna": {
         "name": "Enna",
@@ -9720,7 +9720,7 @@ CITY_DATA = {
             74267.5
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "foggia": {
         "name": "Foggia",
@@ -9729,7 +9729,7 @@ CITY_DATA = {
             52413.7
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "imola": {
         "name": "Imola",
@@ -9738,7 +9738,7 @@ CITY_DATA = {
             35401.5
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "laspezia": {
         "name": "La Spezia",
@@ -9747,7 +9747,7 @@ CITY_DATA = {
             37196.4
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "latina": {
         "name": "Latina",
@@ -9756,7 +9756,7 @@ CITY_DATA = {
             52219.6
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "lecce": {
         "name": "Lecce",
@@ -9765,7 +9765,7 @@ CITY_DATA = {
             58629.2
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "lucca": {
         "name": "Lucca",
@@ -9774,7 +9774,7 @@ CITY_DATA = {
             38411.4
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "messina": {
         "name": "Messina",
@@ -9783,7 +9783,7 @@ CITY_DATA = {
             70913.3
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "napoli": {
         "name": "Napoli",
@@ -9792,7 +9792,7 @@ CITY_DATA = {
             55970.5
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["sellplan"]
     },
     "olbia": {
         "name": "Olbia",
@@ -9801,7 +9801,7 @@ CITY_DATA = {
             54933.6
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "oristano": {
         "name": "Oristano",
@@ -9810,7 +9810,7 @@ CITY_DATA = {
             59839.6
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "palermo": {
         "name": "Palermo",
@@ -9819,7 +9819,7 @@ CITY_DATA = {
             71177.8
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "perugia": {
         "name": "Perugia",
@@ -9828,7 +9828,7 @@ CITY_DATA = {
             42625.8
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "pescara": {
         "name": "Pescara",
@@ -9837,7 +9837,7 @@ CITY_DATA = {
             47439.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "pisa": {
         "name": "Pisa",
@@ -9846,7 +9846,7 @@ CITY_DATA = {
             39358.6
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "potenza": {
         "name": "Potenza",
@@ -9855,7 +9855,7 @@ CITY_DATA = {
             57224.2
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "ravenna": {
         "name": "Ravenna",
@@ -9864,7 +9864,7 @@ CITY_DATA = {
             35514.5
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "reggio": {
         "name": "Reggio",
@@ -9873,7 +9873,7 @@ CITY_DATA = {
             72275.1
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "roma": {
         "name": "Roma",
@@ -9882,7 +9882,7 @@ CITY_DATA = {
             49761.7
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["sellplan"]
     },
     "siena": {
         "name": "Siena",
@@ -9891,7 +9891,7 @@ CITY_DATA = {
             41722.3
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "taranto": {
         "name": "Taranto",
@@ -9900,7 +9900,7 @@ CITY_DATA = {
             58739.8
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "algiers": {
         "name": "Algiers",
@@ -9909,7 +9909,7 @@ CITY_DATA = {
             76472.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "annaba": {
         "name": "Annaba",
@@ -9918,7 +9918,7 @@ CITY_DATA = {
             75892.2
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "bizerte": {
         "name": "Bizerte",
@@ -9927,7 +9927,7 @@ CITY_DATA = {
             74232.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "constantine": {
         "name": "Constantine",
@@ -9936,7 +9936,7 @@ CITY_DATA = {
             79061.1
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "el": {
         "name": "El kef",
@@ -9945,7 +9945,7 @@ CITY_DATA = {
             79825.3
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "gabes": {
         "name": "Gabes",
@@ -9954,7 +9954,7 @@ CITY_DATA = {
             91105.4
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "gafsa": {
         "name": "Gafsa",
@@ -9963,7 +9963,7 @@ CITY_DATA = {
             88399.2
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "hammamet": {
         "name": "Hammamet",
@@ -9972,7 +9972,7 @@ CITY_DATA = {
             78747.1
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "houmt": {
         "name": "Houmt Souk",
@@ -9981,7 +9981,7 @@ CITY_DATA = {
             91619.5
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kairouan": {
         "name": "Kairouan",
@@ -9990,7 +9990,7 @@ CITY_DATA = {
             82307.5
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kasserine": {
         "name": "Kasserine",
@@ -9999,7 +9999,7 @@ CITY_DATA = {
             85063.4
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "medenine": {
         "name": "Medenine",
@@ -10008,7 +10008,7 @@ CITY_DATA = {
             93878.2
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "naftah": {
         "name": "Naftah",
@@ -10017,7 +10017,7 @@ CITY_DATA = {
             91096.1
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "qibilt": {
         "name": "Qibilt",
@@ -10026,7 +10026,7 @@ CITY_DATA = {
             91866.5
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "sfax": {
         "name": "Sfax",
@@ -10035,7 +10035,7 @@ CITY_DATA = {
             86277.7
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "skikda": {
         "name": "Skikda",
@@ -10044,7 +10044,7 @@ CITY_DATA = {
             76010.8
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "souk": {
         "name": "Souk ahras",
@@ -10053,7 +10053,7 @@ CITY_DATA = {
             79294.3
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "sousse": {
         "name": "Sousse",
@@ -10062,7 +10062,7 @@ CITY_DATA = {
             81410.8
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "badajoz": {
         "name": "Badajoz",
@@ -10071,7 +10071,7 @@ CITY_DATA = {
             53325.3
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "bedous": {
         "name": "Bedous",
@@ -10080,7 +10080,7 @@ CITY_DATA = {
             33688.8
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "coimbra": {
         "name": "Coimbra",
@@ -10089,7 +10089,7 @@ CITY_DATA = {
             44747.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "cordoba": {
         "name": "Córdoba",
@@ -10098,7 +10098,7 @@ CITY_DATA = {
             61483.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "evora": {
         "name": "Evora",
@@ -10107,7 +10107,7 @@ CITY_DATA = {
             54120.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "faro": {
         "name": "Faro",
@@ -10116,7 +10116,7 @@ CITY_DATA = {
             62485.7
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "gijon": {
         "name": "Gijón",
@@ -10125,7 +10125,7 @@ CITY_DATA = {
             29264.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "leon": {
         "name": "León",
@@ -10134,7 +10134,7 @@ CITY_DATA = {
             32826.7
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "lisboa": {
         "name": "Lisboa",
@@ -10143,7 +10143,7 @@ CITY_DATA = {
             51001.9
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies"]
     },
     "madrid": {
         "name": "Madrid",
@@ -10152,7 +10152,7 @@ CITY_DATA = {
             49032.6
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "malaga": {
         "name": "Malaga",
@@ -10161,7 +10161,7 @@ CITY_DATA = {
             68830.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "murcia": {
         "name": "Murcia",
@@ -10170,7 +10170,7 @@ CITY_DATA = {
             65264.6
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "o": {
         "name": "O Barco",
@@ -10179,7 +10179,7 @@ CITY_DATA = {
             34199.9
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "salamanca": {
         "name": "Salamanca",
@@ -10188,7 +10188,7 @@ CITY_DATA = {
             43487.8
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "sevilla": {
         "name": "Sevilla",
@@ -10197,7 +10197,7 @@ CITY_DATA = {
             62856.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "sines": {
         "name": "Sines",
@@ -10206,7 +10206,7 @@ CITY_DATA = {
             56468.6
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "valladolid": {
         "name": "Valladolid",
@@ -10215,7 +10215,7 @@ CITY_DATA = {
             38485.7
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "viseu": {
         "name": "Viseu",
@@ -10224,7 +10224,7 @@ CITY_DATA = {
             44341.5
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "baku": {
         "name": "Baku",
@@ -10233,7 +10233,7 @@ CITY_DATA = {
             41958.1
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "gence": {
         "name": "Gence",
@@ -10242,7 +10242,7 @@ CITY_DATA = {
             40534.2
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "yevlax": {
         "name": "Yevlax",
@@ -10251,7 +10251,7 @@ CITY_DATA = {
             38421.8
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "afyonkarahisir": {
         "name": "Afyonkarahisir",
@@ -10260,7 +10260,7 @@ CITY_DATA = {
             59261.1
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "agri": {
         "name": "Ağrı",
@@ -10269,7 +10269,7 @@ CITY_DATA = {
             38808.63
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "alanya": {
         "name": "Alanya",
@@ -10278,7 +10278,7 @@ CITY_DATA = {
             70893.56
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "ancara": {
         "name": "Ankara",
@@ -10287,7 +10287,7 @@ CITY_DATA = {
             51459.66
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "ardahan": {
         "name": "Ardahan",
@@ -10296,7 +10296,7 @@ CITY_DATA = {
             33080.79
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "bandirma": {
         "name": "Bandırma",
@@ -10305,7 +10305,7 @@ CITY_DATA = {
             53293.03
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "bayburt": {
         "name": "Bayburt",
@@ -10314,7 +10314,7 @@ CITY_DATA = {
             40189.87
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "bodrum": {
         "name": "Bodrum",
@@ -10323,7 +10323,7 @@ CITY_DATA = {
             72995.4
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "diabakir": {
         "name": "Diyarbakır",
@@ -10332,7 +10332,7 @@ CITY_DATA = {
             53342.1
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "ferizli": {
         "name": "Ferizli",
@@ -10341,7 +10341,7 @@ CITY_DATA = {
             47221.17
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "fethiye": {
         "name": "Fethiye",
@@ -10350,7 +10350,7 @@ CITY_DATA = {
             73267.38
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "hopa": {
         "name": "Hopa",
@@ -10359,7 +10359,7 @@ CITY_DATA = {
             32824.67
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "horasan": {
         "name": "Horasan",
@@ -10368,7 +10368,7 @@ CITY_DATA = {
             37943.59
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "isparta": {
         "name": "Isparta",
@@ -10377,7 +10377,7 @@ CITY_DATA = {
             65549.2
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kas": {
         "name": "Kaş",
@@ -10386,7 +10386,7 @@ CITY_DATA = {
             75176.2
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "koycegiz": {
         "name": "Köyceğiz",
@@ -10395,7 +10395,7 @@ CITY_DATA = {
             71471.74
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kutahya": {
         "name": "Kütahya",
@@ -10404,7 +10404,7 @@ CITY_DATA = {
             56906.32
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "manisa": {
         "name": "Manisa",
@@ -10413,7 +10413,7 @@ CITY_DATA = {
             63229.92
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "sinopp": {
         "name": "Sinop",
@@ -10422,7 +10422,7 @@ CITY_DATA = {
             38041.05
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "siverek": {
         "name": "Siverek",
@@ -10431,7 +10431,7 @@ CITY_DATA = {
             55452.14
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "tunceli": {
         "name": "Tunceli",
@@ -10440,7 +10440,7 @@ CITY_DATA = {
             47278.65
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "antracit": {
         "name": "Антрацит",
@@ -10449,7 +10449,7 @@ CITY_DATA = {
             100.8633
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "bashtanka": {
         "name": "Баштанка",
@@ -10458,7 +10458,7 @@ CITY_DATA = {
             12045.5
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "berdy": {
         "name": "Бердянськ",
@@ -10467,7 +10467,7 @@ CITY_DATA = {
             8773.641
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "bilaterca": {
         "name": "Бiла Церква",
@@ -10476,7 +10476,7 @@ CITY_DATA = {
             -532.3242
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "cernihiv": {
         "name": "Чернiгiв",
@@ -10485,7 +10485,7 @@ CITY_DATA = {
             -10369.67
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "cernobil": {
         "name": "Чорнобиль",
@@ -10494,7 +10494,7 @@ CITY_DATA = {
             -8499.383
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "cherk": {
         "name": "Черкаси",
@@ -10503,7 +10503,7 @@ CITY_DATA = {
             479.8359
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "dnipro": {
         "name": "Днiпрo",
@@ -10512,7 +10512,7 @@ CITY_DATA = {
             3058.793
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "donesk": {
         "name": "Донецьк",
@@ -10521,7 +10521,7 @@ CITY_DATA = {
             2440.184
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "feodosia": {
         "name": "Феодосия",
@@ -10530,7 +10530,7 @@ CITY_DATA = {
             19890.57
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "ialta": {
         "name": "Ялта",
@@ -10539,7 +10539,7 @@ CITY_DATA = {
             24201.97
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "jankoi": {
         "name": "Джанкой",
@@ -10548,7 +10548,7 @@ CITY_DATA = {
             17378.76
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kerci": {
         "name": "Керчь",
@@ -10557,7 +10557,7 @@ CITY_DATA = {
             16428.29
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kerson": {
         "name": "Херсон",
@@ -10566,7 +10566,7 @@ CITY_DATA = {
             15804.07
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kharkiv": {
         "name": "Харкiв",
@@ -10575,7 +10575,7 @@ CITY_DATA = {
             -6729.859
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "khmeln": {
         "name": "Хмельницький",
@@ -10584,7 +10584,7 @@ CITY_DATA = {
             4216.402
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kiev": {
         "name": "Киïв",
@@ -10593,7 +10593,7 @@ CITY_DATA = {
             -4126.684
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "konotop": {
         "name": "Конотоп",
@@ -10602,7 +10602,7 @@ CITY_DATA = {
             -10517.96
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "korostenn": {
         "name": "Коростень",
@@ -10611,7 +10611,7 @@ CITY_DATA = {
             -5817.996
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kramatorsk": {
         "name": "Краматорськ",
@@ -10620,7 +10620,7 @@ CITY_DATA = {
             -2454.352
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kreme": {
         "name": "Кременчук",
@@ -10629,7 +10629,7 @@ CITY_DATA = {
             495.8086
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kropy": {
         "name": "Кропивницький",
@@ -10638,7 +10638,7 @@ CITY_DATA = {
             5349.129
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "krupets": {
         "name": "Крупец",
@@ -10647,7 +10647,7 @@ CITY_DATA = {
             -12714.74
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kryvy": {
         "name": "Кривий Рiг",
@@ -10656,7 +10656,7 @@ CITY_DATA = {
             7552.195
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "lubni": {
         "name": "Лубни",
@@ -10665,7 +10665,7 @@ CITY_DATA = {
             -3315.617
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "lugan": {
         "name": "Луганськ",
@@ -10674,7 +10674,7 @@ CITY_DATA = {
             -2963.199
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "mariupo": {
         "name": "Марiуполь",
@@ -10683,7 +10683,7 @@ CITY_DATA = {
             6352.844
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "melitopol": {
         "name": "Мелiтополь",
@@ -10692,7 +10692,7 @@ CITY_DATA = {
             10137.25
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "mykol": {
         "name": "Миколаïв",
@@ -10701,7 +10701,7 @@ CITY_DATA = {
             14180.45
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "naroulia": {
         "name": "Нароўля",
@@ -10710,7 +10710,7 @@ CITY_DATA = {
             -11098.8
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "novak": {
         "name": "Нова Каховка",
@@ -10719,7 +10719,7 @@ CITY_DATA = {
             12851.09
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "novogradd": {
         "name": "Звягель",
@@ -10728,7 +10728,7 @@ CITY_DATA = {
             -3141.609
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "pervom": {
         "name": "Первомайськ",
@@ -10737,7 +10737,7 @@ CITY_DATA = {
             8678.91
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "poltava": {
         "name": "Полтава",
@@ -10746,7 +10746,7 @@ CITY_DATA = {
             -2842.395
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "rivnne": {
         "name": "Рiвне",
@@ -10755,7 +10755,7 @@ CITY_DATA = {
             -2206.461
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "sevas": {
         "name": "Севастополь",
@@ -10764,7 +10764,7 @@ CITY_DATA = {
             24393.63
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "shepe": {
         "name": "Шепетiвка",
@@ -10773,7 +10773,7 @@ CITY_DATA = {
             -270.7227
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "simfer": {
         "name": "Симферополь",
@@ -10782,7 +10782,7 @@ CITY_DATA = {
             21646.71
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "sumy": {
         "name": "Суми",
@@ -10791,7 +10791,7 @@ CITY_DATA = {
             -10482.41
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "taman": {
         "name": "Тамань",
@@ -10800,7 +10800,7 @@ CITY_DATA = {
             17436.58
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "terno": {
         "name": "Тернопiль",
@@ -10809,7 +10809,7 @@ CITY_DATA = {
             4270.848
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "troyeb": {
         "name": "Троебортное",
@@ -10818,7 +10818,7 @@ CITY_DATA = {
             -15363.07
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "uman": {
         "name": "Умань",
@@ -10827,7 +10827,7 @@ CITY_DATA = {
             5399.203
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "vinny": {
         "name": "Вiнниця",
@@ -10836,7 +10836,7 @@ CITY_DATA = {
             3988.539
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "vozne": {
         "name": "Вознесенськ",
@@ -10845,7 +10845,7 @@ CITY_DATA = {
             11732.81
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "zappo": {
         "name": "Запорiжжя",
@@ -10854,7 +10854,7 @@ CITY_DATA = {
             5344.465
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "zitomir": {
         "name": "Житомир",
@@ -10863,7 +10863,7 @@ CITY_DATA = {
             -2002.555
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "ribnita": {
         "name": "Rîbniţa",
@@ -10872,7 +10872,7 @@ CITY_DATA = {
             11954.1
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "tiraspol": {
         "name": "Tiraspol",
@@ -10881,7 +10881,7 @@ CITY_DATA = {
             17308.2
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "botos": {
         "name": "Botoșani",
@@ -10890,7 +10890,7 @@ CITY_DATA = {
             13102.53
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "suceava": {
         "name": "Suceava",
@@ -10899,7 +10899,7 @@ CITY_DATA = {
             14145.89
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "cernaut": {
         "name": "Чернiвцi",
@@ -10908,7 +10908,7 @@ CITY_DATA = {
             10742.06
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "ivan": {
         "name": "Iвано-Франкiвськ",
@@ -10917,7 +10917,7 @@ CITY_DATA = {
             8059.941
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kovell": {
         "name": "Ковель",
@@ -10926,7 +10926,7 @@ CITY_DATA = {
             -4998.398
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "luttsk": {
         "name": "Луцьк",
@@ -10935,7 +10935,7 @@ CITY_DATA = {
             -2539.934
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "lyviv": {
         "name": "Львiв",
@@ -10944,7 +10944,7 @@ CITY_DATA = {
             3381.316
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "mukac": {
         "name": "Мукачево",
@@ -10953,7 +10953,7 @@ CITY_DATA = {
             11647.68
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "sarni": {
         "name": "Сарни",
@@ -10962,7 +10962,7 @@ CITY_DATA = {
             -7488.094
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "stry": {
         "name": "Стрий",
@@ -10971,7 +10971,7 @@ CITY_DATA = {
             6286.488
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "uzgor": {
         "name": "Ужгород",
@@ -10980,7 +10980,7 @@ CITY_DATA = {
             10596.83
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "alecsandria": {
         "name": "Alexandria",
@@ -10989,7 +10989,7 @@ CITY_DATA = {
             34036.36
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "baiam": {
         "name": "Baia Mare",
@@ -10998,7 +10998,7 @@ CITY_DATA = {
             15444.44
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "balt": {
         "name": "Bălţi",
@@ -11007,7 +11007,7 @@ CITY_DATA = {
             12548.63
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "bechet": {
         "name": "Bechet",
@@ -11016,7 +11016,7 @@ CITY_DATA = {
             35614.17
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "brad": {
         "name": "Brad",
@@ -11025,7 +11025,7 @@ CITY_DATA = {
             22726.32
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "caracal": {
         "name": "Caracal",
@@ -11034,7 +11034,7 @@ CITY_DATA = {
             33640.17
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "chisina": {
         "name": "Chişinău",
@@ -11043,7 +11043,7 @@ CITY_DATA = {
             16015.29
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "giurgi": {
         "name": "Giurgiu",
@@ -11052,7 +11052,7 @@ CITY_DATA = {
             33424.59
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "ploiest": {
         "name": "Ploieşti",
@@ -11061,7 +11061,7 @@ CITY_DATA = {
             27320.83
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "sighet": {
         "name": "Sighetul Marmaţiei",
@@ -11070,7 +11070,7 @@ CITY_DATA = {
             14030.35
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "silistr": {
         "name": "Силистра",
@@ -11079,7 +11079,7 @@ CITY_DATA = {
             33849.17
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "slatina": {
         "name": "Slatina",
@@ -11088,7 +11088,7 @@ CITY_DATA = {
             31279.5
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "tgjiu": {
         "name": "Târgu Jiu",
@@ -11097,7 +11097,7 @@ CITY_DATA = {
             29238.32
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "valcea": {
         "name": "Râmnicu Vâlcea",
@@ -11106,7 +11106,7 @@ CITY_DATA = {
             28121.29
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "zalau": {
         "name": "Zalău",
@@ -11115,7 +11115,7 @@ CITY_DATA = {
             18559.3
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "amagasaki": {
         "name": "尼崎",
@@ -11124,7 +11124,7 @@ CITY_DATA = {
             95687.92
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "awaji": {
         "name": "淡路",
@@ -11133,7 +11133,7 @@ CITY_DATA = {
             97383.87
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "daikoku": {
         "name": "大黒",
@@ -11142,7 +11142,7 @@ CITY_DATA = {
             90018.8
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "hakusan": {
         "name": "白山",
@@ -11151,7 +11151,7 @@ CITY_DATA = {
             77181.68
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "hida": {
         "name": "飛騨",
@@ -11160,7 +11160,7 @@ CITY_DATA = {
             78616.82
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "ikata": {
         "name": "伊方",
@@ -11169,7 +11169,7 @@ CITY_DATA = {
             109261.9
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "imabari": {
         "name": "今治",
@@ -11178,7 +11178,7 @@ CITY_DATA = {
             102857.6
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "innoshima": {
         "name": "因島",
@@ -11187,7 +11187,7 @@ CITY_DATA = {
             100665.9
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "itoigawa": {
         "name": "糸魚川",
@@ -11196,7 +11196,7 @@ CITY_DATA = {
             71017.15
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "joetsu": {
         "name": "上越",
@@ -11205,7 +11205,7 @@ CITY_DATA = {
             70432.93
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kanazawa": {
         "name": "金沢",
@@ -11214,7 +11214,7 @@ CITY_DATA = {
             76010.41
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kawasaki": {
         "name": "川崎",
@@ -11223,7 +11223,7 @@ CITY_DATA = {
             87491.74
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kitakyusyu": {
         "name": "北九州",
@@ -11232,7 +11232,7 @@ CITY_DATA = {
             104345.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kobe": {
         "name": "神戸",
@@ -11241,7 +11241,7 @@ CITY_DATA = {
             95243.5
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kurobe": {
         "name": "黒部",
@@ -11250,7 +11250,7 @@ CITY_DATA = {
             72873.31
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "matsumoto": {
         "name": "松本",
@@ -11259,7 +11259,7 @@ CITY_DATA = {
             80232.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "matsuyama": {
         "name": "松山",
@@ -11268,7 +11268,7 @@ CITY_DATA = {
             104719.8
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "miyoshi": {
         "name": "三好",
@@ -11277,7 +11277,7 @@ CITY_DATA = {
             102068.7
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "nishinomiya": {
         "name": "西宮",
@@ -11286,7 +11286,7 @@ CITY_DATA = {
             95333.13
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "osaka": {
         "name": "大阪",
@@ -11295,7 +11295,7 @@ CITY_DATA = {
             96114.58
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "saijo": {
         "name": "西条",
@@ -11304,7 +11304,7 @@ CITY_DATA = {
             103686.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "seiyo": {
         "name": "西予",
@@ -11313,7 +11313,7 @@ CITY_DATA = {
             106829.1
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "shikokuchuo": {
         "name": "四国中央",
@@ -11322,7 +11322,7 @@ CITY_DATA = {
             103238.8
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "shirakawa": {
         "name": "白川村（飛騨）",
@@ -11331,7 +11331,7 @@ CITY_DATA = {
             78144.34
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "suita": {
         "name": "吹田",
@@ -11340,7 +11340,7 @@ CITY_DATA = {
             92762.62
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "suzuka": {
         "name": "鈴鹿",
@@ -11349,7 +11349,7 @@ CITY_DATA = {
             114099.7
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "takayama": {
         "name": "高山",
@@ -11358,7 +11358,7 @@ CITY_DATA = {
             79806.71
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "tokushima": {
         "name": "徳島",
@@ -11367,7 +11367,7 @@ CITY_DATA = {
             103230.8
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "tokyo": {
         "name": "東京",
@@ -11376,7 +11376,7 @@ CITY_DATA = {
             84303.38
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "toyama": {
         "name": "富山",
@@ -11385,7 +11385,7 @@ CITY_DATA = {
             74018.3
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "toyonaka": {
         "name": "豊中",
@@ -11394,7 +11394,7 @@ CITY_DATA = {
             94565.09
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "yokohama": {
         "name": "横浜",
@@ -11403,7 +11403,7 @@ CITY_DATA = {
             91503.34
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "abatskoe": {
         "name": "Абатское",
@@ -11412,7 +11412,7 @@ CITY_DATA = {
             -94620.88
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "akyar": {
         "name": "Акъяр",
@@ -11421,7 +11421,7 @@ CITY_DATA = {
             -49934.96
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "almetevsk": {
         "name": "Альметьевск",
@@ -11430,7 +11430,7 @@ CITY_DATA = {
             -54956.61
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "argayash": {
         "name": "Аргаяш",
@@ -11439,7 +11439,7 @@ CITY_DATA = {
             -70801.59
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "arsk": {
         "name": "Арск",
@@ -11448,7 +11448,7 @@ CITY_DATA = {
             -59315.5
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "asbest": {
         "name": "Асбест",
@@ -11457,7 +11457,7 @@ CITY_DATA = {
             -83341.09
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "asha": {
         "name": "Аша",
@@ -11466,7 +11466,7 @@ CITY_DATA = {
             -62536.16
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "barkhatovo": {
         "name": "Бархатово",
@@ -11475,7 +11475,7 @@ CITY_DATA = {
             -83289.68
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "bavly": {
         "name": "Бавлы",
@@ -11484,7 +11484,7 @@ CITY_DATA = {
             -52968.19
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "baymak": {
         "name": "Баймак",
@@ -11493,7 +11493,7 @@ CITY_DATA = {
             -51492.9
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "beloretsk": {
         "name": "Белорецк",
@@ -11502,7 +11502,7 @@ CITY_DATA = {
             -58986.11
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "beloyarskiy": {
         "name": "Белоярский",
@@ -11511,7 +11511,7 @@ CITY_DATA = {
             -81689.55
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "berduzhie": {
         "name": "Бердюжье",
@@ -11520,7 +11520,7 @@ CITY_DATA = {
             -87615.45
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "berezovsky": {
         "name": "Берёзовский",
@@ -11529,7 +11529,7 @@ CITY_DATA = {
             -81203.22
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "bogandinsky": {
         "name": "Богандинский",
@@ -11538,7 +11538,7 @@ CITY_DATA = {
             -88368.33
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "bogdanovich": {
         "name": "Богданович",
@@ -11547,7 +11547,7 @@ CITY_DATA = {
             -82210.44
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "bugulma": {
         "name": "Бугульма",
@@ -11556,7 +11556,7 @@ CITY_DATA = {
             -54005.66
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "chastoozerie": {
         "name": "Частоозерье",
@@ -11565,7 +11565,7 @@ CITY_DATA = {
             -85989.42
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "chelyabinsk": {
         "name": "Челябинск",
@@ -11574,7 +11574,7 @@ CITY_DATA = {
             -71193.15
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "chervishevo": {
         "name": "Червишево",
@@ -11583,7 +11583,7 @@ CITY_DATA = {
             -86189.27
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "chistopol": {
         "name": "Чистополь",
@@ -11592,7 +11592,7 @@ CITY_DATA = {
             -54972.55
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "ekat": {
         "name": "Екатеринбург",
@@ -11601,7 +11601,7 @@ CITY_DATA = {
             -78289.63
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "formachevo": {
         "name": "Станция Формачёво",
@@ -11610,7 +11610,7 @@ CITY_DATA = {
             -68168.78
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "gay": {
         "name": "Гай",
@@ -11619,7 +11619,7 @@ CITY_DATA = {
             -47751.18
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "golishmanovo": {
         "name": "Голышманово",
@@ -11628,7 +11628,7 @@ CITY_DATA = {
             -89999.16
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "inzer": {
         "name": "Инзер",
@@ -11637,7 +11637,7 @@ CITY_DATA = {
             -59500.18
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "isetskoe": {
         "name": "Исетское",
@@ -11646,7 +11646,7 @@ CITY_DATA = {
             -84141.65
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "ishim": {
         "name": "Ишим",
@@ -11655,7 +11655,7 @@ CITY_DATA = {
             -92069.98
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "isilkul": {
         "name": "Исилькуль",
@@ -11664,7 +11664,7 @@ CITY_DATA = {
             -89899.18
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "isyang": {
         "name": "Исянгулово",
@@ -11673,7 +11673,7 @@ CITY_DATA = {
             -48900.37
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kamenskur": {
         "name": "Каменск-Уральский",
@@ -11682,7 +11682,7 @@ CITY_DATA = {
             -77866.57
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kargapolie": {
         "name": "Каргаполье",
@@ -11691,7 +11691,7 @@ CITY_DATA = {
             -79661.42
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kazan": {
         "name": "Казань",
@@ -11700,7 +11700,7 @@ CITY_DATA = {
             -55874.78
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "krutinka": {
         "name": "Крутинка",
@@ -11709,7 +11709,7 @@ CITY_DATA = {
             -96536.22
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kurgan": {
         "name": "Курган",
@@ -11718,7 +11718,7 @@ CITY_DATA = {
             -79791.63
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "laishevo": {
         "name": "Лаишево",
@@ -11727,7 +11727,7 @@ CITY_DATA = {
             -53934.89
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "magnitogorsk": {
         "name": "Магнитогорск",
@@ -11736,7 +11736,7 @@ CITY_DATA = {
             -57446.09
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "makushino": {
         "name": "Макушино",
@@ -11745,7 +11745,7 @@ CITY_DATA = {
             -82470.03
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "mamlut": {
         "name": "Mamlut",
@@ -11754,7 +11754,7 @@ CITY_DATA = {
             -82628.3
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "miass": {
         "name": "Миасс",
@@ -11763,7 +11763,7 @@ CITY_DATA = {
             -66792.7
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "miasskoe": {
         "name": "Миасское",
@@ -11772,7 +11772,7 @@ CITY_DATA = {
             -73159.08
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "mishkino": {
         "name": "Мишкино",
@@ -11781,7 +11781,7 @@ CITY_DATA = {
             -75657.78
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "moskalenky": {
         "name": "Москаленки",
@@ -11790,7 +11790,7 @@ CITY_DATA = {
             -91775.36
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "novotroitsk": {
         "name": "Новотроицк",
@@ -11799,7 +11799,7 @@ CITY_DATA = {
             -46260.21
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "oktyabrskiy": {
         "name": "Октябрьский",
@@ -11808,7 +11808,7 @@ CITY_DATA = {
             -53841.09
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "omsk": {
         "name": "Омск",
@@ -11817,7 +11817,7 @@ CITY_DATA = {
             -95522.56
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "orsk": {
         "name": "Орск",
@@ -11826,7 +11826,7 @@ CITY_DATA = {
             -47738.72
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "petuhovo": {
         "name": "Петухово",
@@ -11835,7 +11835,7 @@ CITY_DATA = {
             -83071.53
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "planoviy": {
         "name": "Плановый",
@@ -11844,7 +11844,7 @@ CITY_DATA = {
             -73737.91
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "pyshma": {
         "name": "Пышма",
@@ -11853,7 +11853,7 @@ CITY_DATA = {
             -83396.94
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "salavat": {
         "name": "Салават",
@@ -11862,7 +11862,7 @@ CITY_DATA = {
             -52098.19
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "shadrinsk": {
         "name": "Шадринск",
@@ -11871,7 +11871,7 @@ CITY_DATA = {
             -78693.12
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "shaksha": {
         "name": "Шакша",
@@ -11880,7 +11880,7 @@ CITY_DATA = {
             -60495.73
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "shumikha": {
         "name": "Шумиха",
@@ -11889,7 +11889,7 @@ CITY_DATA = {
             -73687.41
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "sibai": {
         "name": "Сибай",
@@ -11898,7 +11898,7 @@ CITY_DATA = {
             -52961.74
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "sim": {
         "name": "Сим",
@@ -11907,7 +11907,7 @@ CITY_DATA = {
             -63131.84
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "sterlitamak": {
         "name": "Стерлитамак",
@@ -11916,7 +11916,7 @@ CITY_DATA = {
             -54414.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "sysert": {
         "name": "Сысерть",
@@ -11925,7 +11925,7 @@ CITY_DATA = {
             -75777.23
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "troitsk": {
         "name": "Троицк",
@@ -11934,7 +11934,7 @@ CITY_DATA = {
             -66048.72
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "tukalinsk": {
         "name": "Тюкалинск",
@@ -11943,7 +11943,7 @@ CITY_DATA = {
             -97651.61
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "tulgan": {
         "name": "Тюльган",
@@ -11952,7 +11952,7 @@ CITY_DATA = {
             -49869.74
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "tumen": {
         "name": "Тюмень",
@@ -11961,7 +11961,7 @@ CITY_DATA = {
             -89351.38
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "ufa": {
         "name": "Уфа",
@@ -11970,7 +11970,7 @@ CITY_DATA = {
             -59044.03
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "urgaza": {
         "name": "Ургаза",
@@ -11979,7 +11979,7 @@ CITY_DATA = {
             -51466.62
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "uruzan": {
         "name": "Юрюзань",
@@ -11988,7 +11988,7 @@ CITY_DATA = {
             -64069.1
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "ustkatav": {
         "name": "Усть-Катав",
@@ -11997,7 +11997,7 @@ CITY_DATA = {
             -63201.03
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "uvelsky": {
         "name": "Увельский",
@@ -12006,7 +12006,7 @@ CITY_DATA = {
             -67778.08
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "uzhnouralsk": {
         "name": "Южноуральск",
@@ -12015,7 +12015,7 @@ CITY_DATA = {
             -67193.48
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "verhneuralsk": {
         "name": "Верхнеуральск",
@@ -12024,7 +12024,7 @@ CITY_DATA = {
             -61502.91
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "yalutorovsk": {
         "name": "Ялуторовск",
@@ -12033,7 +12033,7 @@ CITY_DATA = {
             -88637.77
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "zavodoukovsk": {
         "name": "Заводоуковск",
@@ -12042,7 +12042,7 @@ CITY_DATA = {
             -87324.98
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "zlatoust": {
         "name": "Златоуст",
@@ -12051,7 +12051,7 @@ CITY_DATA = {
             -67286.98
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "alekseevka": {
         "name": "Алексеевка",
@@ -12060,7 +12060,7 @@ CITY_DATA = {
             -43498.7
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "buzuluk": {
         "name": "Бузулук",
@@ -12069,7 +12069,7 @@ CITY_DATA = {
             -42724.8
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kr": {
         "name": "Красный Яр",
@@ -12078,7 +12078,7 @@ CITY_DATA = {
             -46368.6
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kurumoch": {
         "name": "Курумоч",
@@ -12087,7 +12087,7 @@ CITY_DATA = {
             -45419.9
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "novospasskoe": {
         "name": "Новоспасское",
@@ -12096,7 +12096,7 @@ CITY_DATA = {
             -39003.2
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "nps": {
         "name": "НПС Самара",
@@ -12105,7 +12105,7 @@ CITY_DATA = {
             -41784.3
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "samara": {
         "name": "Самара",
@@ -12114,7 +12114,7 @@ CITY_DATA = {
             -42478.2
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "senn": {
         "name": "Сенной",
@@ -12123,7 +12123,7 @@ CITY_DATA = {
             -32870.7
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "volsk": {
         "name": "Вольск",
@@ -12132,7 +12132,7 @@ CITY_DATA = {
             -33037.4
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "volzskiy": {
         "name": "Волжский",
@@ -12141,7 +12141,7 @@ CITY_DATA = {
             -44746.2
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "zhigulevsk": {
         "name": "Жигулёвск",
@@ -12150,7 +12150,7 @@ CITY_DATA = {
             -42613.1
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "chepeck": {
         "name": "Кирово-Чепецк",
@@ -12159,7 +12159,7 @@ CITY_DATA = {
             -68377.08
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kotelnich": {
         "name": "Котельнич",
@@ -12168,7 +12168,7 @@ CITY_DATA = {
             -65145.06
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "lebyajie": {
         "name": "Лебяжье",
@@ -12177,7 +12177,7 @@ CITY_DATA = {
             -61913.78
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "manturovo": {
         "name": "Мантурово",
@@ -12186,7 +12186,7 @@ CITY_DATA = {
             -61323.47
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "murashi": {
         "name": "Мураши",
@@ -12195,7 +12195,7 @@ CITY_DATA = {
             -73299.36
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "nolinsk": {
         "name": "Нолинск",
@@ -12204,7 +12204,7 @@ CITY_DATA = {
             -63430.37
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "obachevo": {
         "name": "Объячево",
@@ -12213,7 +12213,7 @@ CITY_DATA = {
             -77881.59
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "orshanka": {
         "name": "Оршанка",
@@ -12222,7 +12222,7 @@ CITY_DATA = {
             -58580.4
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "pijanka": {
         "name": "Пижанка",
@@ -12231,7 +12231,7 @@ CITY_DATA = {
             -60644.39
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "shahunya": {
         "name": "Шахунья",
@@ -12240,7 +12240,7 @@ CITY_DATA = {
             -61918.89
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "sharia": {
         "name": "Шарья",
@@ -12249,7 +12249,7 @@ CITY_DATA = {
             -64741.3
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "siktivkar": {
         "name": "Сыктывкар",
@@ -12258,7 +12258,7 @@ CITY_DATA = {
             -86419.3
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "slobodskoy": {
         "name": "Слободской",
@@ -12267,7 +12267,7 @@ CITY_DATA = {
             -72180.11
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "sovetsk": {
         "name": "Советск",
@@ -12276,7 +12276,7 @@ CITY_DATA = {
             -62258.84
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "suna": {
         "name": "Суна",
@@ -12285,7 +12285,7 @@ CITY_DATA = {
             -64598.95
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "tuja": {
         "name": "Тужа",
@@ -12294,7 +12294,7 @@ CITY_DATA = {
             -62716.82
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "urjum": {
         "name": "Уржум",
@@ -12303,7 +12303,7 @@ CITY_DATA = {
             -61414.46
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "vahrushi": {
         "name": "Вахруши",
@@ -12312,7 +12312,7 @@ CITY_DATA = {
             -71115.72
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "vizinga": {
         "name": "Визинга",
@@ -12321,7 +12321,7 @@ CITY_DATA = {
             -82837.14
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "yaransk": {
         "name": "Яранск",
@@ -12330,7 +12330,7 @@ CITY_DATA = {
             -59719.65
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "yoshkarola": {
         "name": "Йошкар-Ола",
@@ -12339,7 +12339,7 @@ CITY_DATA = {
             -57832.28
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "arzamas": {
         "name": "Арзамас",
@@ -12348,7 +12348,7 @@ CITY_DATA = {
             -45342.63
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "balakhna": {
         "name": "Балахна",
@@ -12357,7 +12357,7 @@ CITY_DATA = {
             -53164.02
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "bogoyavlenie": {
         "name": "Богоявление",
@@ -12366,7 +12366,7 @@ CITY_DATA = {
             -48682.88
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "chkalovsk": {
         "name": "Чкаловск",
@@ -12375,7 +12375,7 @@ CITY_DATA = {
             -54887.53
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "dzerzhinsk": {
         "name": "Дзержинск",
@@ -12384,7 +12384,7 @@ CITY_DATA = {
             -51326.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kovrov": {
         "name": "Ковров",
@@ -12393,7 +12393,7 @@ CITY_DATA = {
             -49450.7
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kstovo": {
         "name": "Кстово",
@@ -12402,7 +12402,7 @@ CITY_DATA = {
             -51781.28
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "lukoyanov": {
         "name": "Лукоянов",
@@ -12411,7 +12411,7 @@ CITY_DATA = {
             -45327.78
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "nizhny": {
         "name": "Нижний Новгород",
@@ -12420,7 +12420,7 @@ CITY_DATA = {
             -52904.68
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "saransk": {
         "name": "Саранск",
@@ -12429,7 +12429,7 @@ CITY_DATA = {
             -42269.25
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "semenov": {
         "name": "Семёнов",
@@ -12438,7 +12438,7 @@ CITY_DATA = {
             -55448.84
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "shuya": {
         "name": "Шуя",
@@ -12447,7 +12447,7 @@ CITY_DATA = {
             -52214.47
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "vyazniki": {
         "name": "Вязники",
@@ -12456,7 +12456,7 @@ CITY_DATA = {
             -49037.93
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "aleisk": {
         "name": "aleisk",
@@ -12465,7 +12465,7 @@ CITY_DATA = {
             -110442.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "barnaul": {
         "name": "barnaul",
@@ -12474,7 +12474,7 @@ CITY_DATA = {
             -114517.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "belokurikha": {
         "name": "belokurikha",
@@ -12483,7 +12483,7 @@ CITY_DATA = {
             -111649.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "berdsk": {
         "name": "berdsk",
@@ -12492,7 +12492,7 @@ CITY_DATA = {
             -118297.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "biysk": {
         "name": "biysk",
@@ -12501,7 +12501,7 @@ CITY_DATA = {
             -116684.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "bochkaria": {
         "name": "bochkaria",
@@ -12510,7 +12510,7 @@ CITY_DATA = {
             -118853.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "bolotnoe": {
         "name": "Bolotnoe",
@@ -12519,7 +12519,7 @@ CITY_DATA = {
             -123408.9
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "bucanskoe": {
         "name": "bucanskoe",
@@ -12528,7 +12528,7 @@ CITY_DATA = {
             -110916.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "cherepanovo": {
         "name": "cherepanovo",
@@ -12537,7 +12537,7 @@ CITY_DATA = {
             -117824.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "chilinnoe": {
         "name": "chilinnoe",
@@ -12546,7 +12546,7 @@ CITY_DATA = {
             -119514.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "elchovka": {
         "name": "Elchovka",
@@ -12555,7 +12555,7 @@ CITY_DATA = {
             -121773.9
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "gornoaltaysk": {
         "name": "gornoaltaysk",
@@ -12564,7 +12564,7 @@ CITY_DATA = {
             -116588.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "gramoteino": {
         "name": "Gramoteino",
@@ -12573,7 +12573,7 @@ CITY_DATA = {
             -124755.4
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kemerovo": {
         "name": "Kemerovo",
@@ -12582,7 +12582,7 @@ CITY_DATA = {
             -128838.5
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kislovka": {
         "name": "Kislovka",
@@ -12591,7 +12591,7 @@ CITY_DATA = {
             -127865.3
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kornilovo": {
         "name": "kornilovo",
@@ -12600,7 +12600,7 @@ CITY_DATA = {
             -124064.3
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kuibyshev": {
         "name": "kuibyshev",
@@ -12609,7 +12609,7 @@ CITY_DATA = {
             -102341.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kuzedeevo": {
         "name": "Kuzedeevo",
@@ -12618,7 +12618,7 @@ CITY_DATA = {
             -123251.6
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kytmanovo": {
         "name": "kytmanovo",
@@ -12627,7 +12627,7 @@ CITY_DATA = {
             -120062.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "leninkuznec": {
         "name": "Leninkuznec",
@@ -12636,7 +12636,7 @@ CITY_DATA = {
             -124839.1
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "linevo": {
         "name": "linevo",
@@ -12645,7 +12645,7 @@ CITY_DATA = {
             -118414.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "mamontovo": {
         "name": "mamontovo",
@@ -12654,7 +12654,7 @@ CITY_DATA = {
             -107777.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "martynovo": {
         "name": "martynovo",
@@ -12663,7 +12663,7 @@ CITY_DATA = {
             -120969.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "moshkovo": {
         "name": "Moshkovo",
@@ -12672,7 +12672,7 @@ CITY_DATA = {
             -122099.8
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "novoaltaysk": {
         "name": "novoaltaysk",
@@ -12681,7 +12681,7 @@ CITY_DATA = {
             -116469.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "novobibeevo": {
         "name": "Novobibeevo",
@@ -12690,7 +12690,7 @@ CITY_DATA = {
             -123254.5
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "novokuznetsk": {
         "name": "novokuznetsk",
@@ -12699,7 +12699,7 @@ CITY_DATA = {
             -124613.3
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "oparino": {
         "name": "Oparino",
@@ -12708,7 +12708,7 @@ CITY_DATA = {
             -125529.4
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "rubtsovsk": {
         "name": "Rubtsovsk",
@@ -12717,7 +12717,7 @@ CITY_DATA = {
             -100301.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "smolenskoye": {
         "name": "smolenskoye",
@@ -12726,7 +12726,7 @@ CITY_DATA = {
             -114430.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "talmenka": {
         "name": "talmenka",
@@ -12735,7 +12735,7 @@ CITY_DATA = {
             -117257.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "tomsk": {
         "name": "Tomsk",
@@ -12744,7 +12744,7 @@ CITY_DATA = {
             -130838.2
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "yurga": {
         "name": "Yurga",
@@ -12753,7 +12753,7 @@ CITY_DATA = {
             -126253.6
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "zarinsk": {
         "name": "zarinsk",
@@ -12762,7 +12762,7 @@ CITY_DATA = {
             -120127.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "arhangelsk": {
         "name": "Архангельск",
@@ -12771,7 +12771,7 @@ CITY_DATA = {
             -89503.66
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "bereznik": {
         "name": "Березник",
@@ -12780,7 +12780,7 @@ CITY_DATA = {
             -84273.02
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "cherepovets": {
         "name": "Череповец",
@@ -12789,7 +12789,7 @@ CITY_DATA = {
             -57683.59
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "pogost": {
         "name": "Погост",
@@ -12798,7 +12798,7 @@ CITY_DATA = {
             -78027.78
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "s": {
         "name": "Сергиев Посад",
@@ -12807,7 +12807,7 @@ CITY_DATA = {
             -46968.23
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "severodvinsk": {
         "name": "Северодвинск",
@@ -12816,7 +12816,7 @@ CITY_DATA = {
             -87461.91
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "velsk": {
         "name": "Вельск",
@@ -12825,7 +12825,7 @@ CITY_DATA = {
             -74173.44
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "vologda": {
         "name": "Вологда",
@@ -12834,7 +12834,7 @@ CITY_DATA = {
             -61433.1
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "yaroslavl": {
         "name": "Ярославль",
@@ -12843,7 +12843,7 @@ CITY_DATA = {
             -54546.04
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "g": {
         "name": "Гусь Хрустальный",
@@ -12852,7 +12852,7 @@ CITY_DATA = {
             -42743.49
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kasimov": {
         "name": "Касимов",
@@ -12861,7 +12861,7 @@ CITY_DATA = {
             -41029.15
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kurlovo": {
         "name": "Курлово",
@@ -12870,7 +12870,7 @@ CITY_DATA = {
             -41160.68
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "murom": {
         "name": "Муром",
@@ -12879,7 +12879,7 @@ CITY_DATA = {
             -43610.65
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "sasovo": {
         "name": "Сасово",
@@ -12888,7 +12888,7 @@ CITY_DATA = {
             -38010.41
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "shumerlya": {
         "name": "Шумерля",
@@ -12897,7 +12897,7 @@ CITY_DATA = {
             -49484.27
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "tum": {
         "name": "Тума",
@@ -12906,7 +12906,7 @@ CITY_DATA = {
             -40280.75
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "vladimir": {
         "name": "Владимир",
@@ -12915,7 +12915,7 @@ CITY_DATA = {
             -45077.95
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "balabanovo": {
         "name": "Балабаново",
@@ -12924,7 +12924,7 @@ CITY_DATA = {
             -35196.2
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "obninskcntrl": {
         "name": "Обнинск",
@@ -12933,7 +12933,7 @@ CITY_DATA = {
             -34413.6
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "selyatino": {
         "name": "Селятино",
@@ -12942,7 +12942,7 @@ CITY_DATA = {
             -36741.6
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "vorsino": {
         "name": "Ворсино",
@@ -12951,7 +12951,7 @@ CITY_DATA = {
             -35404.6
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "zvenigorod": {
         "name": "Звенигород",
@@ -12960,7 +12960,7 @@ CITY_DATA = {
             -39235.2
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kiritsy": {
         "name": "Кирицы",
@@ -12969,7 +12969,7 @@ CITY_DATA = {
             -37418.59
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "krslob": {
         "name": "Краснослободск",
@@ -12978,7 +12978,7 @@ CITY_DATA = {
             -42358.85
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "n": {
         "name": "Нижний Ломов",
@@ -12987,7 +12987,7 @@ CITY_DATA = {
             -36469.02
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "ryazan": {
         "name": "Рязань",
@@ -12996,7 +12996,7 @@ CITY_DATA = {
             -37864.16
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "shilovo": {
         "name": "Шилово",
@@ -13005,7 +13005,7 @@ CITY_DATA = {
             -37068.18
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "spassk": {
         "name": "Спасск",
@@ -13014,7 +13014,7 @@ CITY_DATA = {
             -37982.56
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "torbeevo": {
         "name": "Торбеево",
@@ -13023,7 +13023,7 @@ CITY_DATA = {
             -39887.77
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "umet": {
         "name": "Умёт",
@@ -13032,7 +13032,7 @@ CITY_DATA = {
             -38613.68
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "z": {
         "name": "Зубова Поляна",
@@ -13041,7 +13041,7 @@ CITY_DATA = {
             -38184.91
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "oshtrowrus": {
         "name": "Oshtrow Russkyia",
@@ -13050,7 +13050,7 @@ CITY_DATA = {
             -208953.7
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "bokino": {
         "name": "Бокино",
@@ -13059,7 +13059,7 @@ CITY_DATA = {
             -26320.8
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kotovsk": {
         "name": "Котовск",
@@ -13068,7 +13068,7 @@ CITY_DATA = {
             -25825.74
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "stroitell": {
         "name": "Строитель",
@@ -13077,7 +13077,7 @@ CITY_DATA = {
             -27367.56
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "znamenka": {
         "name": "Знаменка",
@@ -13086,7 +13086,7 @@ CITY_DATA = {
             -24328.88
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "anavgay": {
         "name": "Анавгай",
@@ -13095,7 +13095,7 @@ CITY_DATA = {
             -348577.7
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "atka": {
         "name": "Атка",
@@ -13104,7 +13104,7 @@ CITY_DATA = {
             -320488.2
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "debin": {
         "name": "Дебин",
@@ -13113,7 +13113,7 @@ CITY_DATA = {
             -315592.8
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "dudinka": {
         "name": "Дудинка",
@@ -13122,7 +13122,7 @@ CITY_DATA = {
             -174617.7
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kliuchi": {
         "name": "Ключи",
@@ -13131,7 +13131,7 @@ CITY_DATA = {
             -355946.3
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kovran": {
         "name": "Ковран",
@@ -13140,7 +13140,7 @@ CITY_DATA = {
             -342073.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kozyrevsk": {
         "name": "Козыревск",
@@ -13149,7 +13149,7 @@ CITY_DATA = {
             -353885.5
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "levinskie": {
         "name": "Левинские Пески",
@@ -13158,7 +13158,7 @@ CITY_DATA = {
             -174252.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "magadan": {
         "name": "Магадан",
@@ -13167,7 +13167,7 @@ CITY_DATA = {
             -320147.2
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "mayskoye": {
         "name": "Майское",
@@ -13176,7 +13176,7 @@ CITY_DATA = {
             -353693.5
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "messoyakha": {
         "name": "Мессояха",
@@ -13185,7 +13185,7 @@ CITY_DATA = {
             -159926.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "myaundzha": {
         "name": "Мяунджа",
@@ -13194,7 +13194,7 @@ CITY_DATA = {
             -305880.7
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "norilsk": {
         "name": "Норильск",
@@ -13203,7 +13203,7 @@ CITY_DATA = {
             -176928.3
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "novozapol": {
         "name": "Новозаполярний",
@@ -13212,7 +13212,7 @@ CITY_DATA = {
             -152906.6
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "orotukan": {
         "name": "Оротукан",
@@ -13221,7 +13221,7 @@ CITY_DATA = {
             -317973.1
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "palatka": {
         "name": "Палатка",
@@ -13230,7 +13230,7 @@ CITY_DATA = {
             -319670.4
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "potapovo": {
         "name": "Потапово",
@@ -13239,7 +13239,7 @@ CITY_DATA = {
             -172353.9
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "severo": {
         "name": "Се́веро-Кури́льск",
@@ -13248,7 +13248,7 @@ CITY_DATA = {
             -352685.5
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "snezhnogorsk": {
         "name": "Снежногорск",
@@ -13257,7 +13257,7 @@ CITY_DATA = {
             -172539.9
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "sokol": {
         "name": "Сокол",
@@ -13266,7 +13266,7 @@ CITY_DATA = {
             -319860.1
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "susuman": {
         "name": "Сусуман",
@@ -13275,7 +13275,7 @@ CITY_DATA = {
             -307852.6
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "talnakh": {
         "name": "Талнах",
@@ -13284,7 +13284,7 @@ CITY_DATA = {
             -178638.9
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "tazovskiy": {
         "name": "Тазовский",
@@ -13293,7 +13293,7 @@ CITY_DATA = {
             -153619.9
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "tukhard": {
         "name": "Тухард",
@@ -13302,7 +13302,7 @@ CITY_DATA = {
             -170523.2
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "urengoy": {
         "name": "Уренгой",
@@ -13311,7 +13311,7 @@ CITY_DATA = {
             -147686.4
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "yagodnoye": {
         "name": "Ягодное",
@@ -13320,7 +13320,7 @@ CITY_DATA = {
             -312143.9
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "achinsk": {
         "name": "Ачинск",
@@ -13329,7 +13329,7 @@ CITY_DATA = {
             -143013.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "aginskoe": {
         "name": "Агинское",
@@ -13338,7 +13338,7 @@ CITY_DATA = {
             -207193.5
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "aldan": {
         "name": "Алдан",
@@ -13347,7 +13347,7 @@ CITY_DATA = {
             -247555.7
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "artyk": {
         "name": "Артык",
@@ -13356,7 +13356,7 @@ CITY_DATA = {
             -299054.3
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "baikalsk": {
         "name": "Байкальск",
@@ -13365,7 +13365,7 @@ CITY_DATA = {
             -172234.1
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "barabinsk": {
         "name": "Барабинск",
@@ -13374,7 +13374,7 @@ CITY_DATA = {
             -107665.1
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "belushiaguba": {
         "name": "belushiaguba",
@@ -13383,7 +13383,7 @@ CITY_DATA = {
             -137693.5
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "birobizhan": {
         "name": "Биробиджан",
@@ -13392,7 +13392,7 @@ CITY_DATA = {
             -272647.6
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "bolotnoye": {
         "name": "Болотное",
@@ -13401,7 +13401,7 @@ CITY_DATA = {
             -125286.4
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "borzya": {
         "name": "Борзя",
@@ -13410,7 +13410,7 @@ CITY_DATA = {
             -212985.2
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "bugrino": {
         "name": "bugrino",
@@ -13419,7 +13419,7 @@ CITY_DATA = {
             -119694.7
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "byelgorsk": {
         "name": "Белогорск",
@@ -13428,7 +13428,7 @@ CITY_DATA = {
             -256326.6
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "chernyshevsk": {
         "name": "Чернышевск",
@@ -13437,7 +13437,7 @@ CITY_DATA = {
             -214293.4
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "chita": {
         "name": "Чита",
@@ -13446,7 +13446,7 @@ CITY_DATA = {
             -205094.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "chulman": {
         "name": "Чульман",
@@ -13455,7 +13455,7 @@ CITY_DATA = {
             -245385.3
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "churapcha": {
         "name": "Чурапча",
@@ -13464,7 +13464,7 @@ CITY_DATA = {
             -266762.7
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "dalniechersk": {
         "name": "Дальнереченск",
@@ -13473,7 +13473,7 @@ CITY_DATA = {
             -275854.7
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "drovyanoi": {
         "name": "drovyanoi",
@@ -13482,7 +13482,7 @@ CITY_DATA = {
             -165244.7
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "erofeypav": {
         "name": "Ерофей Павлович",
@@ -13491,7 +13491,7 @@ CITY_DATA = {
             -235180.3
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "irkutsk": {
         "name": "Иркутск",
@@ -13500,7 +13500,7 @@ CITY_DATA = {
             -174325.8
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kalachinsk": {
         "name": "Калачинск",
@@ -13509,7 +13509,7 @@ CITY_DATA = {
             -99502.5
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kansk": {
         "name": "Канск",
@@ -13518,7 +13518,7 @@ CITY_DATA = {
             -157156.4
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kargat": {
         "name": "Каргат",
@@ -13527,7 +13527,7 @@ CITY_DATA = {
             -113342.9
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "khabarovsk": {
         "name": "Хабаровск",
@@ -13536,7 +13536,7 @@ CITY_DATA = {
             -280873.8
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "khandyga": {
         "name": "Хандыга",
@@ -13545,7 +13545,7 @@ CITY_DATA = {
             -275661.7
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "khilok": {
         "name": "Хилок",
@@ -13554,7 +13554,7 @@ CITY_DATA = {
             -193656.5
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kholmsk": {
         "name": "Холмск",
@@ -13563,7 +13563,7 @@ CITY_DATA = {
             -307938.4
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "komsomolskru": {
         "name": "Комсомольск-на-Амуре",
@@ -13572,7 +13572,7 @@ CITY_DATA = {
             -285866.1
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "korsakov": {
         "name": "Корсаков",
@@ -13581,7 +13581,7 @@ CITY_DATA = {
             -311405.2
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "krasnoyarsk": {
         "name": "Красноярск",
@@ -13590,7 +13590,7 @@ CITY_DATA = {
             -149157.7
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kyemerovo": {
         "name": "Кемерово",
@@ -13599,7 +13599,7 @@ CITY_DATA = {
             -128960.7
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "lidoga": {
         "name": "Лидога",
@@ -13608,7 +13608,7 @@ CITY_DATA = {
             -286105.8
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "magadachi": {
         "name": "Магдагачи",
@@ -13617,7 +13617,7 @@ CITY_DATA = {
             -248384.4
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "mariinsk": {
         "name": "Мариинск",
@@ -13626,7 +13626,7 @@ CITY_DATA = {
             -135648.9
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "mogocha": {
         "name": "Могоча",
@@ -13635,7 +13635,7 @@ CITY_DATA = {
             -231307.4
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "mudanjiang": {
         "name": "牡丹江",
@@ -13644,7 +13644,7 @@ CITY_DATA = {
             -259837.9
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "nakhodka": {
         "name": "Нахо́дка",
@@ -13653,7 +13653,7 @@ CITY_DATA = {
             -273706.5
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "never": {
         "name": "Невер",
@@ -13662,7 +13662,7 @@ CITY_DATA = {
             -241274.6
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "nizhneudinsk": {
         "name": "Нижнеудинск",
@@ -13671,7 +13671,7 @@ CITY_DATA = {
             -163763.1
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "nizhnii": {
         "name": "Нижний Бестях",
@@ -13680,7 +13680,7 @@ CITY_DATA = {
             -261319.5
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "novobruetsky": {
         "name": "Новобурейский",
@@ -13689,7 +13689,7 @@ CITY_DATA = {
             -260303.9
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "novosibirsk": {
         "name": "Новосибирск",
@@ -13698,7 +13698,7 @@ CITY_DATA = {
             -118147.8
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "pzabai": {
         "name": "Петровск-Забайкальский",
@@ -13707,7 +13707,7 @@ CITY_DATA = {
             -187180.3
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "rogachovo": {
         "name": "rogachovo",
@@ -13716,7 +13716,7 @@ CITY_DATA = {
             -140135.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "selichino": {
         "name": "Селихино",
@@ -13725,7 +13725,7 @@ CITY_DATA = {
             -285631.7
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "shimanovsk": {
         "name": "Шимановск",
@@ -13734,7 +13734,7 @@ CITY_DATA = {
             -252198.9
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "skovorodino": {
         "name": "Сковородино",
@@ -13743,7 +13743,7 @@ CITY_DATA = {
             -240138.1
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "spask": {
         "name": "Спасск-Дальний",
@@ -13752,7 +13752,7 @@ CITY_DATA = {
             -273629.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "tayshet": {
         "name": "Тайшет",
@@ -13761,7 +13761,7 @@ CITY_DATA = {
             -163342.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "tommot": {
         "name": "Томмот",
@@ -13770,7 +13770,7 @@ CITY_DATA = {
             -249977.8
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "tonghua": {
         "name": "通化",
@@ -13779,7 +13779,7 @@ CITY_DATA = {
             -246332.5
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "tynda": {
         "name": "Тында",
@@ -13788,7 +13788,7 @@ CITY_DATA = {
             -244151.4
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "tyukalinsk": {
         "name": "Тюкалинск",
@@ -13797,7 +13797,7 @@ CITY_DATA = {
             -95046.19
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "ulanude": {
         "name": "Улан-Удэ",
@@ -13806,7 +13806,7 @@ CITY_DATA = {
             -184257.9
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "ulu": {
         "name": "Улу",
@@ -13815,7 +13815,7 @@ CITY_DATA = {
             -254246.3
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "ulyoty": {
         "name": "Улеты",
@@ -13824,7 +13824,7 @@ CITY_DATA = {
             -200589.9
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "ussuriysk": {
         "name": "Уссури́йск",
@@ -13833,7 +13833,7 @@ CITY_DATA = {
             -271637.5
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "ustn": {
         "name": "Усть-Нера",
@@ -13842,7 +13842,7 @@ CITY_DATA = {
             -293363.9
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "vakkanai": {
         "name": "稚内市",
@@ -13851,7 +13851,7 @@ CITY_DATA = {
             -308321.5
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "vanino": {
         "name": "Ванино",
@@ -13860,7 +13860,7 @@ CITY_DATA = {
             -299202.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "vladyvostok": {
         "name": "Владивосток",
@@ -13869,7 +13869,7 @@ CITY_DATA = {
             -269393.8
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "yakutsk": {
         "name": "Якутск",
@@ -13878,7 +13878,7 @@ CITY_DATA = {
             -260164.3
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "yuzhno": {
         "name": "Южно-Сахалинск",
@@ -13887,7 +13887,7 @@ CITY_DATA = {
             -309735.1
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "zima": {
         "name": "Зима",
@@ -13896,7 +13896,7 @@ CITY_DATA = {
             -170989.7
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "abbbad": {
         "name": "Abbottabad",
@@ -13905,7 +13905,7 @@ CITY_DATA = {
             -16830.57
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "abdolhaqq": {
         "name": "'Abd ol Haqq",
@@ -13914,7 +13914,7 @@ CITY_DATA = {
             15858.3
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "abeche": {
         "name": "Abéché",
@@ -13923,7 +13923,7 @@ CITY_DATA = {
             217868.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "adre": {
         "name": "Adre",
@@ -13932,7 +13932,7 @@ CITY_DATA = {
             219326.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "albad2": {
         "name": "Al Bad'",
@@ -13941,7 +13941,7 @@ CITY_DATA = {
             113034.4
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "alkhuraybah": {
         "name": "Alkhuraybah",
@@ -13950,7 +13950,7 @@ CITY_DATA = {
             115484.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "alqatrun": {
         "name": "Al Qatrun",
@@ -13959,7 +13959,7 @@ CITY_DATA = {
             149245.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "alqusayr": {
         "name": "Al Qusayr",
@@ -13968,7 +13968,7 @@ CITY_DATA = {
             127982.3
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "alsharaf": {
         "name": "Alsharaf",
@@ -13977,7 +13977,7 @@ CITY_DATA = {
             108585.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "alubayyid": {
         "name": "Al-Ubayyid",
@@ -13986,7 +13986,7 @@ CITY_DATA = {
             215109.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "alwajh": {
         "name": "Al Wajh",
@@ -13995,7 +13995,7 @@ CITY_DATA = {
             126265.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "amol": {
         "name": "Amol",
@@ -14004,7 +14004,7 @@ CITY_DATA = {
             36974.75
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "andkhoy": {
         "name": "Andkhoy",
@@ -14013,7 +14013,7 @@ CITY_DATA = {
             1158.32
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "ashgabat": {
         "name": "Aşgabat",
@@ -14022,7 +14022,7 @@ CITY_DATA = {
             15339.9
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "ashshwayrif": {
         "name": "Ash Shwayrif",
@@ -14031,7 +14031,7 @@ CITY_DATA = {
             118925.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "astara": {
         "name": "Astara",
@@ -14040,7 +14040,7 @@ CITY_DATA = {
             35357.87
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "atiabroki": {
         "name": "Ati",
@@ -14049,7 +14049,7 @@ CITY_DATA = {
             222563.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "babol": {
         "name": "Babol",
@@ -14058,7 +14058,7 @@ CITY_DATA = {
             36120.24
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "bagnotar": {
         "name": "Bagnotar",
@@ -14067,7 +14067,7 @@ CITY_DATA = {
             -15227.57
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "baherden": {
         "name": "Bäherden",
@@ -14076,7 +14076,7 @@ CITY_DATA = {
             15567.3
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "balkanabat": {
         "name": "Balkanabat",
@@ -14085,7 +14085,7 @@ CITY_DATA = {
             17283.6
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "barakahu": {
         "name": "Barakahu",
@@ -14094,7 +14094,7 @@ CITY_DATA = {
             -12786.4
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "baysun": {
         "name": "Boysun",
@@ -14103,7 +14103,7 @@ CITY_DATA = {
             -11428.6
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "bhalwal": {
         "name": "Bhalwal",
@@ -14112,7 +14112,7 @@ CITY_DATA = {
             -3498.316
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "bilasuvar": {
         "name": "Bilasuvar",
@@ -14121,7 +14121,7 @@ CITY_DATA = {
             29795.07
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "bileomara": {
         "name": "Bile Omara",
@@ -14130,7 +14130,7 @@ CITY_DATA = {
             203404.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "bishkek": {
         "name": "Бишкек",
@@ -14139,7 +14139,7 @@ CITY_DATA = {
             -51816.5
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "bukhara": {
         "name": "Buxoro",
@@ -14148,7 +14148,7 @@ CITY_DATA = {
             -9897.66
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "burush": {
         "name": "Burush",
@@ -14157,7 +14157,7 @@ CITY_DATA = {
             215965.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "chakri": {
         "name": "Chakri",
@@ -14166,7 +14166,7 @@ CITY_DATA = {
             -7494.176
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "chalus": {
         "name": "Chalus",
@@ -14175,7 +14175,7 @@ CITY_DATA = {
             37884.8
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "chaman": {
         "name": "Chaman",
@@ -14184,7 +14184,7 @@ CITY_DATA = {
             24216.7
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "chongju": {
         "name": "정주",
@@ -14193,7 +14193,7 @@ CITY_DATA = {
             -240720.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "corfu": {
         "name": "Κέρκυρα",
@@ -14202,7 +14202,7 @@ CITY_DATA = {
             62311.61
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "dahaban": {
         "name": "Dahaban",
@@ -14211,7 +14211,7 @@ CITY_DATA = {
             110822.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "dalian": {
         "name": "大连",
@@ -14220,7 +14220,7 @@ CITY_DATA = {
             -224730.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "dandong": {
         "name": "丹东",
@@ -14229,7 +14229,7 @@ CITY_DATA = {
             -236998.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "darautkgn": {
         "name": "Дароот-Коргон",
@@ -14238,7 +14238,7 @@ CITY_DATA = {
             -32404.2
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "darvaza": {
         "name": "Derweze",
@@ -14247,7 +14247,7 @@ CITY_DATA = {
             4422.67
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "dasoguz": {
         "name": "Daşoguz",
@@ -14256,7 +14256,7 @@ CITY_DATA = {
             -7188.28
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "delaram": {
         "name": "Delaram",
@@ -14265,7 +14265,7 @@ CITY_DATA = {
             28407.3
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "denov": {
         "name": "Denov",
@@ -14274,7 +14274,7 @@ CITY_DATA = {
             -13199.6
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "derbent": {
         "name": "Derbent",
@@ -14283,7 +14283,7 @@ CITY_DATA = {
             -10109.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "dikhan": {
         "name": "Dera Ismail Khan",
@@ -14292,7 +14292,7 @@ CITY_DATA = {
             5442.84
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "djermaya": {
         "name": "Djermaya",
@@ -14301,7 +14301,7 @@ CITY_DATA = {
             227162.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "dorasan": {
         "name": "도라산",
@@ -14310,7 +14310,7 @@ CITY_DATA = {
             -247585.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "doubagos": {
         "name": "Doubabé Gos",
@@ -14319,7 +14319,7 @@ CITY_DATA = {
             231708.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "duba1": {
         "name": "Dubaa",
@@ -14328,7 +14328,7 @@ CITY_DATA = {
             121014.8
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "dushanbe": {
         "name": "Душанбе",
@@ -14337,7 +14337,7 @@ CITY_DATA = {
             -16971.4
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "dzhiland": {
         "name": "Ҷиланд",
@@ -14346,7 +14346,7 @@ CITY_DATA = {
             -24846.3
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "eltor": {
         "name": "El Tor",
@@ -14355,7 +14355,7 @@ CITY_DATA = {
             113410.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "esenguly": {
         "name": "Esenguly",
@@ -14364,7 +14364,7 @@ CITY_DATA = {
             27679.8
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "fashir": {
         "name": "Al-Fashir",
@@ -14373,7 +14373,7 @@ CITY_DATA = {
             217198.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "faya": {
         "name": "Faya-Largeau",
@@ -14382,7 +14382,7 @@ CITY_DATA = {
             180104.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "fjang": {
         "name": "Fateh Jang",
@@ -14391,7 +14391,7 @@ CITY_DATA = {
             -5400.16
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "fotokol": {
         "name": "Fotokol",
@@ -14400,7 +14400,7 @@ CITY_DATA = {
             230221.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "gambaru": {
         "name": "Gambaru",
@@ -14409,7 +14409,7 @@ CITY_DATA = {
             230522.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "garabogaz": {
         "name": "Garabogaz",
@@ -14418,7 +14418,7 @@ CITY_DATA = {
             11182.4
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "garyan": {
         "name": "Garyan",
@@ -14427,7 +14427,7 @@ CITY_DATA = {
             104884.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "geneina": {
         "name": "El Geneina",
@@ -14436,7 +14436,7 @@ CITY_DATA = {
             219762.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "gorgan": {
         "name": "Gorgan",
@@ -14445,7 +14445,7 @@ CITY_DATA = {
             30292.8
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "goyang": {
         "name": "고양",
@@ -14454,7 +14454,7 @@ CITY_DATA = {
             -247030.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "guzar": {
         "name": "G'uzor",
@@ -14463,7 +14463,7 @@ CITY_DATA = {
             -9555.58
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "gyzylgaya": {
         "name": "Gyzylgaya",
@@ -14472,7 +14472,7 @@ CITY_DATA = {
             8852.86
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "hairatan": {
         "name": "Hairatan",
@@ -14481,7 +14481,7 @@ CITY_DATA = {
             -5723.45
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "haiya": {
         "name": "Haiya",
@@ -14490,7 +14490,7 @@ CITY_DATA = {
             171712.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "halaib": {
         "name": "Halaib",
@@ -14499,7 +14499,7 @@ CITY_DATA = {
             147045.5
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "hashtpar": {
         "name": "Hashtpar",
@@ -14508,7 +14508,7 @@ CITY_DATA = {
             37340.69
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "herat": {
         "name": "Herat",
@@ -14517,7 +14517,7 @@ CITY_DATA = {
             21861.7
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "humeyra": {
         "name": "Humeyra",
@@ -14526,7 +14526,7 @@ CITY_DATA = {
             141611.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "hurghada": {
         "name": "Hurghada",
@@ -14535,7 +14535,7 @@ CITY_DATA = {
             122156.3
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "incheon": {
         "name": "인천",
@@ -14544,7 +14544,7 @@ CITY_DATA = {
             -245499.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "islamabad": {
         "name": "Islamabad",
@@ -14553,7 +14553,7 @@ CITY_DATA = {
             -9842.945
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "jigarband": {
         "name": "Jigarband",
@@ -14562,7 +14562,7 @@ CITY_DATA = {
             -7158.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kaechon": {
         "name": "개천",
@@ -14571,7 +14571,7 @@ CITY_DATA = {
             -243683.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kaesong": {
         "name": "개성",
@@ -14580,7 +14580,7 @@ CITY_DATA = {
             -246238.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kandahar": {
         "name": "Kandahar",
@@ -14589,7 +14589,7 @@ CITY_DATA = {
             23379.4
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "karakul": {
         "name": "Қарокӯл",
@@ -14598,7 +14598,7 @@ CITY_DATA = {
             -34041.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kassala": {
         "name": "Kassala",
@@ -14607,7 +14607,7 @@ CITY_DATA = {
             189905.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kgjalalbd": {
         "name": "Жалалабат",
@@ -14616,7 +14616,7 @@ CITY_DATA = {
             -39637.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kgmanas": {
         "name": "Манас",
@@ -14625,7 +14625,7 @@ CITY_DATA = {
             -51688.7
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kgosh": {
         "name": "Ош",
@@ -14634,7 +14634,7 @@ CITY_DATA = {
             -37650.4
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kogon": {
         "name": "Kogon",
@@ -14643,7 +14643,7 @@ CITY_DATA = {
             -8519.93
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "komsomolabad": {
         "name": "Комсомолобод",
@@ -14652,7 +14652,7 @@ CITY_DATA = {
             -22163.7
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "koneurgenc": {
         "name": "Köneürgenç",
@@ -14661,7 +14661,7 @@ CITY_DATA = {
             -7675.14
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "korday": {
         "name": "Қордай",
@@ -14670,7 +14670,7 @@ CITY_DATA = {
             -53482.9
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "koson": {
         "name": "Koson",
@@ -14679,7 +14679,7 @@ CITY_DATA = {
             -8931.69
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kosti": {
         "name": "Kosti",
@@ -14688,7 +14688,7 @@ CITY_DATA = {
             210944.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kousseri": {
         "name": "Kousseri",
@@ -14697,7 +14697,7 @@ CITY_DATA = {
             232127.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "koytendag": {
         "name": "Köýtendag",
@@ -14706,7 +14706,7 @@ CITY_DATA = {
             -3934.92
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kuchlak": {
         "name": "Kuchlak",
@@ -14715,7 +14715,7 @@ CITY_DATA = {
             25309.9
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "marsa": {
         "name": "Marsa Alam",
@@ -14724,7 +14724,7 @@ CITY_DATA = {
             133088.7
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "marytm": {
         "name": "Mary",
@@ -14733,7 +14733,7 @@ CITY_DATA = {
             7762.95
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "massaguet": {
         "name": "Massaguet",
@@ -14742,7 +14742,7 @@ CITY_DATA = {
             227190.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "massakory": {
         "name": "Massakory",
@@ -14751,7 +14751,7 @@ CITY_DATA = {
             221462.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "medinah": {
         "name": "Medina",
@@ -14760,7 +14760,7 @@ CITY_DATA = {
             129098.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "meymaneh": {
         "name": "Meymaneh",
@@ -14769,7 +14769,7 @@ CITY_DATA = {
             7018.21
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "mohamqol": {
         "name": "Muhammad Qol",
@@ -14778,7 +14778,7 @@ CITY_DATA = {
             156616.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "murghab": {
         "name": "Мурғоб",
@@ -14787,7 +14787,7 @@ CITY_DATA = {
             -31818.9
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "murree": {
         "name": "Murree",
@@ -14796,7 +14796,7 @@ CITY_DATA = {
             -13275.93
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "musbagh": {
         "name": "Muslim Bagh",
@@ -14805,7 +14805,7 @@ CITY_DATA = {
             18898.2
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "muwaileh": {
         "name": "Al Muwaileh",
@@ -14814,7 +14814,7 @@ CITY_DATA = {
             118888.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "nahud": {
         "name": "En Nahud",
@@ -14823,7 +14823,7 @@ CITY_DATA = {
             218449.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "nampo": {
         "name": "남포",
@@ -14832,7 +14832,7 @@ CITY_DATA = {
             -240230.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "nanga": {
         "name": "Nanga Parbat Base Camp",
@@ -14841,7 +14841,7 @@ CITY_DATA = {
             -17664.69
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "ndjamena": {
         "name": "N'Djamena",
@@ -14850,7 +14850,7 @@ CITY_DATA = {
             230822.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "ngoura": {
         "name": "Ngoura",
@@ -14859,7 +14859,7 @@ CITY_DATA = {
             224813.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "olot": {
         "name": "Olot",
@@ -14868,7 +14868,7 @@ CITY_DATA = {
             -7017.96
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "oumhadjer": {
         "name": "Oum Hadjer",
@@ -14877,7 +14877,7 @@ CITY_DATA = {
             221926.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "paju": {
         "name": "파주",
@@ -14886,7 +14886,7 @@ CITY_DATA = {
             -246963.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "portsudan": {
         "name": "Port Sudan",
@@ -14895,7 +14895,7 @@ CITY_DATA = {
             162137.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "punel": {
         "name": "Punel",
@@ -14904,7 +14904,7 @@ CITY_DATA = {
             38541.19
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "pyongyang": {
         "name": "평양",
@@ -14913,7 +14913,7 @@ CITY_DATA = {
             -243510.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "qadarif": {
         "name": "Al Qadarif",
@@ -14922,7 +14922,7 @@ CITY_DATA = {
             200542.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "qalenaslam": {
         "name": "Qal'en ye Mirza Aslam",
@@ -14931,7 +14931,7 @@ CITY_DATA = {
             25574.6
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "qarshi": {
         "name": "Qarshi",
@@ -14940,7 +14940,7 @@ CITY_DATA = {
             -9188.7
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "qaryat": {
         "name": "Qaryat",
@@ -14949,7 +14949,7 @@ CITY_DATA = {
             116034.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "qorakol": {
         "name": "Qorako'l",
@@ -14958,7 +14958,7 @@ CITY_DATA = {
             -7776.93
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "quetta": {
         "name": "Quetta",
@@ -14967,7 +14967,7 @@ CITY_DATA = {
             26418.6
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "rabak": {
         "name": "Rabak",
@@ -14976,7 +14976,7 @@ CITY_DATA = {
             210586.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "rasht": {
         "name": "Rasht",
@@ -14985,7 +14985,7 @@ CITY_DATA = {
             38430.41
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "rawalpindi": {
         "name": "Rawalpindi",
@@ -14994,7 +14994,7 @@ CITY_DATA = {
             -9189.668
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "rushon": {
         "name": "Рӯшон",
@@ -15003,7 +15003,7 @@ CITY_DATA = {
             -22221.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "ruwaba": {
         "name": "Umm Ruwaba",
@@ -15012,7 +15012,7 @@ CITY_DATA = {
             214763.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "sabha": {
         "name": "Sabha",
@@ -15021,7 +15021,7 @@ CITY_DATA = {
             135879.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "safaga": {
         "name": "Safaga",
@@ -15030,7 +15030,7 @@ CITY_DATA = {
             125070.6
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "saghirdasht": {
         "name": "Сағирдашт",
@@ -15039,7 +15039,7 @@ CITY_DATA = {
             -23133.2
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "salyan": {
         "name": "Salyan",
@@ -15048,7 +15048,7 @@ CITY_DATA = {
             28642.28
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "sari": {
         "name": "Sari",
@@ -15057,7 +15057,7 @@ CITY_DATA = {
             34315.65
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "sarytash": {
         "name": "Сарыташ",
@@ -15066,7 +15066,7 @@ CITY_DATA = {
             -35481.4
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "sennar": {
         "name": "Sennar",
@@ -15075,7 +15075,7 @@ CITY_DATA = {
             206822.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "seoul": {
         "name": "서울",
@@ -15084,7 +15084,7 @@ CITY_DATA = {
             -249173.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "serdartm": {
         "name": "Serdar",
@@ -15093,7 +15093,7 @@ CITY_DATA = {
             15518.8
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "serhetabat": {
         "name": "Serhetabat",
@@ -15102,7 +15102,7 @@ CITY_DATA = {
             17010.9
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "shalaten": {
         "name": "Shalaten",
@@ -15111,7 +15111,7 @@ CITY_DATA = {
             143825.8
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "sharlavuk": {
         "name": "Sharlavuk",
@@ -15120,7 +15120,7 @@ CITY_DATA = {
             22676.1
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "sherabad": {
         "name": "Sherobod",
@@ -15129,7 +15129,7 @@ CITY_DATA = {
             -7652.79
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "sinkat": {
         "name": "Sinkat",
@@ -15138,7 +15138,7 @@ CITY_DATA = {
             167676.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "sinuiju": {
         "name": "신의주",
@@ -15147,7 +15147,7 @@ CITY_DATA = {
             -237533.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "songkhla": {
         "name": "Songkhla",
@@ -15156,7 +15156,7 @@ CITY_DATA = {
             -56160.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "ssheikh": {
         "name": "Sharm El-Sheikh",
@@ -15165,7 +15165,7 @@ CITY_DATA = {
             115392.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "stcath": {
         "name": "St. Catherine",
@@ -15174,7 +15174,7 @@ CITY_DATA = {
             110872.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "suakin": {
         "name": "Suakin",
@@ -15183,7 +15183,7 @@ CITY_DATA = {
             165104.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "suusamyr": {
         "name": "Суусамыр",
@@ -15192,7 +15192,7 @@ CITY_DATA = {
             -43650.3
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "tehran": {
         "name": "Tehran",
@@ -15201,7 +15201,7 @@ CITY_DATA = {
             43419.62
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "tejen": {
         "name": "Tejen",
@@ -15210,7 +15210,7 @@ CITY_DATA = {
             12279.3
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "tendali": {
         "name": "Tendali",
@@ -15219,7 +15219,7 @@ CITY_DATA = {
             213037.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "termez": {
         "name": "Termiz",
@@ -15228,7 +15228,7 @@ CITY_DATA = {
             -6910.43
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "tojikobod": {
         "name": "Тоҷикобод",
@@ -15237,7 +15237,7 @@ CITY_DATA = {
             -25586.5
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "tripoli": {
         "name": "Tripoli",
@@ -15246,7 +15246,7 @@ CITY_DATA = {
             101451.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "turkmenabat": {
         "name": "Türkmenabat",
@@ -15255,7 +15255,7 @@ CITY_DATA = {
             -3547.8
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "turkmenbashi": {
         "name": "Türkmenbaşy",
@@ -15264,7 +15264,7 @@ CITY_DATA = {
             17396.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "ulugqat": {
         "name": "乌鲁克恰提乡",
@@ -15273,7 +15273,7 @@ CITY_DATA = {
             -40317.8
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "wadibanda": {
         "name": "Wadi Banda",
@@ -15282,7 +15282,7 @@ CITY_DATA = {
             217432.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "wadimadani": {
         "name": "Wadi Madani",
@@ -15291,7 +15291,7 @@ CITY_DATA = {
             201543.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "wuqia": {
         "name": "乌恰镇",
@@ -15300,7 +15300,7 @@ CITY_DATA = {
             -42019.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "xiuyanzhen": {
         "name": "岫岩镇",
@@ -15309,7 +15309,7 @@ CITY_DATA = {
             -232344.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "yanbu": {
         "name": "Yanbu",
@@ -15318,7 +15318,7 @@ CITY_DATA = {
             135205.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "yerbent": {
         "name": "Yerbent",
@@ -15327,7 +15327,7 @@ CITY_DATA = {
             7918.55
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "zhob": {
         "name": "Zhob",
@@ -15336,7 +15336,7 @@ CITY_DATA = {
             11893.6
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "zouar": {
         "name": "Zouar",
@@ -15345,7 +15345,7 @@ CITY_DATA = {
             167265.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "alyabvck": {
         "name": "Алябьевский",
@@ -15354,7 +15354,7 @@ CITY_DATA = {
             -100993.2
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "cerov": {
         "name": "Серов",
@@ -15363,7 +15363,7 @@ CITY_DATA = {
             -91600.13
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "ceveroural": {
         "name": "Североуральск",
@@ -15372,7 +15372,7 @@ CITY_DATA = {
             -93394.48
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "cocva": {
         "name": "Сосьва",
@@ -15381,7 +15381,7 @@ CITY_DATA = {
             -91991.03
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "covetcky": {
         "name": "Советский",
@@ -15390,7 +15390,7 @@ CITY_DATA = {
             -104581.4
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "cupra": {
         "name": "Супра",
@@ -15399,7 +15399,7 @@ CITY_DATA = {
             -102678.5
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "dacny": {
         "name": "Дачный",
@@ -15408,7 +15408,7 @@ CITY_DATA = {
             -86415.93
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "gornoural": {
         "name": "Горноуральский",
@@ -15417,7 +15417,7 @@ CITY_DATA = {
             -83327.9
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "ivdel": {
         "name": "Ивдель",
@@ -15426,7 +15426,7 @@ CITY_DATA = {
             -96035.98
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "karpinck": {
         "name": "Карпинск",
@@ -15435,7 +15435,7 @@ CITY_DATA = {
             -91953.53
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kosaj": {
         "name": "Кошай",
@@ -15444,7 +15444,7 @@ CITY_DATA = {
             -91184.8
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kracnogl": {
         "name": "Красноглинный",
@@ -15453,7 +15453,7 @@ CITY_DATA = {
             -92099.52
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kracnoturin": {
         "name": "Краснотурьинск",
@@ -15462,7 +15462,7 @@ CITY_DATA = {
             -93051.81
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kushva": {
         "name": "Кушва",
@@ -15471,7 +15471,7 @@ CITY_DATA = {
             -85248.31
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "malayalya": {
         "name": "Малая Лая",
@@ -15480,7 +15480,7 @@ CITY_DATA = {
             -84538.63
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "moctovaya": {
         "name": "Мостовая",
@@ -15489,7 +15489,7 @@ CITY_DATA = {
             -86903.39
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "niznsalda": {
         "name": "Нижняя Салда",
@@ -15498,7 +15498,7 @@ CITY_DATA = {
             -84843.43
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "nizntura": {
         "name": "Нижняя Тура",
@@ -15507,7 +15507,7 @@ CITY_DATA = {
             -87272.38
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "niznytagil": {
         "name": "Нижний Тагил",
@@ -15516,7 +15516,7 @@ CITY_DATA = {
             -82070.38
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "nlyalya": {
         "name": "Новая Ляля",
@@ -15525,7 +15525,7 @@ CITY_DATA = {
             -89656.88
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "ouc": {
         "name": "Оус",
@@ -15534,7 +15534,7 @@ CITY_DATA = {
             -97253.59
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "pelym": {
         "name": "Пелым",
@@ -15543,7 +15543,7 @@ CITY_DATA = {
             -98371.84
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "pionercky": {
         "name": "Пионерский",
@@ -15552,7 +15552,7 @@ CITY_DATA = {
             -100980.5
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "platinasv": {
         "name": "Платина",
@@ -15561,7 +15561,7 @@ CITY_DATA = {
             -88246.68
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "privokzalny": {
         "name": "Привокзальный",
@@ -15570,7 +15570,7 @@ CITY_DATA = {
             -89019.5
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "rudnichny": {
         "name": "Рудничный",
@@ -15579,7 +15579,7 @@ CITY_DATA = {
             -92099.84
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "taezny": {
         "name": "Таежный",
@@ -15588,7 +15588,7 @@ CITY_DATA = {
             -100218.2
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "teterevo": {
         "name": "Тетерево",
@@ -15597,7 +15597,7 @@ CITY_DATA = {
             -100876.6
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "tretycever": {
         "name": "3-й Северный",
@@ -15606,7 +15606,7 @@ CITY_DATA = {
             -94212.06
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "uray": {
         "name": "Урай",
@@ -15615,7 +15615,7 @@ CITY_DATA = {
             -99265.25
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "vcevolodo": {
         "name": "Всеволодо-Благодатское",
@@ -15624,7 +15624,7 @@ CITY_DATA = {
             -95113.63
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "verhoture": {
         "name": "Верхотурье",
@@ -15633,7 +15633,7 @@ CITY_DATA = {
             -89347.33
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "verksalda": {
         "name": "Верхняя Салда",
@@ -15642,7 +15642,7 @@ CITY_DATA = {
             -84286.37
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "verktura": {
         "name": "Верхняя Тура",
@@ -15651,7 +15651,7 @@ CITY_DATA = {
             -86224.23
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "vorontsov": {
         "name": "Воронцовка",
@@ -15660,7 +15660,7 @@ CITY_DATA = {
             -91153.78
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "yevctyun": {
         "name": "Евстюниха",
@@ -15669,7 +15669,7 @@ CITY_DATA = {
             -82615.53
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "yugorck": {
         "name": "Югорск",
@@ -15678,7 +15678,7 @@ CITY_DATA = {
             -102441.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "komso": {
         "name": "Комсомольск-на-Амуре",
@@ -15687,7 +15687,7 @@ CITY_DATA = {
             -285959.1
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "selikhino": {
         "name": "Селихино",
@@ -15696,7 +15696,7 @@ CITY_DATA = {
             -288263.4
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "achikulak": {
         "name": "Ачикулак",
@@ -15705,7 +15705,7 @@ CITY_DATA = {
             10356.82
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "achtubinsk": {
         "name": "Ахтубинск",
@@ -15714,7 +15714,7 @@ CITY_DATA = {
             -10214.14
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "akkystau": {
         "name": "Аккыстау",
@@ -15723,7 +15723,7 @@ CITY_DATA = {
             -12712.05
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "artezian": {
         "name": "Артезиан",
@@ -15732,7 +15732,7 @@ CITY_DATA = {
             5720.188
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "astrachan": {
         "name": "Астрахань",
@@ -15741,7 +15741,7 @@ CITY_DATA = {
             -3928.035
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "babayurt": {
         "name": "Бабаюрт",
@@ -15750,7 +15750,7 @@ CITY_DATA = {
             12931.13
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "baksan": {
         "name": "Баксан",
@@ -15759,7 +15759,7 @@ CITY_DATA = {
             17103.25
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "beslan": {
         "name": "Беслан",
@@ -15768,7 +15768,7 @@ CITY_DATA = {
             17901.61
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "budennovsk": {
         "name": "Будённовск",
@@ -15777,7 +15777,7 @@ CITY_DATA = {
             9283.316
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "chervlennaya": {
         "name": "Червленная",
@@ -15786,7 +15786,7 @@ CITY_DATA = {
             13454.23
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "derbentus": {
         "name": "Дербент",
@@ -15795,7 +15795,7 @@ CITY_DATA = {
             17839.03
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "grozniy": {
         "name": "Грозный",
@@ -15804,7 +15804,7 @@ CITY_DATA = {
             15578.23
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "harabali": {
         "name": "Харабали",
@@ -15813,7 +15813,7 @@ CITY_DATA = {
             -8263.641
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "hasavjurt": {
         "name": "Хасавюрт",
@@ -15822,7 +15822,7 @@ CITY_DATA = {
             15401.91
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "hosheutovo": {
         "name": "Хошеутово",
@@ -15831,7 +15831,7 @@ CITY_DATA = {
             -6633.34
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "ganyushkino": {
         "name": "Ганюшкин",
@@ -15840,7 +15840,7 @@ CITY_DATA = {
             -8359.859
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "isberbasch": {
         "name": "Избербаш",
@@ -15849,7 +15849,7 @@ CITY_DATA = {
             16635.89
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kaspijsk": {
         "name": "Каспийск",
@@ -15858,7 +15858,7 @@ CITY_DATA = {
             15231.43
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kisljar": {
         "name": "Кизляр",
@@ -15867,7 +15867,7 @@ CITY_DATA = {
             10918.15
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kochubey": {
         "name": "Кочубей",
@@ -15876,7 +15876,7 @@ CITY_DATA = {
             9113.016
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "komsomolskiy": {
         "name": "Комсомольский",
@@ -15885,7 +15885,7 @@ CITY_DATA = {
             3562.879
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kotyaevka": {
         "name": "Котяевка",
@@ -15894,7 +15894,7 @@ CITY_DATA = {
             -5320.992
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "krasnyiyar": {
         "name": "Красный Яр",
@@ -15903,7 +15903,7 @@ CITY_DATA = {
             -5196.574
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kurskaya": {
         "name": "Курская",
@@ -15912,7 +15912,7 @@ CITY_DATA = {
             13291.52
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kyslovodsk": {
         "name": "Кисловодск",
@@ -15921,7 +15921,7 @@ CITY_DATA = {
             17101.89
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "lagan": {
         "name": "Лагань",
@@ -15930,7 +15930,7 @@ CITY_DATA = {
             2373.566
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "lenino": {
         "name": "Ленино",
@@ -15939,7 +15939,7 @@ CITY_DATA = {
             -5782.777
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "magas": {
         "name": "Магас",
@@ -15948,7 +15948,7 @@ CITY_DATA = {
             18246.11
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "mahachkala": {
         "name": "Махачкала",
@@ -15957,7 +15957,7 @@ CITY_DATA = {
             14984.72
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "mozdok": {
         "name": "Моздок",
@@ -15966,7 +15966,7 @@ CITY_DATA = {
             14120.87
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "nalchik": {
         "name": "Нальчик",
@@ -15975,7 +15975,7 @@ CITY_DATA = {
             18065.41
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "neftekumsk": {
         "name": "Нефтекумск",
@@ -15984,7 +15984,7 @@ CITY_DATA = {
             8653.039
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "prohladnyi": {
         "name": "Прохладный",
@@ -15993,7 +15993,7 @@ CITY_DATA = {
             15362.22
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "pyatigorsk": {
         "name": "Пятигорск",
@@ -16002,7 +16002,7 @@ CITY_DATA = {
             16173.83
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "suhokumsk": {
         "name": "Южно-Сухокумск",
@@ -16011,7 +16011,7 @@ CITY_DATA = {
             9018.516
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "svetlograd": {
         "name": "Светлоград",
@@ -16020,7 +16020,7 @@ CITY_DATA = {
             6252.75
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "tmekteb": {
         "name": "Терекли-Мектеб",
@@ -16029,7 +16029,7 @@ CITY_DATA = {
             10986.24
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "tukuymekteb": {
         "name": "Тукуй-Мектеб",
@@ -16038,7 +16038,7 @@ CITY_DATA = {
             10720.23
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "vladikavkaz": {
         "name": "Владикавказ",
@@ -16047,7 +16047,7 @@ CITY_DATA = {
             19331.27
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "xacmaz": {
         "name": "Xaçmaz",
@@ -16056,7 +16056,7 @@ CITY_DATA = {
             18887.04
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "zaganaman": {
         "name": "Цаган Аман",
@@ -16065,7 +16065,7 @@ CITY_DATA = {
             -7422.48
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "zelenokumsk": {
         "name": "Зеленокумск",
@@ -16074,7 +16074,7 @@ CITY_DATA = {
             12711.14
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "zubovka": {
         "name": "Зубовка",
@@ -16083,7 +16083,7 @@ CITY_DATA = {
             -7692.734
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "bekasi": {
         "name": "Bekasi",
@@ -16092,7 +16092,7 @@ CITY_DATA = {
             -68515.49
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "bogor": {
         "name": "Bogor",
@@ -16101,7 +16101,7 @@ CITY_DATA = {
             -64426.58
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "cilegon": {
         "name": "Cilegon",
@@ -16110,7 +16110,7 @@ CITY_DATA = {
             -58920.03
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "depok": {
         "name": "Depok",
@@ -16119,7 +16119,7 @@ CITY_DATA = {
             -65534.2
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "jakarta": {
         "name": "Jakarta",
@@ -16128,7 +16128,7 @@ CITY_DATA = {
             -66100.04
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "merak": {
         "name": "Merak",
@@ -16137,7 +16137,7 @@ CITY_DATA = {
             -60392.44
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "serpong": {
         "name": "Ciputat",
@@ -16146,7 +16146,7 @@ CITY_DATA = {
             -64629.94
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "tangerang": {
         "name": "Tangerang",
@@ -16155,7 +16155,7 @@ CITY_DATA = {
             -63838.31
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "apex": {
         "name": "Apex",
@@ -16164,7 +16164,7 @@ CITY_DATA = {
             -183007.9
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "brae": {
         "name": "Brae",
@@ -16173,7 +16173,7 @@ CITY_DATA = {
             -77157.3
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "frodsba": {
         "name": "Froðba",
@@ -16182,7 +16182,7 @@ CITY_DATA = {
             -74024.72
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "gloup": {
         "name": "Gloup",
@@ -16191,7 +16191,7 @@ CITY_DATA = {
             -79166.83
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "grutness": {
         "name": "Grutness",
@@ -16200,7 +16200,7 @@ CITY_DATA = {
             -74078.02
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "gutcher": {
         "name": "Gutcher",
@@ -16209,7 +16209,7 @@ CITY_DATA = {
             -78776.45
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "husavik": {
         "name": "Húsavík",
@@ -16218,7 +16218,7 @@ CITY_DATA = {
             -77400.74
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "hvalba": {
         "name": "Hvalba",
@@ -16227,7 +16227,7 @@ CITY_DATA = {
             -74536.58
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "iqaluit": {
         "name": "Iqaluit",
@@ -16236,7 +16236,7 @@ CITY_DATA = {
             -183283.1
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "itorqomt": {
         "name": "Ittoqqortoormiit",
@@ -16245,7 +16245,7 @@ CITY_DATA = {
             -132616.1
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kulusuk": {
         "name": "Kulusuk",
@@ -16254,7 +16254,7 @@ CITY_DATA = {
             -128887.4
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "kuummiit": {
         "name": "Kuummiit",
@@ -16263,7 +16263,7 @@ CITY_DATA = {
             -130557.9
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "lopra": {
         "name": "Lopra",
@@ -16272,7 +16272,7 @@ CITY_DATA = {
             -73123.83
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "mid": {
         "name": "Mid Yell",
@@ -16281,7 +16281,7 @@ CITY_DATA = {
             -78551.72
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "nanortalik": {
         "name": "Nanortalik",
@@ -16290,7 +16290,7 @@ CITY_DATA = {
             -119644.9
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "porkeri": {
         "name": "Porkeri",
@@ -16299,7 +16299,7 @@ CITY_DATA = {
             -73678.75
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "sandness": {
         "name": "Sandness",
@@ -16308,7 +16308,7 @@ CITY_DATA = {
             -76735.47
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "sandvik": {
         "name": "Sandvík",
@@ -16317,7 +16317,7 @@ CITY_DATA = {
             -74831.03
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "skopun": {
         "name": "Skopun",
@@ -16326,7 +16326,7 @@ CITY_DATA = {
             -77919.39
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "sumba": {
         "name": "Sumba",
@@ -16335,7 +16335,7 @@ CITY_DATA = {
             -72735.58
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "tasiilaq": {
         "name": "Tasiilaq",
@@ -16344,7 +16344,7 @@ CITY_DATA = {
             -129688.4
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "tasiusaq": {
         "name": "Tasiusaq",
@@ -16353,7 +16353,7 @@ CITY_DATA = {
             -119556.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "toft": {
         "name": "Toft",
@@ -16362,7 +16362,7 @@ CITY_DATA = {
             -77601.41
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "trongisva": {
         "name": "Trongisvágur",
@@ -16371,7 +16371,7 @@ CITY_DATA = {
             -74109.84
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "ulsta": {
         "name": "Ulsta",
@@ -16380,7 +16380,7 @@ CITY_DATA = {
             -77726.69
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "vagur": {
         "name": "Vágur",
@@ -16389,7 +16389,7 @@ CITY_DATA = {
             -73262.34
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "ajanm": {
         "name": "Puppebu",
@@ -16398,7 +16398,7 @@ CITY_DATA = {
             -125097.9
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "bjornoya": {
         "name": "bjornoya",
@@ -16407,7 +16407,7 @@ CITY_DATA = {
             -137575.1
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "sj": {
         "name": "Ny-Ålesund",
@@ -16416,7 +16416,7 @@ CITY_DATA = {
             -166475.6
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "aj": {
         "name": "al_bajda",
@@ -16425,7 +16425,7 @@ CITY_DATA = {
             101363.0
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "ajdabiya": {
         "name": "ajdabiya",
@@ -16434,7 +16434,7 @@ CITY_DATA = {
             112893.5
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "alexandria": {
         "name": "alexandria",
@@ -16443,7 +16443,7 @@ CITY_DATA = {
             100451.2
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "as": {
         "name": "as_sallum",
@@ -16452,7 +16452,7 @@ CITY_DATA = {
             105524.1
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "bengazi": {
         "name": "bengazi",
@@ -16461,7 +16461,7 @@ CITY_DATA = {
             105100.4
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "matruh": {
         "name": "matruh",
@@ -16470,7 +16470,7 @@ CITY_DATA = {
             105630.9
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "misrata": {
         "name": "misrata",
@@ -16479,7 +16479,7 @@ CITY_DATA = {
             104963.4
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "syrta": {
         "name": "syrta",
@@ -16488,7 +16488,7 @@ CITY_DATA = {
             111002.7
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "tobruk": {
         "name": "tobruk",
@@ -16497,7 +16497,7 @@ CITY_DATA = {
             103445.7
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "cala": {
         "name": "Cala en Bosc",
@@ -16506,7 +16506,7 @@ CITY_DATA = {
             57702.31
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "capdepera": {
         "name": "Capdepera",
@@ -16515,7 +16515,7 @@ CITY_DATA = {
             58619.27
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "ceuta": {
         "name": "Ceuta",
@@ -16524,7 +16524,7 @@ CITY_DATA = {
             72909.74
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "ibiza": {
         "name": "Eivissa",
@@ -16533,7 +16533,7 @@ CITY_DATA = {
             61456.93
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "mahon": {
         "name": "Maó",
@@ -16542,7 +16542,7 @@ CITY_DATA = {
             58104.07
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "melilla": {
         "name": "Melila",
@@ -16551,7 +16551,7 @@ CITY_DATA = {
             78293.62
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "menorca": {
         "name": "Ciutadella de Menorca",
@@ -16560,7 +16560,7 @@ CITY_DATA = {
             57535.07
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "palma": {
         "name": "Palma",
@@ -16569,7 +16569,7 @@ CITY_DATA = {
             58873.59
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "pollenca": {
         "name": "Pollença",
@@ -16578,7 +16578,7 @@ CITY_DATA = {
             58204.95
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "santa": {
         "name": "Santa Marina",
@@ -16587,7 +16587,7 @@ CITY_DATA = {
             57179.7
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     },
     "santanyi": {
         "name": "Santanyi",
@@ -16596,7 +16596,7 @@ CITY_DATA = {
             60711.39
         ],
         "region": "EU",
-        "companies": []
+        "companies": ["eurogoodies", "stokes", "lkwlog"]
     }
 }
 
@@ -16607,8 +16607,11 @@ def get_city_coords(city_id):
 
 def get_city_companies(city_id):
     cid = city_id.replace("city.", "")
-    # Se a cidade existe no banco, retorna as empresas dela. Caso contrário, retorna um padrão.
-    return CITY_DATA.get(cid, {}).get("companies", ["eurogoodies", "stokes", "lkwlog"])
+    companies = CITY_DATA.get(cid, {}).get("companies", [])
+    if not companies:
+        # Se a cidade não tem empresas mapeadas, retorna as 3 principais do jogo
+        return ["eurogoodies", "stokes", "lkwlog"]
+    return companies
 
 def calculate_distance(city1_id, city2_id):
     c1 = get_city_coords(city1_id)
