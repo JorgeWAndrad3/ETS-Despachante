@@ -1,6 +1,7 @@
 import zlib
 import os
 import ctypes
+import re
 from typing import List
 
 class SiiNativeService:

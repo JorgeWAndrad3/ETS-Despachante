@@ -4,23 +4,16 @@ from app.services.cargo_service import CargoService
 from app.services.save_manager import SaveManagerService
 from app.services.sii_native import SiiNativeService
 from app.models.cargo import City, Company, Cargo
-from app.utils.city_database import CITY_MASTER_LIST
+from app.utils.city_database import GLOBAL_CITY_LIST, EUROPE_CITIES, BRAZIL_CITIES
+from app.utils.cargo_database import CARGO_MASTER_LIST
 
 def load_initial_data(service):
-    """Carrega o banco de dados mestre de cidades e empresas."""
-    # Adiciona cidades em ordem alfabética pelo nome
-    sorted_cities = sorted(CITY_MASTER_LIST.items(), key=lambda x: x[1])
-    for city_id, city_name in sorted_cities:
-        c_id = f"city.{city_id}"
-        service.add_city(City(c_id, city_name, ["comp.itcc", "comp.stokes", "comp.rrb_log"]))
+    """Carrega o banco de dados mestre inicial."""
+    for city_id, city_name in GLOBAL_CITY_LIST.items():
+        service.add_city(City(f"city.{city_id}", city_name, ["comp.itcc", "comp.stokes", "comp.rrb_log"]))
     
-    # Empresas e Cargas
-    service.add_company(Company("comp.itcc", "ITCC", "city.paris"))
-    service.add_company(Company("comp.stokes", "Stokes", "city.berlin"))
-    service.add_company(Company("comp.rrb_log", "RRB Logística", "city.sao_paulo"))
-    service.add_cargo(Cargo("cargo.apple", "Maçãs", 15))
-    service.add_cargo(Cargo("cargo.electronics", "Eletrônicos", 5))
-    service.add_cargo(Cargo("cargo.machinery", "Maquinário Pesado", 25))
+    for cargo_id, cargo_name in CARGO_MASTER_LIST.items():
+        service.add_cargo(Cargo(f"cargo.{cargo_id}", cargo_name, 10))
 
 def main(page: ft.Page):
     page.title = "ETS2 Cargo Dispatcher PRO"
@@ -33,22 +26,36 @@ def main(page: ft.Page):
     PRIMARY_COLOR = "#e91e63"
     SUCCESS_COLOR = "#00c853"
     
-    # Serviços
     service = CargoService()
     save_manager = SaveManagerService()
     sii_native = SiiNativeService()
     load_initial_data(service)
     
     discovered_cities_ids = set()
+    is_brazil_map = False
 
     # --- Funções de Lógica ---
     def update_city_dropdowns():
-        all_cities = sorted(service.cities.values(), key=lambda x: x.name)
-        if show_all_cities_sw.value:
-            options = [ft.dropdown.Option(c.id, c.name) for c in all_cities if c.id in discovered_cities_ids]
+        # Filtra as cidades baseadas na região detectada
+        if is_brazil_map:
+            base_list = GLOBAL_CITY_LIST
         else:
-            options = [ft.dropdown.Option(c.id, c.name) for c in all_cities]
+            base_list = EUROPE_CITIES
+
+        all_cities_objs = []
+        for cid, cname in base_list.items():
+            all_cities_objs.append(City(f"city.{cid}", cname, []))
+            
+        all_cities_sorted = sorted(all_cities_objs, key=lambda x: x.name)
         
+        if show_all_cities_sw.value:
+            options = [ft.dropdown.Option(c.id, c.name) for c in all_cities_sorted if c.id in discovered_cities_ids]
+        else:
+            options = [ft.dropdown.Option(c.id, c.name) for c in all_cities_sorted]
+        
+        if not options:
+            options = [ft.dropdown.Option("none", "Nenhuma cidade disponível")]
+            
         source_city_dd.options = options
         dest_city_dd.options = options
         page.update()
@@ -75,40 +82,38 @@ def main(page: ft.Page):
             page.update()
 
     def load_save_data(e):
-        nonlocal discovered_cities_ids
+        nonlocal discovered_cities_ids, is_brazil_map
         try:
             save_path = save_manager.base_path / "profiles" / profile_dd.value / "save" / save_dd.value / "game.sii"
             content = sii_native.decrypt_save(save_path)
             
             # 1. Extração de Cidades
-            known_ids = list(service.cities.keys())
+            known_ids = [f"city.{cid}" for cid in GLOBAL_CITY_LIST.keys()]
             discovered_cities_ids = sii_native.extract_cities(content, known_city_ids=known_ids)
             
-            # 2. Extração de Cargas
-            discovered_cargos_ids = sii_native.extract_cargos(content)
+            # 2. Detecção de Região (Brasil)
+            # Se encontrar qualquer cidade que pertence ao banco BR, ativa o modo BR
+            is_brazil_map = any(cid.replace("city.", "") in BRAZIL_CITIES for cid in discovered_cities_ids)
             
-            # Adiciona cargas novas ao banco de dados dinamicamente
+            # 3. Extração de Cargas
+            discovered_cargos_ids = sii_native.extract_cargos(content)
             for cargo_id in discovered_cargos_ids:
                 if cargo_id not in service.cargos:
-                    # Gera um nome amigável (ex: cargo.apple -> Apple)
                     display_name = cargo_id.replace("cargo.", "").replace("_", " ").title()
                     service.add_cargo(Cargo(cargo_id, display_name, 10))
             
-            # Atualiza Dropdowns
+            # 4. Atualizar UI
             update_city_dropdowns()
-            
-            # Atualiza Dropdown de Cargas (Ordem Alfabética)
             all_cargos = sorted(service.cargos.values(), key=lambda x: x.name)
             cargo_dd.options = [ft.dropdown.Option(c.id, c.name) for c in all_cargos]
             
-            # Transição de tela
             profile_card.visible = False
             main_ui.visible = True
             
-            page.snack_bar = ft.SnackBar(
-                ft.Text(f"✅ {len(discovered_cities_ids)} cidades e {len(discovered_cargos_ids)} cargas carregadas!"), 
-                bgcolor=SUCCESS_COLOR
-            )
+            status_msg = f"Mapa {'Brasileiro' if is_brazil_map else 'Europeu'} detectado! "
+            status_msg += f"{len(discovered_cities_ids)} cidades carregadas."
+            
+            page.snack_bar = ft.SnackBar(ft.Text(f"✅ {status_msg}"), bgcolor=SUCCESS_COLOR)
             page.snack_bar.open = True
             page.update()
         except Exception as err:
@@ -117,7 +122,6 @@ def main(page: ft.Page):
             page.update()
 
     # --- UI Components ---
-    # Card de Seleção de Perfil
     profile_dd = ft.Dropdown(label="Perfil", width=350, on_change=lambda _: on_profile_change())
     save_dd = ft.Dropdown(label="Save", width=250, disabled=True)
     load_btn = ft.ElevatedButton("CARREGAR SAVE", icon=ft.icons.PLAY_ARROW, bgcolor=PRIMARY_COLOR, color="white", on_click=load_save_data, height=50)
@@ -138,15 +142,12 @@ def main(page: ft.Page):
         load_btn.disabled = False
         page.update()
 
-    # Painel de Despacho
     show_all_cities_sw = ft.Switch(label="Somente descobertas", value=False, on_change=lambda _: update_city_dropdowns())
     source_city_dd = ft.Dropdown(label="Cidade de Origem", width=400, on_change=lambda e: update_comp_dd(e.data, source_comp_dd))
     source_comp_dd = ft.Dropdown(label="Empresa de Origem", width=400)
-    
     dest_city_dd = ft.Dropdown(label="Cidade de Destino", width=400, on_change=lambda e: update_comp_dd(e.data, dest_comp_dd))
     dest_comp_dd = ft.Dropdown(label="Empresa de Destino", width=400)
-    
-    cargo_dd = ft.Dropdown(label="Carga", width=400, options=[ft.dropdown.Option(c.id, c.name) for c in sorted(service.cargos.values(), key=lambda x: x.name)])
+    cargo_dd = ft.Dropdown(label="Carga", width=400)
     urgency_dd = ft.Dropdown(label="Urgência", width=200, value="0", options=[ft.dropdown.Option("0", "Normal"), ft.dropdown.Option("1", "Urgente"), ft.dropdown.Option("2", "Crítica")])
     trailer_dd = ft.Dropdown(label="Tipo de Reboque", width=400, value="curtain", options=[ft.dropdown.Option("curtain", "Sider (Lonado)"), ft.dropdown.Option("refrigerated", "Frigorífico"), ft.dropdown.Option("flatbed", "Prancha")])
 
@@ -170,18 +171,9 @@ def main(page: ft.Page):
             ], width=450)
         ], alignment=ft.MainAxisAlignment.CENTER),
         ft.Divider(height=40),
-        ft.ElevatedButton(
-            "GERAR E INJETAR CARGA NO SAVE", 
-            icon=ft.icons.ADD_TASK, 
-            bgcolor=SUCCESS_COLOR, 
-            color="white", 
-            height=70, 
-            width=940,
-            on_click=lambda _: print("Injetando...")
-        )
+        ft.ElevatedButton("GERAR E INJETAR CARGA NO SAVE", icon=ft.icons.ADD_TASK, bgcolor=SUCCESS_COLOR, color="white", height=70, width=940)
     ], visible=False, alignment=ft.MainAxisAlignment.CENTER)
 
-    # Montagem Final
     page.add(
         ft.Column([
             ft.Row([
@@ -195,7 +187,6 @@ def main(page: ft.Page):
         ], alignment=ft.MainAxisAlignment.CENTER)
     )
 
-    # Inicialização
     profiles = save_manager.list_profiles()
     profile_dd.options = [ft.dropdown.Option(p.id, p.name) for p in profiles]
     page.update()
