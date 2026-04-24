@@ -7,6 +7,7 @@ class Cargo:
     id: str
     name: str
     weight: float  # em toneladas
+    cargo_type: str = "normal" # danger, fragile, heavy, normal
 
 
 @dataclass
