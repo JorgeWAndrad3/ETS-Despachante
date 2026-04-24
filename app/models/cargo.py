@@ -14,6 +14,8 @@ class Company:
     id: str
     name: str
     city_id: str
+    exports: List[str] = None  # IDs das cargas que a empresa ENVIA
+    imports: List[str] = None  # IDs das cargas que a empresa RECEBE
 
 
 @dataclass
