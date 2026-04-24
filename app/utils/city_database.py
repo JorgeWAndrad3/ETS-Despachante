@@ -1,5 +1,12 @@
 import math
 
+# Lista de Cidades Gatilho para detecção de mapas brasileiros (RBR / EAA)
+BRAZIL_GATILHOS = [
+    "ribeirao", "campinas", "santos", "guarulhos", "sjc", "sertaoz", "bebedouro", "franca", "araraquara",
+    "uruguaiana", "pelotas", "bage", "portoalegre", "curitiba", "saopaulo", "resende", "vitoria",
+    "rrb", "eaa", "brazil", "rbr"
+]
+
 # BANCO DE DADOS GIGANTE EXTRAÍDO AUTOMATICAMENTE
 CITY_DATA = {
     "winterland": {
