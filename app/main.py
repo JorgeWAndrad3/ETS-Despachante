@@ -44,17 +44,39 @@ def main(page: ft.Page):
         base_list = GLOBAL_CITY_LIST if is_brazil_map else EUROPE_CITIES
         all_cities_objs = [City(f"city.{cid}", cname, []) for cid, cname in base_list.items()]
         all_cities_sorted = sorted(all_cities_objs, key=lambda x: x.name)
-        options = [ft.dropdown.Option(c.id, c.name) for c in all_cities_sorted]
+        
         if show_all_cities_sw.value:
-            options = [o for o in options if o.key in discovered_cities_ids]
+            options = [ft.dropdown.Option(c.id, c.name) for c in all_cities_sorted if c.id in discovered_cities_ids]
+        else:
+            options = [ft.dropdown.Option(c.id, c.name) for c in all_cities_sorted]
+        
         for dd in [source_city_dd, dest_city_dd, own_source_city_dd, own_dest_city_dd]:
             dd.options = options
         page.update()
 
     def update_comp_dd(city_id, dropdown):
+        # 1. Tenta pegar empresas que o scanner achou no save
         comp_ids = city_company_mapping.get(city_id, [])
-        valid_comps = [c_id for c_id in comp_ids if c_id in COMPANY_RULES] if realistic_mode_sw.value else comp_ids
-        options = [ft.dropdown.Option(c_id, COMPANY_RULES[c_id]["name"] if c_id in COMPANY_RULES else c_id.upper()) for c_id in valid_comps]
+        
+        # 2. Se não achou nada (cidade não visitada), usa lista genérica de fallback
+        if not comp_ids:
+            comp_ids = ["itcc", "stokes", "lkwlog", "tradeaux", "posped", "euroacres"]
+        
+        # 3. Se Modo Realista estiver ATIVO, filtra apenas as que tem regras
+        if realistic_mode_sw.value:
+            valid_comps = [c_id for c_id in comp_ids if c_id in COMPANY_RULES]
+            # Se o filtro resultar em nada, mostra as principais do jogo que costumam ter regras
+            if not valid_comps:
+                valid_comps = list(COMPANY_RULES.keys())[:10]
+        else:
+            # No modo livre, mostra todas as encontradas + genéricas
+            valid_comps = comp_ids + [c for c in GENERIC_COMPANIES[:10] if c not in comp_ids]
+
+        options = []
+        for c_id in valid_comps:
+            name = COMPANY_RULES[c_id]["name"] if c_id in COMPANY_RULES else c_id.upper()
+            options.append(ft.dropdown.Option(c_id, name))
+        
         dropdown.options = options
         if options: dropdown.value = options[0].key
         page.update()
@@ -64,7 +86,7 @@ def main(page: ft.Page):
         if cargo:
             icon = get_cargo_icon(cargo.cargo_type)
             return ft.dropdown.Option(cargo.id, f"{icon} {cargo.name}")
-        return ft.dropdown.Option(cargo_id, cargo_id)
+        return ft.dropdown.Option(cargo_id, cargo_id.replace("cargo.", "").title())
 
     def on_source_comp_change(e, cargo_dd_ref):
         if not realistic_mode_sw.value: return
@@ -105,7 +127,7 @@ def main(page: ft.Page):
             
             profile_card.visible = False
             main_tabs.visible = True
-            page.snack_bar = ft.SnackBar(ft.Text(f"✅ Save carregado! {len(discovered_cities_ids)} cidades encontradas."), bgcolor=SUCCESS_COLOR)
+            page.snack_bar = ft.SnackBar(ft.Text(f"✅ Save carregado! Mapa: {'Brasil' if is_brazil_map else 'Europa'}"), bgcolor=SUCCESS_COLOR)
             page.snack_bar.open = True
             page.update()
         except Exception as err:
