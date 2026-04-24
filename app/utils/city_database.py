@@ -1,43 +1,35 @@
-# Banco de Dados Mestre de Cidades do ETS2 (Expandido)
+# Banco de Dados Mestre de Cidades com Coordenadas e Empresas
+# Coordenadas (x, z) servem para calcular a distância em KM
 
-EUROPE_CITIES = {
-    "paris": "Paris", "berlin": "Berlin", "amsterdam": "Amsterdam", "beograd": "Belgrado",
-    "roma": "Roma", "madrid": "Madrid", "lisboa": "Lisboa", "warszawa": "Varsóvia",
-    "praha": "Praga", "wien": "Viena", "budapest": "Budapeste", "stockholm": "Estocolmo",
-    "oslo": "Oslo", "helsinki": "Helsinque", "kobenhavn": "Copenhague", "istanbul": "Istambul",
-    "london": "Londres", "munchen": "Munique", "milano": "Milão", "barcelona": "Barcelona",
-    "lyon": "Lyon", "zurich": "Zurique", "brussel": "Bruxelas", "geneve": "Genebra",
-    "stuttgart": "Stuttgart", "hamburg": "Hamburgo", "frankfurt": "Frankfurt", "dortmund": "Dortmund",
-    "koln": "Colônia", "dresden": "Dresden", "bremen": "Bremen", "leipzig": "Leipzig",
-    "hannover": "Hannover", "nurnberg": "Nuremberga", "duisburg": "Duisburgo", "mannheim": "Mannheim",
-    "marseille": "Marselha", "toulouse": "Toulouse", "nice": "Nice", "nantes": "Nantes",
-    "strasbourg": "Estrasburgo", "montpellier": "Montpellier", "bordeaux": "Bordéus", "lille": "Lille",
-    "rennes": "Rennes", "reims": "Reims", "le_havre": "Le Havre", "saint_etienne": "Saint-Étienne",
-    "toulon": "Toulon", "angers": "Angers", "dijon": "Dijon", "grenoble": "Grenoble",
-    "verona": "Verona", "venezia": "Veneza", "genova": "Gênova", "napoli": "Nápoles",
-    "palermo": "Palermo", "firenze": "Florença", "bari": "Bari", "catania": "Catânia",
-    "messina": "Messina", "torino": "Turim", "trieste": "Trieste", "taranto": "Tarento",
-    "prato": "Prato", "parma": "Parma", "modena": "Módena", "reggio_cal": "Régio da Calábria",
-    "perugia": "Perúgia", "livorno": "Livorno", "ravenna": "Ravena", "foggia": "Foggia",
-    "rimini": "Rimini", "salerno": "Salerno", "ferrara": "Ferrara", "sassari": "Sássari",
-    "latina": "Latina", "monza": "Monza", "siracusa": "Siracusa", "pescara": "Pescara",
-    "porto": "Porto", "coimbra": "Coimbra", "braga": "Braga", "faro": "Faro",
-    "valencia": "Valência", "sevilla": "Sevilha", "zaragoza": "Saragoça", "malaga": "Málaga",
-    "murcia": "Múrcia", "palma": "Palma de Maiorca", "las_palmas": "Las Palmas", "bilbao": "Bilbau",
-    "alicante": "Alicante", "cordoba": "Córdoba", "valladolid": "Valadolid", "vigo": "Vigo",
-    "gijon": "Gijón", "hospitalet": "Hospitalet de Llobregat", "vitoria_sp": "Vitória-Gasteiz",
-    "elche": "Elche", "granada": "Granada", "tarragona": "Tarragona", "cartagena": "Cartagena",
+CITY_DATA = {
+    "paris": {"name": "Paris", "coords": (0, 0), "companies": ["itcc", "stokes", "lkwlog", "tradeaux"]},
+    "berlin": {"name": "Berlin", "coords": (1000, -200), "companies": ["stokes", "euroacres", "posped"]},
+    "london": {"name": "Londres", "coords": (-800, -500), "companies": ["stokes", "trameri", "posped"]},
+    "roma": {"name": "Roma", "coords": (500, 1200), "companies": ["itcc", "marmo", "fcp"]},
+    "madrid": {"name": "Madrid", "coords": (-1500, 1500), "companies": ["itcc", "stokes", "tradeaux"]},
+    "lisboa": {"name": "Lisboa", "coords": (-2200, 1800), "companies": ["itcc", "stokes"]},
+    "praga": {"name": "Praga", "coords": (800, 200), "companies": ["itcc", "posped", "euroacres"]},
+    "brussel": {"name": "Bruxelas", "coords": (-200, -300), "companies": ["stokes", "lkwlog", "tradeaux"]},
+    "lyon": {"name": "Lyon", "coords": (-100, 500), "companies": ["itcc", "stokes", "boisserie"]},
+    "amsterdam": {"name": "Amsterdã", "coords": (0, -400), "companies": ["itcc", "stokes", "lkwlog"]},
+    # Brasil (Exemplo)
+    "sao_paulo": {"name": "São Paulo", "coords": (5000, 5000), "companies": ["rrb_log", "agronorte"]},
+    "curitiba": {"name": "Curitiba", "coords": (4800, 5500), "companies": ["rrb_log", "stokes"]},
 }
 
-BRAZIL_CITIES = {
-    "sao_paulo": "São Paulo", "rio_janeiro": "Rio de Janeiro", "belo_horizonte": "Belo Horizonte",
-    "curitiba": "Curitiba", "porto_alegre": "Porto Alegre", "salvador": "Salvador",
-    "brasilia": "Brasília", "fortaleza": "Fortaleza", "recife": "Recife", "manaus": "Manaus",
-    "goiania": "Goiânia", "belem": "Belém", "guarulhos": "Guarulhos", "campinas": "Campinas",
-    "sao_luis": "São Luís", "maceio": "Maceió", "natal": "Natal", "teresina": "Teresina",
-    "joao_pessoa": "João Pessoa", "aracaju": "Aracaju", "cuiaba": "Cuiabá", "porto_velho": "Porto Velho",
-    "florianopolis": "Florianópolis", "macapa": "Macapá", "rio_branco": "Rio Branco",
-    "vitoria": "Vitória", "boa_vista": "Boa Vista", "palmas": "Palmas",
-}
+# Funções auxiliares
+def get_city_coords(city_id):
+    city_id = city_id.replace("city.", "")
+    return CITY_DATA.get(city_id, {}).get("coords", (0, 0))
 
-GLOBAL_CITY_LIST = {**EUROPE_CITIES, **BRAZIL_CITIES}
+def get_city_companies(city_id):
+    city_id = city_id.replace("city.", "")
+    return CITY_DATA.get(city_id, {}).get("companies", ["itcc", "stokes", "lkwlog"]) # Fallback
+
+def calculate_distance(city1_id, city2_id):
+    import math
+    c1 = get_city_coords(city1_id)
+    c2 = get_city_coords(city2_id)
+    # Distância Euclidiana simplificada (ajustada para escala ETS2 ~1:19)
+    dist = math.sqrt((c1[0] - c2[0])**2 + (c1[1] - c2[1])**2)
+    return int(dist * 0.8) # Fator de ajuste para KM

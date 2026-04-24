@@ -1,17 +1,18 @@
 import flet as ft
 import random
+import math
 from app.services.cargo_service import CargoService
 from app.services.save_manager import SaveManagerService
 from app.services.sii_native import SiiNativeService
 from app.models.cargo import City, Company, Cargo
-from app.utils.city_database import GLOBAL_CITY_LIST, EUROPE_CITIES, BRAZIL_CITIES
+from app.utils.city_database import CITY_DATA, calculate_distance, get_city_companies
 from app.utils.cargo_database import CARGO_MASTER_LIST, get_cargo_icon
 from app.utils.company_database import COMPANY_RULES, GENERIC_COMPANIES
 
 def load_initial_data(service):
     """Carrega o banco de dados mestre inicial."""
-    for city_id, city_name in GLOBAL_CITY_LIST.items():
-        service.add_city(City(f"city.{city_id}", city_name, []))
+    for city_id, data in CITY_DATA.items():
+        service.add_city(City(f"city.{city_id}", data["name"], data["companies"]))
     
     for comp_id, rules in COMPANY_RULES.items():
         service.add_company(Company(comp_id, rules["name"], "global", exports=rules["exports"], imports=rules["imports"]))
@@ -40,9 +41,17 @@ def main(page: ft.Page):
     is_brazil_map = False
 
     # --- Funções de Lógica ---
+    def update_distance():
+        s_city = source_city_dd.value
+        d_city = dest_city_dd.value
+        if s_city and d_city:
+            km = calculate_distance(s_city, d_city)
+            dist_text.value = f"📏 Distância Estimada: {km} KM"
+            own_dist_text.value = f"📏 Distância Estimada: {km} KM"
+            page.update()
+
     def update_city_dropdowns():
-        base_list = GLOBAL_CITY_LIST if is_brazil_map else EUROPE_CITIES
-        all_cities_objs = [City(f"city.{cid}", cname, []) for cid, cname in base_list.items()]
+        all_cities_objs = [City(f"city.{cid}", data["name"], []) for cid, data in CITY_DATA.items()]
         all_cities_sorted = sorted(all_cities_objs, key=lambda x: x.name)
         
         if show_all_cities_sw.value:
@@ -55,38 +64,31 @@ def main(page: ft.Page):
         page.update()
 
     def update_comp_dd(city_id, dropdown):
-        # 1. Tenta pegar empresas que o scanner achou no save
+        # 1. Tenta pegar empresas do scanner (save)
         comp_ids = city_company_mapping.get(city_id, [])
         
-        # 2. Se não achou nada (cidade não visitada), usa lista genérica de fallback
+        # 2. Se não achou no save, usa o mapeamento mestre daquela cidade
         if not comp_ids:
-            comp_ids = ["itcc", "stokes", "lkwlog", "tradeaux", "posped", "euroacres"]
+            comp_ids = get_city_companies(city_id)
         
-        # 3. Se Modo Realista estiver ATIVO, filtra apenas as que tem regras
+        # 3. Filtragem por Realismo
         if realistic_mode_sw.value:
             valid_comps = [c_id for c_id in comp_ids if c_id in COMPANY_RULES]
-            # Se o filtro resultar em nada, mostra as principais do jogo que costumam ter regras
-            if not valid_comps:
-                valid_comps = list(COMPANY_RULES.keys())[:10]
+            if not valid_comps: valid_comps = [list(COMPANY_RULES.keys())[0]] # Fallback
         else:
-            # No modo livre, mostra todas as encontradas + genéricas
-            valid_comps = comp_ids + [c for c in GENERIC_COMPANIES[:10] if c not in comp_ids]
+            valid_comps = comp_ids
 
-        options = []
-        for c_id in valid_comps:
-            name = COMPANY_RULES[c_id]["name"] if c_id in COMPANY_RULES else c_id.upper()
-            options.append(ft.dropdown.Option(c_id, name))
-        
+        options = [ft.dropdown.Option(c_id, COMPANY_RULES[c_id]["name"] if c_id in COMPANY_RULES else c_id.upper()) for c_id in valid_comps]
         dropdown.options = options
         if options: dropdown.value = options[0].key
+        update_distance()
         page.update()
 
     def format_cargo_option(cargo_id):
         cargo = service.cargos.get(cargo_id)
-        if cargo:
-            icon = get_cargo_icon(cargo.cargo_type)
-            return ft.dropdown.Option(cargo.id, f"{icon} {cargo.name}")
-        return ft.dropdown.Option(cargo_id, cargo_id.replace("cargo.", "").title())
+        icon = get_cargo_icon(cargo.cargo_type) if cargo else "🚛"
+        name = cargo.name if cargo else cargo_id.replace("cargo.", "").title()
+        return ft.dropdown.Option(cargo_id, f"{icon} {name}")
 
     def on_source_comp_change(e, cargo_dd_ref):
         if not realistic_mode_sw.value: return
@@ -102,9 +104,8 @@ def main(page: ft.Page):
         try:
             save_path = save_manager.base_path / "profiles" / profile_dd.value / "save" / save_dd.value / "game.sii"
             content = sii_native.decrypt_save(save_path)
-            
-            discovered_cities_ids = sii_native.extract_cities(content, known_city_ids=[f"city.{cid}" for cid in GLOBAL_CITY_LIST.keys()])
-            is_brazil_map = any(cid.replace("city.", "") in BRAZIL_CITIES for cid in discovered_cities_ids)
+            discovered_cities_ids = sii_native.extract_cities(content, known_city_ids=[f"city.{cid}" for cid in CITY_DATA.keys()])
+            is_brazil_map = any(cid.replace("city.", "") in BRAZIL_CITIES_LIST for cid in discovered_cities_ids)
             
             companies_found = sii_native.extract_companies(content)
             city_company_mapping = {}
@@ -117,17 +118,12 @@ def main(page: ft.Page):
             discovered_cargos_ids = sii_native.extract_cargos(content)
             for cargo_id in discovered_cargos_ids:
                 if cargo_id not in service.cargos:
-                    service.add_cargo(Cargo(cargo_id, cargo_id.replace("cargo.", "").title(), 10, cargo_type="normal"))
+                    service.add_cargo(Cargo(cargo_id, cargo_id.replace("cargo.", "").title(), 10))
             
             update_city_dropdowns()
-            all_cargos_sorted = sorted(service.cargos.values(), key=lambda x: x.name)
-            cargo_options = [format_cargo_option(c.id) for c in all_cargos_sorted]
-            cargo_dd.options = cargo_options
-            own_cargo_dd.options = cargo_options
-            
             profile_card.visible = False
             main_tabs.visible = True
-            page.snack_bar = ft.SnackBar(ft.Text(f"✅ Save carregado! Mapa: {'Brasil' if is_brazil_map else 'Europa'}"), bgcolor=SUCCESS_COLOR)
+            page.snack_bar = ft.SnackBar(ft.Text("✅ Save carregado com sucesso!"), bgcolor=SUCCESS_COLOR)
             page.snack_bar.open = True
             page.update()
         except Exception as err:
@@ -136,29 +132,32 @@ def main(page: ft.Page):
             page.update()
 
     # --- UI Components ---
+    dist_text = ft.Text("📏 Distância: 0 KM", color="cyan", weight="bold", size=16)
+    own_dist_text = ft.Text("📏 Distância: 0 KM", color="cyan", weight="bold", size=16)
+    
+    BRAZIL_CITIES_LIST = ["sao_paulo", "curitiba", "porto_alegre"] # Simplificado para detecção
     realistic_mode_sw = ft.Switch(label="Respeitar mercado logístico", value=False, active_color=PRIMARY_COLOR)
     show_all_cities_sw = ft.Switch(label="Somente descobertas", value=False, on_change=lambda _: update_city_dropdowns())
     
     source_city_dd = ft.Dropdown(label="Origem", width=300, on_change=lambda e: update_comp_dd(e.data, source_comp_dd))
     source_comp_dd = ft.Dropdown(label="Empresa", width=300, on_change=lambda e: on_source_comp_change(e, cargo_dd))
     dest_city_dd = ft.Dropdown(label="Destino", width=300, on_change=lambda e: update_comp_dd(e.data, dest_comp_dd))
-    dest_comp_dd = ft.Dropdown(label="Empresa", width=300)
+    dest_comp_dd = ft.Dropdown(label="Empresa", width=300, on_change=lambda _: update_distance())
     cargo_dd = ft.Dropdown(label="Carga", width=400)
-    trailer_dd = ft.Dropdown(label="Reboque do Jogo", width=300, value="curtain", options=[ft.dropdown.Option("curtain", "Sider"), ft.dropdown.Option("flatbed", "Prancha")])
-
+    
     own_source_city_dd = ft.Dropdown(label="Origem", width=300, on_change=lambda e: update_comp_dd(e.data, own_source_comp_dd))
     own_source_comp_dd = ft.Dropdown(label="Empresa", width=300, on_change=lambda e: on_source_comp_change(e, own_cargo_dd))
     own_dest_city_dd = ft.Dropdown(label="Destino", width=300, on_change=lambda e: update_comp_dd(e.data, own_dest_comp_dd))
-    own_dest_comp_dd = ft.Dropdown(label="Empresa", width=300)
+    own_dest_comp_dd = ft.Dropdown(label="Empresa", width=300, on_change=lambda _: update_distance())
     own_cargo_dd = ft.Dropdown(label="Carga", width=620)
 
     def create_section(title, content):
         return ft.Container(content=ft.Column([ft.Text(title, size=16, weight="bold", color=PRIMARY_COLOR), ft.Divider(height=10, color="transparent"), content]), padding=20, bgcolor="#161b22", border_radius=12, border=ft.border.all(1, "#30363d"))
 
-    mercado_fretes_view = ft.Column([ft.Row([create_section("📍 ORIGEM", ft.Column([source_city_dd, source_comp_dd])), create_section("🏁 DESTINO", ft.Column([dest_city_dd, dest_comp_dd]))], spacing=20), create_section("📦 CARGA E REBOQUE", ft.Row([cargo_dd, trailer_dd], spacing=20)), ft.ElevatedButton("GERAR NO MERCADO DE FRETES", icon=ft.icons.ADD_TASK, bgcolor=SUCCESS_COLOR, color="white", height=60, width=940)], spacing=20)
-    mercado_cargas_view = ft.Column([ft.Row([create_section("📍 ONDE VOCÊ ESTÁ", ft.Column([own_source_city_dd, own_source_comp_dd])), create_section("🏁 PARA ONDE VAI", ft.Column([own_dest_city_dd, own_dest_comp_dd]))], spacing=20), create_section("📦 SELECIONE A CARGA", ft.Row([own_cargo_dd], spacing=20)), ft.ElevatedButton("GERAR PARA MEU REBOQUE", icon=ft.icons.LOCAL_SHIPPING, bgcolor="#2196F3", color="white", height=60, width=940)], spacing=20)
+    mercado_fretes_view = ft.Column([ft.Row([create_section("📍 ORIGEM", ft.Column([source_city_dd, source_comp_dd])), create_section("🏁 DESTINO", ft.Column([dest_city_dd, dest_comp_dd]))], spacing=20), dist_text, create_section("📦 CARGA E REBOQUE", ft.Row([cargo_dd], spacing=20)), ft.ElevatedButton("GERAR NO MERCADO DE FRETES", bgcolor=SUCCESS_COLOR, color="white", height=60, width=940)], spacing=20)
+    mercado_cargas_view = ft.Column([ft.Row([create_section("📍 ONDE VOCÊ ESTÁ", ft.Column([own_source_city_dd, own_source_comp_dd])), create_section("🏁 PARA ONDE VAI", ft.Column([own_dest_city_dd, own_dest_comp_dd]))], spacing=20), own_dist_text, create_section("📦 SELECIONE A CARGA", ft.Row([own_cargo_dd], spacing=20)), ft.ElevatedButton("GERAR PARA MEU REBOQUE", bgcolor="#2196F3", color="white", height=60, width=940)], spacing=20)
 
-    main_tabs = ft.Tabs(selected_index=0, tabs=[ft.Tab(text="MERCADO DE FRETES", icon=ft.icons.ASSIGNMENT, content=ft.Container(mercado_fretes_view, padding=20)), ft.Tab(text="REBOQUE PRÓPRIO", icon=ft.icons.LOCAL_SHIPPING, content=ft.Container(mercado_cargas_view, padding=20))], visible=False, expand=1)
+    main_tabs = ft.Tabs(selected_index=0, tabs=[ft.Tab(text="MERCADO DE FRETES", content=ft.Container(mercado_fretes_view, padding=20)), ft.Tab(text="REBOQUE PRÓPRIO", content=ft.Container(mercado_cargas_view, padding=20))], visible=False, expand=1)
 
     profile_dd = ft.Dropdown(label="Perfil", width=350, on_change=lambda _: on_profile_change())
     save_dd = ft.Dropdown(label="Save", width=250, disabled=True)
@@ -173,7 +172,7 @@ def main(page: ft.Page):
         load_btn.disabled = False
         page.update()
 
-    page.add(ft.Column([ft.Row([ft.Icon(ft.icons.LOCAL_SHIPPING, color=PRIMARY_COLOR, size=40), ft.Text("ETS2 CARGO DISPATCHER PRO", size=32, weight="bold")], alignment=ft.MainAxisAlignment.CENTER), ft.Container(height=10), profile_card, ft.Row([realistic_mode_sw, show_all_cities_sw], alignment=ft.MainAxisAlignment.CENTER, spacing=50), ft.Divider(height=20, color="#30363d"), main_tabs]))
+    page.add(ft.Column([ft.Row([ft.Icon(ft.icons.LOCAL_SHIPPING, color=PRIMARY_COLOR, size=40), ft.Text("ETS2 CARGO DISPATCHER PRO", size=32, weight="bold")], alignment=ft.MainAxisAlignment.CENTER), profile_card, ft.Row([realistic_mode_sw, show_all_cities_sw], alignment=ft.MainAxisAlignment.CENTER, spacing=50), ft.Divider(height=20, color="#30363d"), main_tabs]))
     
     profiles = save_manager.list_profiles()
     if profiles: profile_dd.options = [ft.dropdown.Option(p.id, p.name) for p in profiles]
