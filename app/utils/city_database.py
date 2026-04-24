@@ -153,7 +153,7 @@ CITY_DATA = {
             -11736.2
         ],
         "region": "EU",
-        "companies": ["lkwlog"]
+        "companies": ["lkwlog", "kaarfor", "trameri", "stokes"]
     },
     "andenes": {
         "name": "Andenes",
@@ -360,7 +360,7 @@ CITY_DATA = {
             -9903.56
         ],
         "region": "EU",
-        "companies": ["eurogoodies", "stokes", "posped", "ika_bohag"]
+        "companies": ["eurogoodies", "nbfc", "sanbuilders", "bcp", "euroacres"]
     },
     "bern": {
         "name": "Bern",
@@ -396,7 +396,7 @@ CITY_DATA = {
             -20423.0
         ],
         "region": "EU",
-        "companies": ["stokes"]
+        "companies": ["sanbuilders", "tree_et", "bcp", "posped"]
     },
     "birsay": {
         "name": "Birsay",
@@ -486,7 +486,7 @@ CITY_DATA = {
             14831.0
         ],
         "region": "EU",
-        "companies": ["eurogoodies", "stokes", "lkwlog"]
+        "companies": ["tree_et", "wgcc", "bcp", "posped"]
     },
     "bremen": {
         "name": "Bremen",
@@ -495,7 +495,7 @@ CITY_DATA = {
             -14099.2
         ],
         "region": "EU",
-        "companies": ["eurogoodies"]
+        "companies": ["eurogoodies", "fcp", "euroacres", "posped"]
     },
     "bremerhaven": {
         "name": "Bremerhaven",
@@ -513,7 +513,7 @@ CITY_DATA = {
             8964.95
         ],
         "region": "EU",
-        "companies": ["lkwlog"]
+        "companies": ["sanbuilders", "lkwlog", "trameri", "euroacres"]
     },
     "broadford": {
         "name": "Broadford",
@@ -540,7 +540,7 @@ CITY_DATA = {
             -2415.148
         ],
         "region": "EU",
-        "companies": ["eurogoodies", "stokes", "lkwlog"]
+        "companies": ["fcp", "transinet", "euroacres"]
     },
     "bucuresti": {
         "name": "București",
@@ -612,7 +612,7 @@ CITY_DATA = {
             -4985.64
         ],
         "region": "EU",
-        "companies": ["eurogoodies", "stokes", "lkwlog"]
+        "companies": ["nbfc", "lkwlog", "stokes"]
     },
     "cambridge": {
         "name": "Cambridge",
@@ -621,7 +621,7 @@ CITY_DATA = {
             -16119.4
         ],
         "region": "EU",
-        "companies": ["eurogoodies", "stokes", "lkwlog"]
+        "companies": ["transinet", "kaarfor", "euroacres"]
     },
     "canterbury": {
         "name": "Canterbury",
@@ -639,7 +639,7 @@ CITY_DATA = {
             -14698.4
         ],
         "region": "EU",
-        "companies": ["posped"]
+        "companies": ["eurogoodies", "steinbruch", "stokes"]
     },
     "carlisle": {
         "name": "Carlisle",
@@ -648,7 +648,7 @@ CITY_DATA = {
             -39573.5
         ],
         "region": "EU",
-        "companies": ["eurogoodies", "stokes", "lkwlog"]
+        "companies": ["trameri", "euroacres", "posped"]
     },
     "chania": {
         "name": "Χανιά",
@@ -801,7 +801,7 @@ CITY_DATA = {
             -5598.41
         ],
         "region": "EU",
-        "companies": ["lkwlog"]
+        "companies": ["tree_et", "transinet", "steinbruch", "kaarfor"]
     },
     "douglas": {
         "name": "Douglas",
@@ -819,7 +819,7 @@ CITY_DATA = {
             -7884.36
         ],
         "region": "EU",
-        "companies": ["eurogoodies", "stokes", "lkwlog"]
+        "companies": ["eurogoodies", "lkwlog", "euroacres"]
     },
     "dresden": {
         "name": "Dresden",
@@ -828,7 +828,7 @@ CITY_DATA = {
             -1606.27
         ],
         "region": "EU",
-        "companies": ["stokes", "posped"]
+        "companies": ["sellplan", "transinet", "trameri", "euroacres"]
     },
     "dublin": {
         "name": "Dublin",
@@ -846,7 +846,7 @@ CITY_DATA = {
             -6170.93
         ],
         "region": "EU",
-        "companies": ["eurogoodies", "stokes", "lkwlog"]
+        "companies": ["nbfc", "lkwlog"]
     },
     "dumfries": {
         "name": "Dumfries",
@@ -864,7 +864,7 @@ CITY_DATA = {
             -4399.6
         ],
         "region": "EU",
-        "companies": ["eurogoodies", "stokes", "lkwlog"]
+        "companies": ["eurogoodies", "fcp", "stokes"]
     },
     "edinburgh": {
         "name": "Edinburgh",
@@ -873,7 +873,7 @@ CITY_DATA = {
             -47219.7
         ],
         "region": "EU",
-        "companies": ["eurogoodies", "stokes", "lkwlog"]
+        "companies": ["eurogoodies", "sanbuilders", "kaarfor"]
     },
     "eindhoven": {
         "name": "Eindhoven",
@@ -909,7 +909,7 @@ CITY_DATA = {
             -1733.77
         ],
         "region": "EU",
-        "companies": ["eurogoodies", "stokes", "lkwlog"]
+        "companies": ["eurogoodies", "sanbuilders", "euroacres"]
     },
     "esbjerg": {
         "name": "Esbjerg",
@@ -963,7 +963,7 @@ CITY_DATA = {
             -13837.2
         ],
         "region": "EU",
-        "companies": ["eurogoodies", "stokes", "lkwlog"]
+        "companies": ["tree_et", "lkwlog", "tradeaux"]
     },
     "fishguard": {
         "name": "Fishguard",
@@ -1017,7 +1017,7 @@ CITY_DATA = {
             2633.59
         ],
         "region": "EU",
-        "companies": ["lkwlog"]
+        "companies": ["tree_et", "wgcc", "kaarfor", "tradeaux"]
     },
     "fraserburgh": {
         "name": "Fraserburgh",
@@ -1125,7 +1125,7 @@ CITY_DATA = {
             23717.0
         ],
         "region": "EU",
-        "companies": ["eurogoodies", "stokes", "lkwlog"]
+        "companies": ["tree_et", "sellplan", "posped", "tradeaux"]
     },
     "genova": {
         "name": "Genova",
@@ -1143,7 +1143,7 @@ CITY_DATA = {
             -48471.6
         ],
         "region": "EU",
-        "companies": ["eurogoodies", "stokes", "lkwlog"]
+        "companies": ["eurogoodies", "wgcc", "itcc", "steinbruch"]
     },
     "gorzow": {
         "name": "Gorzów Wlkp.",
@@ -1170,7 +1170,7 @@ CITY_DATA = {
             20552.7
         ],
         "region": "EU",
-        "companies": ["eurogoodies", "stokes", "lkwlog"]
+        "companies": ["tree_et", "fcp", "lkwlog", "posped"]
     },
     "grimsby": {
         "name": "Grimsby",
@@ -1260,7 +1260,7 @@ CITY_DATA = {
             -16335.5
         ],
         "region": "EU",
-        "companies": ["stokes"]
+        "companies": ["sanbuilders", "lkwlog", "transinet"]
     },
     "hameenlinna": {
         "name": "Hämeenlinna",
@@ -1287,7 +1287,7 @@ CITY_DATA = {
             -8916.4
         ],
         "region": "EU",
-        "companies": ["eurogoodies", "stokes", "lkwlog"]
+        "companies": ["tree_et", "steinbruch", "trameri", "scania_dealer", "tradeaux"]
     },
     "haparanda": {
         "name": "Haparanda",
@@ -1449,7 +1449,7 @@ CITY_DATA = {
             19214.1
         ],
         "region": "EU",
-        "companies": ["eurogoodies"]
+        "companies": ["eurogoodies", "tree_et", "trameri"]
     },
     "inverness": {
         "name": "Inverness",
@@ -1692,7 +1692,7 @@ CITY_DATA = {
             -20826.7
         ],
         "region": "EU",
-        "companies": ["eurogoodies", "stokes", "lkwlog"]
+        "companies": ["eurogoodies", "posped", "stokes"]
     },
     "kielce": {
         "name": "Kielce",
@@ -1728,7 +1728,7 @@ CITY_DATA = {
             23027.6
         ],
         "region": "EU",
-        "companies": ["eurogoodies", "stokes", "lkwlog"]
+        "companies": ["eurogoodies", "sellplan", "trameri", "tradeaux"]
     },
     "klaksvik": {
         "name": "Klaksvík",
@@ -1791,7 +1791,7 @@ CITY_DATA = {
             -2732.75
         ],
         "region": "EU",
-        "companies": ["eurogoodies", "stokes", "lkwlog"]
+        "companies": ["itcc", "posped"]
     },
     "koper": {
         "name": "Koper",
@@ -1962,7 +1962,7 @@ CITY_DATA = {
             -3384.61
         ],
         "region": "EU",
-        "companies": ["posped"]
+        "companies": ["eurogoodies", "tree_et", "fcp"]
     },
     "libramont": {
         "name": "Libramont-Chevigny",
@@ -1980,7 +1980,7 @@ CITY_DATA = {
             -844.0664
         ],
         "region": "EU",
-        "companies": ["eurogoodies", "stokes", "lkwlog"]
+        "companies": ["eurogoodies", "tree_et", "itcc", "stokes"]
     },
     "liepaja": {
         "name": "Liepāja",
@@ -1998,7 +1998,7 @@ CITY_DATA = {
             -2483.4
         ],
         "region": "EU",
-        "companies": ["eurogoodies", "stokes", "lkwlog"]
+        "companies": ["eurogoodies", "trameri", "tradeaux"]
     },
     "limerick": {
         "name": "Limerick (Luimneach)",
@@ -2025,7 +2025,7 @@ CITY_DATA = {
             15754.6
         ],
         "region": "EU",
-        "companies": ["eurogoodies", "stokes", "lkwlog"]
+        "companies": ["nbfc", "itcc", "posped"]
     },
     "lisburn": {
         "name": "Lisburn",
@@ -2043,7 +2043,7 @@ CITY_DATA = {
             -29091.8
         ],
         "region": "EU",
-        "companies": ["eurogoodies"]
+        "companies": ["eurogoodies", "nbfc", "trameri", "euroacres"]
     },
     "livorno": {
         "name": "Livorno",
@@ -2070,7 +2070,7 @@ CITY_DATA = {
             -11564.2
         ],
         "region": "EU",
-        "companies": ["eurogoodies", "stokes", "posped"]
+        "companies": ["nbfc", "sanbuilders", "sellplan", "volvo_dealer", "posped"]
     },
     "londonderry": {
         "name": "Londonderry",
@@ -2115,7 +2115,7 @@ CITY_DATA = {
             3665.301
         ],
         "region": "EU",
-        "companies": ["eurogoodies", "stokes", "lkwlog"]
+        "companies": ["sanbuilders", "lkwlog", "itcc", "volvo_dealer"]
     },
     "lyon": {
         "name": "Lyon",
@@ -2124,7 +2124,7 @@ CITY_DATA = {
             25892.3
         ],
         "region": "EU",
-        "companies": ["eurogoodies", "batisse", "kaarfor"]
+        "companies": ["sanbuilders", "steinbruch", "kaarfor", "trameri", "tradeaux"]
     },
     "maastricht": {
         "name": "Maastricht",
@@ -2142,7 +2142,7 @@ CITY_DATA = {
             -7752.3
         ],
         "region": "EU",
-        "companies": ["eurogoodies", "stokes", "lkwlog"]
+        "companies": ["eurogoodies", "sellplan", "euroacres"]
     },
     "mainz": {
         "name": "Mainz",
@@ -2169,7 +2169,7 @@ CITY_DATA = {
             -27815.0
         ],
         "region": "EU",
-        "companies": ["eurogoodies", "stokes"]
+        "companies": ["tree_et", "fcp", "wgcc", "lkwlog", "scania_dealer"]
     },
     "mannheim": {
         "name": "Mannheim",
@@ -2178,7 +2178,7 @@ CITY_DATA = {
             6075.05
         ],
         "region": "EU",
-        "companies": ["eurogoodies", "stokes", "lkwlog"]
+        "companies": ["eurogoodies", "transinet", "trameri"]
     },
     "manresa": {
         "name": "Manresa",
@@ -2214,7 +2214,7 @@ CITY_DATA = {
             7463.71
         ],
         "region": "EU",
-        "companies": ["eurogoodies", "stokes", "lkwlog"]
+        "companies": ["eurogoodies", "tree_et", "posped"]
     },
     "mikkeli": {
         "name": "Mikkeli",
@@ -2232,7 +2232,7 @@ CITY_DATA = {
             28982.8
         ],
         "region": "EU",
-        "companies": ["lkwlog", "sellplan"]
+        "companies": ["ika_bohag", "aci_srl", "spinelli", "cesare", "tesoro_gustoso", "libellula", "scania_dealer", "cargotras"]
     },
     "mitilini": {
         "name": "Μυτιλήνη",
@@ -2295,7 +2295,7 @@ CITY_DATA = {
             14133.0
         ],
         "region": "EU",
-        "companies": ["lkwlog"]
+        "companies": ["eurogoodies", "wgcc", "kaarfor", "bcp"]
     },
     "narbonne": {
         "name": "Narbonne",
@@ -2322,7 +2322,7 @@ CITY_DATA = {
             -38787.7
         ],
         "region": "EU",
-        "companies": ["eurogoodies", "stokes", "lkwlog"]
+        "companies": ["eurogoodies", "sanbuilders", "sellplan"]
     },
     "nowogard": {
         "name": "Nowogard",
@@ -2340,7 +2340,7 @@ CITY_DATA = {
             6221.02
         ],
         "region": "EU",
-        "companies": ["eurogoodies", "stokes", "lkwlog"]
+        "companies": ["sanbuilders", "trameri", "euroacres", "stokes"]
     },
     "nynashamn": {
         "name": "Nynäshamn",
@@ -2475,7 +2475,7 @@ CITY_DATA = {
             -9841.73
         ],
         "region": "EU",
-        "companies": ["eurogoodies", "stokes", "lkwlog"]
+        "companies": ["eurogoodies", "sellplan", "transinet", "euroacres"]
     },
     "ostersund": {
         "name": "Östersund",
@@ -2547,7 +2547,7 @@ CITY_DATA = {
             6998.41
         ],
         "region": "EU",
-        "companies": ["eurogoodies", "batisse", "ika_bohag", "kaarfor"]
+        "companies": ["ika_bohag", "fle", "voitureux", "lisette_log", "batisse", "bhv", "tradeaux"]
     },
     "parma": {
         "name": "Parma",
@@ -2637,7 +2637,7 @@ CITY_DATA = {
             -7882.32
         ],
         "region": "EU",
-        "companies": ["eurogoodies", "stokes", "lkwlog"]
+        "companies": ["eurogoodies", "trameri", "euroacres", "stokes"]
     },
     "portree": {
         "name": "Portree",
@@ -2673,7 +2673,7 @@ CITY_DATA = {
             -9112.2
         ],
         "region": "EU",
-        "companies": ["eurogoodies", "stokes", "lkwlog"]
+        "companies": ["tree_et", "fcp", "kaarfor", "stokes"]
     },
     "prague": {
         "name": "Praha",
@@ -2682,7 +2682,7 @@ CITY_DATA = {
             3978.97
         ],
         "region": "EU",
-        "companies": ["eurogoodies", "stokes", "lkwlog"]
+        "companies": ["eurogoodies", "sellplan", "scout", "steinbruch", "tradeaux"]
     },
     "przemysl": {
         "name": "Przemyśl",
@@ -2736,7 +2736,7 @@ CITY_DATA = {
             5799.34
         ],
         "region": "EU",
-        "companies": ["eurogoodies", "stokes", "lkwlog"]
+        "companies": ["eurogoodies", "steinbruch", "kaarfor", "euroacres"]
     },
     "reydar": {
         "name": "Reyðarfjörður",
@@ -2790,7 +2790,7 @@ CITY_DATA = {
             -18588.9
         ],
         "region": "EU",
-        "companies": ["eurogoodies", "stokes", "lkwlog"]
+        "companies": ["sellplan", "itcc", "tradeaux"]
     },
     "rotterdam": {
         "name": "Rotterdam",
@@ -2799,7 +2799,7 @@ CITY_DATA = {
             -9135.8
         ],
         "region": "EU",
-        "companies": ["lkwlog"]
+        "companies": ["sanbuilders", "wgcc", "transinet", "posped"]
     },
     "roudant": {
         "name": "Roudant",
@@ -2844,7 +2844,7 @@ CITY_DATA = {
             18564.5
         ],
         "region": "EU",
-        "companies": ["stokes"]
+        "companies": ["eurogoodies", "sanbuilders", "transinet", "steinbruch", "euroacres"]
     },
     "sangerhausen": {
         "name": "Sangerhausen",
@@ -2898,7 +2898,7 @@ CITY_DATA = {
             -26687.6
         ],
         "region": "EU",
-        "companies": ["eurogoodies", "stokes", "lkwlog"]
+        "companies": ["sellplan", "itcc", "transinet", "steinbruch"]
     },
     "sibiu": {
         "name": "Sibiu",
@@ -2961,7 +2961,7 @@ CITY_DATA = {
             -7523.25
         ],
         "region": "EU",
-        "companies": ["eurogoodies", "stokes", "lkwlog"]
+        "companies": ["tree_et", "sellplan", "transinet"]
     },
     "stargard": {
         "name": "Stargard",
@@ -3024,7 +3024,7 @@ CITY_DATA = {
             11198.7
         ],
         "region": "EU",
-        "companies": ["eurogoodies", "stokes", "lkwlog"]
+        "companies": ["wgcc", "steinbruch", "kaarfor", "trameri", "porsped"]
     },
     "stroemsund": {
         "name": "Strömsund",
@@ -3051,7 +3051,7 @@ CITY_DATA = {
             10047.0
         ],
         "region": "EU",
-        "companies": ["lkwlog"]
+        "companies": ["tree_et", "lkwlog", "steinbruch", "bcp"]
     },
     "sundsvall": {
         "name": "Sundsvall",
@@ -3123,7 +3123,7 @@ CITY_DATA = {
             -15406.9
         ],
         "region": "EU",
-        "companies": ["eurogoodies", "stokes", "lkwlog"]
+        "companies": ["eurogoodies", "itcc", "transinet"]
     },
     "szeged": {
         "name": "Szeged",
@@ -3177,7 +3177,7 @@ CITY_DATA = {
             30932.0
         ],
         "region": "EU",
-        "companies": ["eurogoodies", "stokes", "lkwlog"]
+        "companies": ["fcp", "sellplan", "transinet", "euroacres"]
     },
     "tornio": {
         "name": "Tornio",
@@ -3411,7 +3411,7 @@ CITY_DATA = {
             29453.3
         ],
         "region": "EU",
-        "companies": ["eurogoodies", "stokes", "lkwlog"]
+        "companies": ["kaarfor", "bcp", "euroacres", "posped"]
     },
     "vestmannaeyjar": {
         "name": "Vestmannaeyjar",
@@ -3546,7 +3546,7 @@ CITY_DATA = {
             14215.5
         ],
         "region": "EU",
-        "companies": ["eurogoodies", "stokes", "lkwlog"]
+        "companies": ["eurogoodies", "sellplan", "euroacres", "stokes"]
     },
     "wiesbaden": {
         "name": "Wiesbaden",
@@ -3573,7 +3573,7 @@ CITY_DATA = {
             -1890.36
         ],
         "region": "EU",
-        "companies": ["eurogoodies", "stokes", "lkwlog"]
+        "companies": ["eurogoodies", "steinbruch", "trameri", "euroacres"]
     },
     "ytterhogdal": {
         "name": "Ytterhogdal",
@@ -3618,7 +3618,7 @@ CITY_DATA = {
             17968.5
         ],
         "region": "EU",
-        "companies": ["eurogoodies", "stokes", "lkwlog"]
+        "companies": ["tree_et", "posped", "stokes"]
     },
     "zwolle": {
         "name": "Zwolle",
@@ -4599,7 +4599,7 @@ CITY_DATA = {
             48620.9
         ],
         "region": "EU",
-        "companies": ["eurogoodies", "stokes", "lkwlog"]
+        "companies": ["bhv", "huilant", "kaarfor", "lisette_log", "marina", "mvm_carriere", "tradeaux"]
     },
     "bastia": {
         "name": "Bastia",
