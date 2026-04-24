@@ -133,3 +133,23 @@ class SiiNativeService:
         cargos = {m.decode('utf-8', errors='ignore') for m in matches}
         print(f"DEBUG: {len(cargos)} IDs de carga encontrados via scanner.")
         return cargos
+
+    def extract_companies(self, content: bytes) -> list:
+        """
+        Extrai IDs de empresas do save binário.
+        Padrão: company.volatile.nome_da_empresa.nome_da_cidade
+        """
+        print("DEBUG: Iniciando varredura de empresas no binário...")
+        # O jogo armazena empresas como company.volatile.stokes.berlin
+        comp_pattern = rb"company\.volatile\.([a-z0-9_]+)\.([a-z0-9_]+)"
+        matches = re.findall(comp_pattern, content)
+        
+        companies_data = []
+        for comp_name, city_name in matches:
+            companies_data.append({
+                "name": comp_name.decode('utf-8', errors='ignore'),
+                "city": city_name.decode('utf-8', errors='ignore')
+            })
+        
+        print(f"DEBUG: {len(companies_data)} instâncias de empresas encontradas.")
+        return companies_data

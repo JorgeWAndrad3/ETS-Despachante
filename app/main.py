@@ -6,21 +6,16 @@ from app.services.sii_native import SiiNativeService
 from app.models.cargo import City, Company, Cargo
 from app.utils.city_database import GLOBAL_CITY_LIST, EUROPE_CITIES, BRAZIL_CITIES
 from app.utils.cargo_database import CARGO_MASTER_LIST
-from app.utils.company_database import COMPANY_RULES
+from app.utils.company_database import COMPANY_RULES, GENERIC_COMPANIES
 
 def load_initial_data(service):
     """Carrega o banco de dados mestre inicial."""
-    # 1. Cidades
     for city_id, city_name in GLOBAL_CITY_LIST.items():
-        # Associamos empresas genéricas a cada cidade para teste
-        service.add_city(City(f"city.{city_id}", city_name, ["itcc", "stokes", "lkwlog", "rrb_log"]))
+        service.add_city(City(f"city.{city_id}", city_name, []))
     
-    # 2. Empresas com Regras
     for comp_id, rules in COMPANY_RULES.items():
-        # Criamos instâncias da empresa para as cidades (exemplo simplificado)
-        service.add_company(Company(comp_id, rules["name"], "city.paris", exports=rules["exports"], imports=rules["imports"]))
+        service.add_company(Company(comp_id, rules["name"], "global", exports=rules["exports"], imports=rules["imports"]))
 
-    # 3. Cargas
     for cargo_id, cargo_name in CARGO_MASTER_LIST.items():
         service.add_cargo(Cargo(f"cargo.{cargo_id}", cargo_name, 10))
 
@@ -41,9 +36,10 @@ def main(page: ft.Page):
     load_initial_data(service)
     
     discovered_cities_ids = set()
+    city_company_mapping = {} # city_id -> list of company_ids
     is_brazil_map = False
 
-    # --- Funções de Lógica de Filtragem ---
+    # --- Funções de Lógica ---
     def update_city_dropdowns():
         base_list = GLOBAL_CITY_LIST if is_brazil_map else EUROPE_CITIES
         all_cities_objs = [City(f"city.{cid}", cname, []) for cid, cname in base_list.items()]
@@ -57,76 +53,64 @@ def main(page: ft.Page):
             dd.options = options
         page.update()
 
-    def on_source_comp_change(e, cargo_dd_ref, dest_city_dd_ref):
-        if not realistic_mode_sw.value:
-            return
+    def update_comp_dd(city_id, dropdown, is_source=True):
+        # Busca as empresas reais que o scanner achou para essa cidade
+        comp_ids = city_company_mapping.get(city_id, [])
         
+        if realistic_mode_sw.value:
+            # Filtra apenas empresas que temos no banco de REGRAS
+            valid_comps = [c_id for c_id in comp_ids if c_id in COMPANY_RULES]
+        else:
+            # No modo livre, mostra tudo o que o scanner achou
+            valid_comps = comp_ids
+
+        options = []
+        for c_id in valid_comps:
+            name = COMPANY_RULES[c_id]["name"] if c_id in COMPANY_RULES else c_id.upper()
+            options.append(ft.dropdown.Option(c_id, name))
+        
+        dropdown.options = options
+        if options: dropdown.value = options[0].key
+        page.update()
+
+    def on_source_comp_change(e, cargo_dd_ref):
+        if not realistic_mode_sw.value: return
         comp_id = e.data
-        company = service.companies.get(comp_id)
-        if company and company.exports:
-            # Filtra cargas que a empresa EXPORTA
-            cargo_dd_ref.options = [ft.dropdown.Option(c_id, service.cargos[c_id].name) 
-                                   for c_id in company.exports if c_id in service.cargos]
+        if comp_id in COMPANY_RULES:
+            exports = COMPANY_RULES[comp_id]["exports"]
+            cargo_dd_ref.options = [ft.dropdown.Option(c_id, service.cargos[c_id].name if c_id in service.cargos else c_id) for c_id in exports]
             if cargo_dd_ref.options: cargo_dd_ref.value = cargo_dd_ref.options[0].key
         page.update()
 
-    def on_cargo_change(e, dest_city_dd_ref):
-        if not realistic_mode_sw.value:
-            return
-        
-        cargo_id = e.data
-        # Encontra cidades que tenham empresas que IMPORTAM essa carga
-        valid_cities = set()
-        for comp in service.companies.values():
-            if comp.imports and cargo_id in comp.imports:
-                valid_cities.add(comp.city_id)
-        
-        if valid_cities:
-            all_cities = [service.cities[cid] for cid in valid_cities if cid in service.cities]
-            dest_city_dd_ref.options = [ft.dropdown.Option(c.id, c.name) for c in sorted(all_cities, key=lambda x: x.name)]
-            if dest_city_dd_ref.options: dest_city_dd_ref.value = dest_city_dd_ref.options[0].key
-        page.update()
-
-    # --- UI Components ---
-    realistic_mode_sw = ft.Switch(label="Respeitar mercado logístico", value=False, active_color=PRIMARY_COLOR)
-    show_all_cities_sw = ft.Switch(label="Somente descobertas", value=False, on_change=lambda _: update_city_dropdowns())
-    
-    # Dropdowns Mercado Fretes
-    source_city_dd = ft.Dropdown(label="Origem", width=300, on_change=lambda e: update_comp_dd(e.data, source_comp_dd))
-    source_comp_dd = ft.Dropdown(label="Empresa", width=300, on_change=lambda e: on_source_comp_change(e, cargo_dd, dest_city_dd))
-    dest_city_dd = ft.Dropdown(label="Destino", width=300, on_change=lambda e: update_comp_dd(e.data, dest_comp_dd))
-    dest_comp_dd = ft.Dropdown(label="Empresa", width=300)
-    cargo_dd = ft.Dropdown(label="Carga", width=400, on_change=lambda e: on_cargo_change(e, dest_city_dd))
-    trailer_dd = ft.Dropdown(label="Reboque do Jogo", width=300, value="curtain", options=[ft.dropdown.Option("curtain", "Sider"), ft.dropdown.Option("flatbed", "Prancha")])
-
-    # Dropdowns Reboque Próprio
-    own_source_city_dd = ft.Dropdown(label="Origem", width=300, on_change=lambda e: update_comp_dd(e.data, own_source_comp_dd))
-    own_source_comp_dd = ft.Dropdown(label="Empresa", width=300, on_change=lambda e: on_source_comp_change(e, own_cargo_dd, own_dest_city_dd))
-    own_dest_city_dd = ft.Dropdown(label="Destino", width=300, on_change=lambda e: update_comp_dd(e.data, own_dest_comp_dd))
-    own_dest_comp_dd = ft.Dropdown(label="Empresa", width=300)
-    own_cargo_dd = ft.Dropdown(label="Carga", width=620, on_change=lambda e: on_cargo_change(e, own_dest_city_dd))
-
-    def update_comp_dd(city_id, dropdown):
-        # Aqui, como é um protótipo, vamos mostrar as mesmas 4 empresas para todas as cidades
-        companies = [service.companies[cid] for cid in ["itcc", "stokes", "lkwlog", "rrb_log"]]
-        dropdown.options = [ft.dropdown.Option(c.id, c.name) for c in companies]
-        dropdown.value = companies[0].id
-        page.update()
-
     def load_save_data(e):
-        nonlocal discovered_cities_ids, is_brazil_map
+        nonlocal discovered_cities_ids, is_brazil_map, city_company_mapping
         try:
             save_path = save_manager.base_path / "profiles" / profile_dd.value / "save" / save_dd.value / "game.sii"
             content = sii_native.decrypt_save(save_path)
+            
+            # 1. Scanner de Cidades
             known_ids = [f"city.{cid}" for cid in GLOBAL_CITY_LIST.keys()]
             discovered_cities_ids = sii_native.extract_cities(content, known_city_ids=known_ids)
             is_brazil_map = any(cid.replace("city.", "") in BRAZIL_CITIES for cid in discovered_cities_ids)
             
+            # 2. Scanner de Empresas (Dinâmico!)
+            companies_found = sii_native.extract_companies(content)
+            city_company_mapping = {}
+            for comp in companies_found:
+                c_id = f"city.{comp['city']}"
+                if c_id not in city_company_mapping: city_company_mapping[c_id] = set()
+                city_company_mapping[c_id].add(comp["name"])
+            
+            # Converte sets para listas para facilitar
+            for cid in city_company_mapping: city_company_mapping[cid] = list(city_company_mapping[cid])
+            
+            # 3. Scanner de Cargas
             discovered_cargos_ids = sii_native.extract_cargos(content)
             for cargo_id in discovered_cargos_ids:
                 if cargo_id not in service.cargos:
                     service.add_cargo(Cargo(cargo_id, cargo_id.replace("cargo.", "").title(), 10))
             
+            # 4. Atualizar UI
             update_city_dropdowns()
             all_cargos = [ft.dropdown.Option(c.id, c.name) for c in sorted(service.cargos.values(), key=lambda x: x.name)]
             cargo_dd.options = all_cargos
@@ -134,7 +118,7 @@ def main(page: ft.Page):
             
             profile_card.visible = False
             main_tabs.visible = True
-            page.snack_bar = ft.SnackBar(ft.Text(f"✅ Save carregado! Mapa: {'Brasil' if is_brazil_map else 'Europa'}"), bgcolor=SUCCESS_COLOR)
+            page.snack_bar = ft.SnackBar(ft.Text(f"✅ Save carregado! {len(companies_found)} empresas detectadas."), bgcolor=SUCCESS_COLOR)
             page.snack_bar.open = True
             page.update()
         except Exception as err:
@@ -142,18 +126,32 @@ def main(page: ft.Page):
             page.snack_bar.open = True
             page.update()
 
-    # --- UI Helpers ---
-    def create_section(title, content):
-        return ft.Container(
-            content=ft.Column([
-                ft.Text(title, size=16, weight="bold", color=PRIMARY_COLOR),
-                ft.Divider(height=10, color="transparent"),
-                content
-            ]),
-            padding=20, bgcolor="#161b22", border_radius=12, border=ft.border.all(1, "#30363d")
-        )
+    # --- UI Components ---
+    realistic_mode_sw = ft.Switch(label="Respeitar mercado logístico", value=False, active_color=PRIMARY_COLOR)
+    show_all_cities_sw = ft.Switch(label="Somente descobertas", value=False, on_change=lambda _: update_city_dropdowns())
+    
+    source_city_dd = ft.Dropdown(label="Origem", width=300, on_change=lambda e: update_comp_dd(e.data, source_comp_dd))
+    source_comp_dd = ft.Dropdown(label="Empresa", width=300, on_change=lambda e: on_source_comp_change(e, cargo_dd))
+    dest_city_dd = ft.Dropdown(label="Destino", width=300, on_change=lambda e: update_comp_dd(e.data, dest_comp_dd))
+    dest_comp_dd = ft.Dropdown(label="Empresa", width=300)
+    cargo_dd = ft.Dropdown(label="Carga", width=400)
+    trailer_dd = ft.Dropdown(label="Reboque do Jogo", width=300, value="curtain", options=[ft.dropdown.Option("curtain", "Sider"), ft.dropdown.Option("flatbed", "Prancha")])
 
-    # --- Seleção Perfil ---
+    own_source_city_dd = ft.Dropdown(label="Origem", width=300, on_change=lambda e: update_comp_dd(e.data, own_source_comp_dd))
+    own_source_comp_dd = ft.Dropdown(label="Empresa", width=300, on_change=lambda e: on_source_comp_change(e, own_cargo_dd))
+    own_dest_city_dd = ft.Dropdown(label="Destino", width=300, on_change=lambda e: update_comp_dd(e.data, own_dest_comp_dd))
+    own_dest_comp_dd = ft.Dropdown(label="Empresa", width=300)
+    own_cargo_dd = ft.Dropdown(label="Carga", width=620)
+
+    # --- Views ---
+    def create_section(title, content):
+        return ft.Container(content=ft.Column([ft.Text(title, size=16, weight="bold", color=PRIMARY_COLOR), ft.Divider(height=10, color="transparent"), content]), padding=20, bgcolor="#161b22", border_radius=12, border=ft.border.all(1, "#30363d"))
+
+    mercado_fretes_view = ft.Column([ft.Row([create_section("📍 ORIGEM", ft.Column([source_city_dd, source_comp_dd])), create_section("🏁 DESTINO", ft.Column([dest_city_dd, dest_comp_dd]))], spacing=20), create_section("📦 CARGA E REBOQUE", ft.Row([cargo_dd, trailer_dd], spacing=20)), ft.ElevatedButton("GERAR NO MERCADO DE FRETES", icon=ft.icons.ADD_TASK, bgcolor=SUCCESS_COLOR, color="white", height=60, width=940)], spacing=20)
+    mercado_cargas_view = ft.Column([ft.Row([create_section("📍 ONDE VOCÊ ESTÁ", ft.Column([own_source_city_dd, own_source_comp_dd])), create_section("🏁 PARA ONDE VAI", ft.Column([own_dest_city_dd, own_dest_comp_dd]))], spacing=20), create_section("📦 SELECIONE A CARGA", ft.Row([own_cargo_dd], spacing=20)), ft.ElevatedButton("GERAR PARA MEU REBOQUE", icon=ft.icons.LOCAL_SHIPPING, bgcolor="#2196F3", color="white", height=60, width=940)], spacing=20)
+
+    main_tabs = ft.Tabs(selected_index=0, tabs=[ft.Tab(text="MERCADO DE FRETES", icon=ft.icons.ASSIGNMENT, content=ft.Container(mercado_fretes_view, padding=20)), ft.Tab(text="REBOQUE PRÓPRIO", icon=ft.icons.LOCAL_SHIPPING, content=ft.Container(mercado_cargas_view, padding=20))], visible=False, expand=1)
+
     profile_dd = ft.Dropdown(label="Perfil", width=350, on_change=lambda _: on_profile_change())
     save_dd = ft.Dropdown(label="Save", width=250, disabled=True)
     load_btn = ft.ElevatedButton("CARREGAR SAVE", bgcolor=PRIMARY_COLOR, color="white", on_click=load_save_data, height=50)
@@ -167,45 +165,7 @@ def main(page: ft.Page):
         load_btn.disabled = False
         page.update()
 
-    # --- Views ---
-    mercado_fretes_view = ft.Column([
-        ft.Row([
-            create_section("📍 ORIGEM", ft.Column([source_city_dd, source_comp_dd])),
-            create_section("🏁 DESTINO", ft.Column([dest_city_dd, dest_comp_dd])),
-        ], spacing=20),
-        create_section("📦 CARGA E REBOQUE", ft.Row([cargo_dd, trailer_dd], spacing=20)),
-        ft.ElevatedButton("GERAR NO MERCADO DE FRETES", icon=ft.icons.ADD_TASK, bgcolor=SUCCESS_COLOR, color="white", height=60, width=940)
-    ], spacing=20)
-
-    mercado_cargas_view = ft.Column([
-        ft.Row([
-            create_section("📍 ONDE VOCÊ ESTÁ", ft.Column([own_source_city_dd, own_source_comp_dd])),
-            create_section("🏁 PARA ONDE VAI", ft.Column([own_dest_city_dd, own_dest_comp_dd])),
-        ], spacing=20),
-        create_section("📦 SELECIONE A CARGA", ft.Row([own_cargo_dd], spacing=20)),
-        ft.ElevatedButton("GERAR PARA MEU REBOQUE", icon=ft.icons.LOCAL_SHIPPING, bgcolor="#2196F3", color="white", height=60, width=940)
-    ], spacing=20)
-
-    main_tabs = ft.Tabs(
-        selected_index=0,
-        tabs=[
-            ft.Tab(text="MERCADO DE FRETES", icon=ft.icons.ASSIGNMENT, content=ft.Container(mercado_fretes_view, padding=20)),
-            ft.Tab(text="REBOQUE PRÓPRIO", icon=ft.icons.LOCAL_SHIPPING, content=ft.Container(mercado_cargas_view, padding=20)),
-        ],
-        visible=False,
-        expand=1
-    )
-
-    page.add(
-        ft.Column([
-            ft.Row([ft.Icon(ft.icons.LOCAL_SHIPPING, color=PRIMARY_COLOR, size=40), ft.Text("ETS2 CARGO DISPATCHER PRO", size=32, weight="bold")], alignment=ft.MainAxisAlignment.CENTER),
-            ft.Container(height=10),
-            profile_card,
-            ft.Row([realistic_mode_sw, show_all_cities_sw], alignment=ft.MainAxisAlignment.CENTER, spacing=50),
-            ft.Divider(height=20, color="#30363d"),
-            main_tabs
-        ])
-    )
+    page.add(ft.Column([ft.Row([ft.Icon(ft.icons.LOCAL_SHIPPING, color=PRIMARY_COLOR, size=40), ft.Text("ETS2 CARGO DISPATCHER PRO", size=32, weight="bold")], alignment=ft.MainAxisAlignment.CENTER), ft.Container(height=10), profile_card, ft.Row([realistic_mode_sw, show_all_cities_sw], alignment=ft.MainAxisAlignment.CENTER, spacing=50), ft.Divider(height=20, color="#30363d"), main_tabs]))
     
     profiles = save_manager.list_profiles()
     if profiles: profile_dd.options = [ft.dropdown.Option(p.id, p.name) for p in profiles]
