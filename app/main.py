@@ -5,7 +5,7 @@ from app.services.cargo_service import CargoService
 from app.services.save_manager import SaveManagerService
 from app.services.sii_native import SiiNativeService
 from app.models.cargo import City, Company, Cargo
-from app.utils.city_database import CITY_DATA, calculate_distance, get_city_companies
+from app.utils.city_database import CITY_DATA, calculate_distance, get_city_companies, BRAZIL_CITIES_IDS
 from app.utils.cargo_database import CARGO_MASTER_LIST, get_cargo_icon
 from app.utils.company_database import COMPANY_RULES, GENERIC_COMPANIES
 
@@ -51,7 +51,14 @@ def main(page: ft.Page):
             page.update()
 
     def update_city_dropdowns():
-        all_cities_objs = [City(f"city.{cid}", data["name"], []) for cid, data in CITY_DATA.items()]
+        # Filtra cidades pela região detectada (EU ou BR)
+        target_region = "BR" if is_brazil_map else "EU"
+        
+        all_cities_objs = [
+            City(f"city.{cid}", data["name"], []) 
+            for cid, data in CITY_DATA.items() 
+            if data["region"] == target_region
+        ]
         all_cities_sorted = sorted(all_cities_objs, key=lambda x: x.name)
         
         if show_all_cities_sw.value:
@@ -64,17 +71,16 @@ def main(page: ft.Page):
         page.update()
 
     def update_comp_dd(city_id, dropdown):
-        # 1. Tenta pegar empresas do scanner (save)
+        # 1. Scanner (Save)
         comp_ids = city_company_mapping.get(city_id, [])
-        
-        # 2. Se não achou no save, usa o mapeamento mestre daquela cidade
+        # 2. Banco Mestre (Se não tiver no save)
         if not comp_ids:
             comp_ids = get_city_companies(city_id)
         
-        # 3. Filtragem por Realismo
+        # 3. Filtragem Realismo
         if realistic_mode_sw.value:
             valid_comps = [c_id for c_id in comp_ids if c_id in COMPANY_RULES]
-            if not valid_comps: valid_comps = [list(COMPANY_RULES.keys())[0]] # Fallback
+            if not valid_comps: valid_comps = [comp_ids[0]] if comp_ids else ["itcc"]
         else:
             valid_comps = comp_ids
 
@@ -104,8 +110,10 @@ def main(page: ft.Page):
         try:
             save_path = save_manager.base_path / "profiles" / profile_dd.value / "save" / save_dd.value / "game.sii"
             content = sii_native.decrypt_save(save_path)
+            
             discovered_cities_ids = sii_native.extract_cities(content, known_city_ids=[f"city.{cid}" for cid in CITY_DATA.keys()])
-            is_brazil_map = any(cid.replace("city.", "") in BRAZIL_CITIES_LIST for cid in discovered_cities_ids)
+            # Detecção de Mapa Baseada no Save
+            is_brazil_map = any(cid.replace("city.", "") in BRAZIL_CITIES_IDS for cid in discovered_cities_ids)
             
             companies_found = sii_native.extract_companies(content)
             city_company_mapping = {}
@@ -123,7 +131,7 @@ def main(page: ft.Page):
             update_city_dropdowns()
             profile_card.visible = False
             main_tabs.visible = True
-            page.snack_bar = ft.SnackBar(ft.Text("✅ Save carregado com sucesso!"), bgcolor=SUCCESS_COLOR)
+            page.snack_bar = ft.SnackBar(ft.Text(f"✅ Mapa {'BRASILEIRO' if is_brazil_map else 'EUROPEU'} carregado!"), bgcolor=SUCCESS_COLOR)
             page.snack_bar.open = True
             page.update()
         except Exception as err:
@@ -135,7 +143,6 @@ def main(page: ft.Page):
     dist_text = ft.Text("📏 Distância: 0 KM", color="cyan", weight="bold", size=16)
     own_dist_text = ft.Text("📏 Distância: 0 KM", color="cyan", weight="bold", size=16)
     
-    BRAZIL_CITIES_LIST = ["sao_paulo", "curitiba", "porto_alegre"] # Simplificado para detecção
     realistic_mode_sw = ft.Switch(label="Respeitar mercado logístico", value=False, active_color=PRIMARY_COLOR)
     show_all_cities_sw = ft.Switch(label="Somente descobertas", value=False, on_change=lambda _: update_city_dropdowns())
     
